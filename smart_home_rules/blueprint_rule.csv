@@ -1,0 +1,576 @@
+id,content
+0,Send a notification when there is new weather alert form MeteoAlarmEU.
+1,Turn on the humidifier and turn off the AC when humidity is below 30%.
+2,Create automations for The Button by Fibaro using the ZWave JS integration.
+3,When motion is detected then take a snapshot.
+4,Start the vacuum cleaner at 9 am.
+5,Renew Certificate when due date is below given value.
+6,Automate your LidlLivarnoLux 4Button Remote Switch using ZHA events.
+7,Notification to close windows if it is cold outside.
+8,Play music when sunset.
+9,Create automations for the Inovelli FanSwitch combo
+10,Trigger actions with a Shelly Button1 from MQTT.
+11,Start the heating when the room is occupied.
+12,Create automations for the Inovelli Red Series LZW31SN Dimmer using the ZWaveJS integration.
+13,If the temperature drops below 68 degrees fahrenheit, then turn on the heater.
+14,Turn on a light when motion is detected with Pyscript.
+15,Turn on heating for a given amount of time.
+16,Turns a light off after an allotted time.
+17,This automation blueprint sends a notification on high energy price.
+18,This automation blueprint sends a notification on high energy price.
+19,Make an announcement over Amazon Echo devices when the doorbell is pushed.
+20,Set a maximum volume for your media player.
+21,Sets a Thermostat to a specifc temperature at a certain time everyday.
+22,Turn on scene if illuminance will gow under a specific illuminance and if in specific time frame.
+23,Control media players with an IKEA five button remote.
+24,Notify telegram that Home Assistant has successfully started.
+25,Once a device has been in a defined status for a period of time, toggle its status.
+26,Turns a switch off after an allotted time.
+27,Update device position after it was used or when it was used with the physical connected toggles.
+28,When a button is pressed, the defined actions will be executed.
+29,Time based volume control of you media devices.
+30,Create automations for the Aeotec ZW130 WallMote Quad using the OZW.
+31,Tranfer a value from HA to IHC.
+32,Keeps only a single light or switch in a group on at a time. If one lightswitch is turned on while another is already on, turn the first one off.
+33,Control lights with an IKEA SYMFONISK from the Deconz integration.
+34,Turn lights off at defined time.
+35,Control anything using MyHome CEN+ commands.
+36,Send a mobile app notification when Washing or Drying has finished.
+37,Perform actions on light when button is clicked.
+38,Control on off switch from IKEA Tradfri.
+39,Use this blueprint to create automations based on button presses for.
+40,Dim and adjust color temperature of lights progressively throughout the evening.
+41,Factory resets IKEA bulbs for repairing with a ZigBee Hub.
+42,Create automations for the Inovelli Gen 1 NZW30SN switch using the OZW integration.
+43,Runs an internet speed test at a convenient time just once a day.
+44,This blueprint will send a Cloud TTS message when a devices battery.
+45,Send a notification to a device when a person leaves a specific zone.
+46,When a button is pressed, the defined actions will be executed.
+47,If a window is opened while its blind is closing, reopen the blind.
+48,Create automations for the Inovelli Red Series LZW31SN Dimmer using the OZW integration.
+49,Control anything using Xiaomi Aqara WXKG12LM (single button) remote.
+50,Control lights with an Ecosmart 4button Zigbee remote.
+51,Sets a climate target to a specifc temperature at a set time everyday. The target can be one or multiple areasentitiesdevices.
+52,Sends a target temperature from a thermostat to a climate target (radiators) which can be one or multiple areasentitiesdevices.
+53,If door opens then send notification.
+54,Control anything using Aqara Magic Cube.
+55,If motion is detected then turn on porch light.
+56,Control anything using Aqara Opple four button remote.
+57,If the temperature outside is below 65 degrees fahrenheit, then turn on the heater.
+58,Control anything using Aqara Opple six button remote.
+59,If the temperature goes above 75 degrees, then turn on the air conditioner.
+60,Turn on a switch when motion is detected.
+61,If motion is detected then turn on the hallway lights.
+62,Control anything using IKEA wireless onoff switch.
+63,Control anything using IKEA five button remote.
+64,Automation blueprint for many zwave switches with updown button.
+65,Create automations for the ZRC90 8 buttons wall remote using the OZW integration.
+66,Emulate the behaviour of an Amazon Echo Link Amp by using your existing Amp and an Amazon Echo device connected to your Amp.
+67,Freely customizable actions for Lutron Caseta Pico buttons.
+68,Control lights with an Jung ZLLA5004M Switch from the deCONZ integration.
+69,If it's a weekend, then play relaxing music at 9 am.
+70,Control Yeelight 650 by Xiaomi button.
+71,Use MQTT to update all connected Shellies to the latest firmware. Please select the day you want the automation to check for new firmware updates.
+72,Create automations for any button for zwave js integration.
+73,Automate your Tuya TS0043 3 button remote switch.
+74,Notify matrix that Home Assistant is shutting down.
+75,Notify matrix that Home Assistant has successfully started.
+76,If bedroom door opens, then turn on the AC.
+77,Use the Philips Hue Dimmer Switch as an Alarm Keypad.
+78,Turns a switch off after an allotted time.
+79,If the front door opens, then play a chime sound.
+80,Sends an update to a selected notifier when an update of an addon is available.
+81,Dual Relay BlindsShades control.
+82,Raise heater temp when opening window and turn on with delay.
+83,Turns On Light when Twitch Stream Begins.
+84,Turns on a light when the cabinet is openend, turns it off again onces it is closed.
+85,Remap the dimming keys to brightness presets without using scenes.
+86,Send a notification when theres an update availiable for Home Assistant.
+87,After speaker has been turned off its volume reset to 0.
+88,Sends notification of which entity has lost connection.
+89,Create automations for the HANK Electronics HKZWSCN04 4 button scene controller using the ZWAVE integration.
+90,If charging anything and charging is done the power consumtion will fall under a set level and the switch will turn off so your charging devices stop loading to save battery life.
+91,If the front door is unlocked, then send a notification to my phone.
+92,After speaker has been turned off for x minutes it will has its volume reset to 10.
+93,Turn on a light when motion is detected within a certain time contraint.
+94,When a button is pressed, the defined actions will be executed.
+95,Automations helper for the Zooz ZEN30 Double Switch.
+96,Switch to dark theme when the sun goes down.
+97,Cycle through a list of 8 different scenes using an input_number.
+98,Cycling through these values can be done using a slider or assigning increase, decrease and set services of this input_number to a button.
+99,Trigger actions from button presses.
+100,Automate your Xiaomi Aqara Wireless Mini Remote Switch using ZHA events.
+101,Create automatisation for the ZDB5100 using zwavejs integration.
+102,Renew Certificate when due date is below given value.
+103,Aqara Opple switch 3 bands.
+104,Automate your LeTV 8 button remote of FreePad firmware.
+105,Automate your Xiaomi Aqara Wireless Mini Switch using ZHA events.
+106,Synchronize the onoff state of 2 entities.
+107,Automate your Loratap SS600ZB  Tuya TS0043 Zigbee Wireless Switch via Zigbee2MQTT.
+108,Create automations for the Aeon Labs Minimote.
+109,If bedroom temperature reaches 75 degrees fahrenheit, then turn on the air conditioner.
+110,Control anything using IKEA two button remote.
+111,Send actionable notifications to an Android device, when an entity enters a zone.
+112,Turn on a light when door is opened.
+113,Automate your LoraTap Tuya TS0043 3 button remote using deCONZ events.
+114,Reduce the volume of media player to the default level.
+115,Sets a Thermostat to a specifc temperature to a set in time everyday.
+116,If climate entity is off, it is normally not accepting temperature updated.
+117,Control anything using Xiaomi Aqara WXKG11LM remote.
+118,Send a notification if a task was not performed within a given time frame.
+119,Set a device tracker to home when a known person is seen.
+120,Control anything using Ikea E1810 Tradfri Remote Control.
+121,When a timer of an Echo or other Alexa device has expired, the defined actions will be executed.
+122,Set volyme to different level on different times a day.
+123,Automate your Tuya TS0044 4 button scene switch using deCONZ events.
+124,Notify users of high sensor value detection (e.g. CO2, temp, PM2.5).
+125,If it rains then close the windows.
+126,Send a notification to a device when a person enters a specific zone.
+127,Control your Shelly shutters with the IKEA Tradfri onoff switch.
+128,Create automations for the Aeotec ZWA003 NanoMote Quad using the zwave.
+129,Create automations for the NanoMote Quad using ZWaveJS Integraetion.
+130,If the front door is opened, then turn on the porch light.
+131,This automation blueprint notifies when a SSL certificate is about to expire
+132,If doorbell pressed then speak someone is at the door.
+133,If the front door is locked, then turn on the security system.
+134,If the front door is opened, then send me a notification.
+135,Notify users of high sensor values, and again when value drops below acceptable level.
+136,Perform actions when Aeotec WallMote Duo buttons are interacted with.
+137,Automate your Tuya 2Button Scene Switch using ZHA events.
+138,Automate your Tuya TS0043 3 button remote.
+139,If motion detected then turn on security camera.
+140,Turn a switch off after timer.
+141,If the temperature exceeds 75 degrees, then adjust the thermostat to 70 degrees.
+142,Automate your Xiaomi Aqara Wireless Remote Switch using ZHA events.
+143,Create automations for the RGBGenie.
+144,Create automations for any button using zwave js integration.
+145,If motion detected then turn on smart security camera.
+146,Set the value of various helpers with a numeric value of todays date to use in Automation
+147,If bedroom door is open for more than 5 minutes, then receive a notification.
+148,Control 3 lights with an Aqara Opple switch 3 bands.
+149,If the front door is left unlocked after 10 pm, then send a notification to my phone.
+150,Use the individual buttons of the Hue Dimmer Switch to control an action by either a click or a long press.
+151,Specify actions when pico buttons are pressed released.
+152,Perform actions with the Sonoff SNZB01 Button.
+153,Use your Sengled E1EG7F four button zigbee remote on ZHA.
+154,Depending on input_select state a diverent lightprofile should be used when turning on the light.
+155,Control two lights with an Aqara Opple switch.
+156,Factory resets Osram Zigbee bulbs for repairing with a ZigBee Hub.
+157,Control anything using IKEA wireless dimmer.
+158,Perform actions with the Mijia Wireless Switch.
+159,Detect  moisture device class and if so execute an action.
+160,Perform action when moisture sensor turns wet.
+161,Control TVs that are connected to a Chromecast based on status.
+162,Control lights with an IKEA five button remote.
+163,Perform an action when a person leaves or enters a specific zone.
+164,Control lights with a RGBGenie ZB 50085028 RGBW or ZB5004 Dimmer 4 Zone Remote v1.0.
+165,Control anything using IKEA wireless onoff switch.
+166,Control anything using Lutron Connected Bulb Remote.
+167,Sends a camera snapshot when on Input Boolean state change.
+168,Create automations for the Inovelli NZW30S Switch using the ZWaveJS integration.
+169,Control devices with an Ecosmart 4button Zigbee remote
+170,Create Automations for Emulated Roku Keypresses
+171,Keep the selected switch on, even when it is turned off.
+172,Turn on the air conditioner when the temperature is above 95 degree.
+173,Creates a sleep trainer using an RGB(w) light to
+174,Dimming lights when turning on the TV
+175,If the ligh is set in manual mode, then keep the light brightness to 100%.
+176,Define a timed light with a delayed turn off, with the ability to lock the light on using an Tasmotta.
+177,Schedules pool pump based on its capacity and pool size.
+178,Create automations for Hank Electronics  Technisat 4button remote using the ZWaveJS integration.
+179,Create automations for the Fibaro Keyfob.
+180,Enables and disables the Fully Tablet Screen and Brightness according to an external sensor.
+181,turn off an activated switch after a specific delay.
+182,Turn on a light scene when motion is detected.
+183,If motion is detected then turn on the security camera.
+184,If motion is detected, then turn on smart plug.
+185,If door is left open for more than 5 minutes, then turn off the air conditioning.
+186,This Blueprint changes the state of a Input_select depending on the time of the day and of today ore tomorrow ist a day off.
+187,Turn off a switch that has been left on with no motion.
+188,Announce incoming caller ID on Google Home.
+189,Create automations for the Aeon Labs WallMote Quad.
+190,Trigger actions from button presses.
+191,When a button is pressed, the defined actions will be executed.
+192,This automation blueprint creates a camera snapshot when the doorbell was activated.
+193,Create automations for the Homeseer HSWD100+ Dimmer using the ZWaveJS integration.
+194,Send a notification if a networked device loses connectivity.
+195,If temperature drops below 70 degrees fahrenheit then turn on the heater.
+196,Make an announcement over Amazon Echo devices when the doorbell is pushed and send a camera snapshot to your app.
+197,Turn on a light or switch based on motion and illuminance.
+198,Turn off the smart plugrelay after the device is charged to a given percent.
+199,If the front door is unlocked, then send a notification to my phone.
+200,Control a Light by the state of the door, with a turn off condition to mimic occupancy.
+201,This is a blueprint to turn off a smart plug after the power draw has been low for a certain time.
+202,If the doorbell rings, then send a notification to my phone.
+203,If the front door is unlocked, then lock the front door.
+204,If the temperature is below 68 degrees fahrenheit, then turn on the heater.
+205,An automation blueprint that reduces the set temperature of your climate device or group if a window sensor is open for more than the preset wait time.
+206,If the temperature is above 75 degrees fahrenheit, then turn on the air conditioning.
+207,Control lights with an IKEA Symfonisk sound controller.
+208,Switch a light onoff by pressing a button.
+209,Catch event ios.notification_action_fired that is fired when you press an actionable notification, and choose an action based on the actionName.
+210,Announce status change of window on speaker.
+211,If someone enters the room, then turn on the ceiling fan.
+212,PIR triggers light on and off.
+213,Perform one or more actions after a sleep timer expires.
+214,Send a notification via the LovelaceUi with the help of a input select and input text. Uses the TTS component from Alexa Media Player which can be installed from the Home Assistant Community Store.
+215,Send a notification via the LovelaceUi.
+216,Control media with an IKEA Symfonisk sound controller.
+217,If garage door is left open for more than 1 hour then send notification.
+218,Control anything using Tradfri Shortcut Button remote
+219,Blueprint for the Nodon CWS3101 Wall Switch using the zwave_js integration.
+220,Pauses movie playback when a certain light is turned on.
+221,If the front door is opened, then send a notification to my phone.
+222,Updates the manual status of 910 locks.
+223,Control lights with a Philips Hue Dimmer Switch.
+224,Control anything using Xiaomi Mijia remote.
+225,Turn on heater when openingclosing window.
+226,Turn off heater when opening window and turn on with delay.
+227,If motion detected then turn on security camera.
+228,Raise heater temp to 26 when opening window and bring back with delay.
+229,turn off heater when opening window and turn on with delay.
+230,Use the individual buttons of the Hue Tap switch to control an action by a tap.
+231,Perform actions on various scenes supported by the Inovelli Red OnOff.
+232,If temperature exceeds 25°c then turn on the air conditioning.
+233,Creates an MQTT discovery entry for every entity streamed via MQTT Statestream.
+234,Regularly test all sensors with lqi unit of measurement (linkquality Z2M sensors) to detect
+235,If humidity is higher than 60%, then turn on the dehumidifier.
+236,Set Home Assistant scenes with IKEA Tradfri on switch.
+237,When a tag is scanned, start the associated music on the selected Alexa media player
+238,If motion detected in living room then turn on tv"
+239,If the temperature drops below a certain degree, then turn on the heater.
+240,Automate your Tuya 4Button Scene Switch TS004F via Zigbee2MQTT.
+241,Making Home Assistant’s Presence Detection not so Binary
+242,Turn on a light when motion is detected and it is dark enough (or night).
+243,Pause SABnzbd downloads whilst external users are watching Plex
+244,This automation will let you setup a weekly  timebased scheduled task.
+245,Control anything using Aqara Magic Cube.
+246,Control lights with a iluminize 511.344 RGBW Remote
+247,Make an announcement over Alexa andor Google devices when the doorbell is pushed and send a camera snapshot to your app.
+248,Control lights with a Tint Remote v0.2
+249,Control anything you want with Aqara Opple switch 2 bands (WXCJKG12LM).
+250,The AllinOne remote formuse in the kitchen and the livingroom.
+251,Charges phone until a percentage and then turns off until percentage
+252,Update a counter when the watermeterkit.nl sensor gets updated
+253,Automate the Sonoff Zigbee WB01
+254,If motion detected then turn on security camera.
+255,Set TRV temperature based on 6 timeframes and for 4 rooms (TRVs)
+256,Get advanced notification and history for medication reminder
+257,Send notification on your preferred channel when there is a new Home Assistant alert published
+258,Automate your Xiaomi Aqara Wireless Mini Switch using ZHA events.
+259,Create automations for the Inovelli Red Series LZW30SN Switch using the ZWaveJS integration.
+260,Freely customizable actions for Philips Hue Dimmer Switch buttons.
+261,Perform action based on code slot that unlocked door
+262,If the front door is unlocked, then send me a notification on my phone.
+263,Control lights with a Philips Hue Dimmer Switch.
+264,If temperature reaches 70 degrees fahrenheit, then turn on the air conditioning.
+265,Automate your Sonoff SNZB01 Zigbee Wireless Switch via Zigbee2MQTT.
+266,Zooz ZEN34 Switch using the ZWaveJS integration.
+267,If the temperature drops below 68 degrees, then turn on the heater.
+268,If the temperature is above 80 degrees, then turn on the air conditioner.
+269,Automate your Linkind 5Key Remote Control using ZHA events.
+270,Automate your Xiaomi Mijia Wireless Round Remote Switch using ZHA events.
+271,Automate your Tuya 4Button Scene Switch via Zigbee2MQTT.
+272,This blueprint will help you setup your Linkind 5button remote to execute action(s) for each button.
+273,Perform action based on code slot that unlocked door.
+274,Create an automation for the Remotec ZRC90 8 button remote using ZWAVEJS integration.
+275,Perform actions when a Fibaro dimmer buttons is pressed.
+276,Create a full snapshot backup at a given time every day.
+277,Resets bulb(s)s color and brightness when it turns on. Although Home.
+278,Control lights with a Philips Hue Dimmer Switch.
+279,Create automations for the NanoMote Quad using ZWaveJS Integraetion.
+280,Sets a climate entity to a specifc temperature at a set time everyday.
+281,Play music when a washing machine starts.
+282,If front door opens then alert me.
+283,Turn off room lights if ceiling light is swiched on (saving status and attributes) and restore status when ceiling light is swiched off.
+284,If the front door is unlocked, then send a notification to my phone.
+285,If weekday is monday, then play my monday playlist on spotify.
+286,If bedroom door opens then turn on hallway light.
+287,Automations helper for the Zooz ZEN27 S2 Dimmer Switch.
+288,Create automations for Zooz Zen Switches using scenes.
+289,Sends an update to a selected notifier when an update of an addon is available.
+290,Control anything using Aqara Wireless Switch.
+291,If temperature is greater 75 degrees fahrenheit then turn on the air conditioner.
+292,Schedule to check the addition of state persistence across disruptive events.
+293,Automate the Immax NEO 070872 Zigbee Remote Control.
+294,Control anything using Xiaomi WXKG12LM remote.
+295,Control cover with IKEA Tradfri ONOFF button.
+296,Control on off switch from IKEA Tradfri.
+297,If the temperature drops below 68 degrees fahrenheit, then increase the thermostat by 2 degrees.
+298,If the weather is rainy, then text me a reminder to take an umbrella before leaving the house.
+299,Automate your Xiaomi Mijia Wireless Round Remote Switch using Deconz events.
+300,Turn on and turn off your fan according to humidity and (assumed) user presence.
+301,If it's raining then close the windows.
+302,Blueprint on opening the door from the Dahua DMSS app in combination with a Nuki Door Lock.
+303,Create automations for Swipe by Fibaro using the ZWave JS integration.
+304,Control light entities with an IKEA five button remote (the round ones).
+305,Bind 2 light entities together to act in unison.
+306,Automate your Samsung SmartThings button using ZHA events.
+307,Update the Nuki integration by listening to a webhook request from the bridge.
+308,Control lights with an IKEA five button remote.
+309,Turn on a light when motion is detected and sunset.
+310,Turn on a light when motion is detected On At Sunset.
+311,Automate your Xiaomi Mijia Wireless Round Remote Switch.
+312,Make an announcement over Google devices when the doorbell is pushed and send a camera snapshot to your app.
+313,If the temperature is above 80 degrees fahrenheit, then turn on the air conditioner.
+314,Setup actions for three functions of the SONOFF Zigbee button with.
+315,If the temperature is below 70 degrees, then turn on the heater.
+316,Control anything using Aqara Magic Cube
+317,Turn on a light, switch, scene, script or group based on motion detection.
+318,This blueprint is for the IKEA STYRBAR square, 4button remote when used with zigbee2mqtt.
+319,Set external measured temperature to Danfoss Ally TRV
+320,Scene Switch TS004F via Zigbee2MQTT.
+321,Check the Door lock status and a garage door.
+322,Control the charger for a permanently mounted tablet control panel.
+323,Control anything using Aqara Opple four button remote.
+324,Control a light with white spectrum and dimming via a Ikea Styrbar Remote connected trough ZHA.
+325,Turn on a switch when other one is turend on and vice versa.
+326,If motion detected then turn on hallway lights.
+327,If the motion sensor detects movement, then turn on the porch light.
+328,Turn a fan on and off based on the difference between a humidity sensor and a baseline.
+329,Sync external tempature sensor with TRV tempature.
+330,Living room temperature Syncu003cbru003e.
+331,If the front door is unlocked, then send a notification to my phone.
+332,Sync external tempature sensor with TRV tempature
+333,Sends a daily notification with a water reminder for plants, until the plants have been watered.
+334,If smoke is detected, unlock the door and start fan.
+335,Update the state of the Wyze Robot Vacuum periodically with the option of less frequent updates while it is not running.
+336,Create automations for the Aeotec ZWA003 NanoMote Quad
+337,Tap to turn off camera
+338,Flashing lights via on off and delay and finally restore the previous
+339,Turn on plugs if door unlocked.
+340,Turn on camera if lights are off.
+341,Create automations for The Button by Fibaro using the ZWave JS integration.
+342,If fan runs, turn on water flow switch.
+343,Switch a light onoff by pressing a button.
+344,Create automations to react to double taps from supporting GE switches.
+345,Autodim GE light switches that support double taps.
+346,Sends a notification via the notification engine if there is an alarm.
+347,Turn off smart plugs after a certain amount of time.
+348,Automate your Tuya 2Button Scene Switch using ZHA events.
+349,Control lights with a Muller Licht Tint RGB Remote.
+350,Turn off camera.
+351,Control lights with a Lutron Aurora Dimmer.
+352,Control anything using Aqara Opple two button remote.
+353,Check the humidity.
+354,Send a notification when theres risc of icy windows on cars
+355,Automate your Tuya 4Button Scene Switch via Zigbee2MQTT.
+356,Send a notification whenever an issue is opened or closed from the Issue Tracker.
+357,Mute volume of smartspeaker when an advertisement is detected.
+358,Sets target temperature depending on second temperature sensor.
+359,Turn up heating when motion is detected.
+360,If the front door is opened, then send a notification to my phone.
+361,Send a notification when theres an update availiable for Home Assistant.
+362,Turn on a light when door is opened.
+363,Send an announcementtts via Alexa when somebody calls the landline.
+364,Philips Hue v2 Smart Dimmer Switch and Remote (RWL022) using Zigbee Home Automation
+365,Dim and adjust color temperature of lights progressively throughout the evening.
+366,If motion is detected then turn on security camera.
+367,An automation blueprint that reduces the set temperature of your climate
+368,Automation blueprint for ZWave dimmer switches with updown buttons
+369,Turn a light on and off based on detected motion
+370,Create automations for the Homeseer HSWD200+ Dimmer using the ZWaveJS integration.
+371,If the motion is detected, then turn on the security camera.
+372,An automation that turns off a running your climate device for exmple a heater
+373,An automation that turns off your climate device for exmple a heater
+374,Control anything using Aqara Opple two button remote
+375,Create or update an entity for a given Bluetooth MAC address with the
+376,Use Google TTS to announce when a person arrives or departed from a zone
+377,Create automations for the Inovelli Red Series LZW30SN Switch using the ZWaveJS integration.
+378,Turn a light OnOffUpDown based on binary sensor
+379,Temperature calibration for Zigbee valve TS0601, according to external temperature sensor
+380,Sync external tempature sensor with TRV tempature
+381,If bedroom temperature is above 75 degrees, then turn on the ac.
+382,If the front door is opened, then turn on the hallway light for 5 minutes.
+383,Turn on the following lights at sunset.
+384,Automations to use the Ring Keypad with an Alarm Panel integration.
+385,If the temperature is above 80 degrees fahrenheit, then turn on the air conditioning
+386,Dimming lights when turning on the TV
+387,Control your heating with options for group home, if temperature is below 72 degree.
+388,Automate your Xiaomi Mijia Wireless Round Remote Switch using ZHA events.
+389,This blueprint is for the IKEA onoffremote switch when used with zigbee2mqtt.
+390,Controll Home Assistant Light entities from KNX switching and relative dimming telegrams.
+391,Turns on the air conditioner when the temperature is above 90 degree.
+392,Dim the lights when TV is on.
+393,Turns on the humidifier and turns off the AC when humidity is below 30%.
+394,A script that gets my TV on and Reciever setup to correct mode.
+395,Start the vacuum cleaner at 9 pm everyday.
+396,Turn on the heating when the temperature is blow 70 degree.
+397,Play music at 5 pm everyday.
+398,This will accept any 5 button presses or binary sensor detections and use them to preform an action.
+399,This sets the fan speed for a 3 speed fan (such as an IFAN03IFAN04) based on a room temperature.
+400,Bind 2 entities together to act in unison (selected entites must all support the same state values)
+401,Bind 2 light entities together to act in unison
+402,Synchronize the onoff state of 2 entities
+403,Bind 3 entities together to act in unison (selected entites must all support the same state values)
+404,Sends TTS message to a media_player when door is oppened with the person
+405,This is for the 5 button picos that have the following model:
+406,Turn on the primary light when the secondary is turned on.
+407,Turn off the secondary light when the primary is turned off.
+408,Turn off the air conditioner when windows are closed.
+409,If smoke is detected, turn on the water valve and start fire alarm.
+410,When the water leak is detected, then close the water valve.
+411,Turn lights on if motion is detected.
+412,Scene u0026amp device control using Aqara two button remote
+413,Control your deCONZ lights with IKEA Tradfri onoff switch
+414,Create automations for the Zooz ZEN32 switch using the ZWave JS integration.
+415,Open the windows if indoor temperature is above 80 degree.
+416,Cast a lovelace view to a Google Hub.
+417,Turn on lights when sunset
+418,Start alarm when sun rises.
+419,Turn on the air conditioner when temperature is above 100 degree.
+420,Send a notification to a device when a person enters a different zone.
+421,Telegram Notification All Zones
+422,If smoke is detected, unlock the door.
+423,Lock the door after 10 pm.
+424,Ensure the Tado smart valve has the temp of a separate sensor.
+425,Turn off living room light when bedroom light is on.
+426,If the living room light is turned off,then turn on bedroom lights.
+427,Turn off the smart plugrelay after the device is charged to a given
+428,Control any light using the Ecodim remote on ZHA
+429,Turn off heater after showering.
+430,Control anything using Aqara Magic Cube.
+431,Automate your Tuya 4Button Scene Switch using ZHA events.
+432,Automate your LoraTap Tuya TS0044 4 button remote using deCONZ events.
+433,Synchronize the onoff state of 2 entities
+434,Bind two switches together to act in unison
+435,If motion is detected at the door and home is in armed state, then send a notification.
+436,Control anything using IKEA wireless onoff switch.
+437,Blueprint for Home Assistant for the Hue Wall Switch using zigbee2mqtt.
+438,Control anything from shelly SW.
+439,Automate your Xiaomi Aqara Wireless Mini Switch using ZHA events.
+440,If windows are open, send me a notification.
+441,Pauses HVAC when windowsdoors open resumes last state once closed
+442,Control anything with the ikea shortcut button
+443,If windows are open and the weather is rainy, then close the windows.
+444,Control anything using Aqara Opple six button remote
+445,A first pass at controlling bathroom fans by checking the change in humidity and being able to enter your own guesses for certain thresholds.
+446,Control any light with the Lutron Aurora remote, integrated by Zigbee2MQTT.
+447,Save a camera snapshot with archive when motion is detected
+448,Dim the lights to 80%.
+449,A wakeup light alarm with a brightness and color temperature.
+450,Automate your Xiaomi Aqara Wireless Remote Switch using ZHA events.
+451,Create automations for the HANK Electronics SCN04 4 button scene controller using the ZWAVE JS integration.
+452,Vacation Lighting  Replay Sensors to Light Behavior
+453,Turn on a light scene when motion is detected.
+454,Turn off a light scene when bedroom door is locked.
+455,If the temperature rises above a certain level, turn on the air conditioning.
+456,If no motion is detected in a room for 30 minutes, turn off the lights in that room.
+457,Turn on the outdoor lights when motion is detected in the backyard after sunset.
+458,If the temperature in the house goes above a certain level, turn on the air conditioning.
+459,If no motion is detected for 30 minutes in the living room, turn off the tv and lights.
+460,When the temperature drops below a certain point, turn on the heating system.
+461,If motion is detected in the living room, turn on the tv and set the volume to a specified level.
+462,If the temperature inside the house reaches a certain level, turn on the ac.
+463,Turn on the porch lights when motion is detected outside.
+464,If it's a sunny day and the temperature inside the house is higher than a set value, close the blinds to prevent the house from heating up further.
+465,If there's no motion in the living room for 30 minutes, turn off the tv and the lights.
+466,When the temperature outside drops below a certain threshold, turn on the heating system.
+467,If no motion is detected for 15 minutes in the living room, turn off the tv and any other electronics.
+468,When the temperature inside the house reaches a certain level, turn on the air conditioning.
+469,When the sun sets, turn on the outdoor lights.
+470,If the temperature in the living room is lower than 68°f, turn on the heater.
+471,If the temperature in the living room exceeds a certain level, turn on the air conditioner.
+472,Send a push notification when someone is at the front door.
+473,When the temperature in a room exceeds a certain value, turn on the ceiling fan to lower the temperature.
+474,When motion is detected on the front porch at night, turn on the porch light.
+475,If the temperature rises above a certain level, turn on the air conditioning system.
+476,Turn on the coffee maker and kitchen lights every morning at 7 am.
+477,If there is no motion detected in a room for 10 minutes, turn off the lights.
+478,If motion is detected on the back porch after sunset, turn on the back porch lights.
+479,If the smoke detector is triggered, turn on all lights and send a push notification to the owner's smartphone.
+480,If the temperature in the living room goes above 75 degrees, turn on the ceiling fan.
+481,If no motion is detected in a room for a certain amount of time, turn off the lights in that room.
+482,If there is no motion detected in the living room for 20 minutes, turn off the tv and other media devices.
+483,If the temperature rises above a certain level, turn on the ceiling fan.
+484,If the temperature outside drops below a certain level, turn on the space heater in the living room.
+485,If the temperature exceeds a certain level, turn on the air conditioning system.
+486,When the temperature in the living room exceeds a certain degree, turn on the ac automatically.
+487,If there is no movement in the room for 15 minutes, turn off the lights.
+488,If the temperature drops below 68 degrees fahrenheit, turn on the heater.
+489,If no motion is detected in a room for 30 minutes, turn off the lights in that room.
+490,When the smoke detector is triggered, have all the lights turn on in the house.
+491,If motion is detected in the living room during the day, turn on the lights in the living room.
+492,If the temperature in the house drops below a certain level, turn on the heating system.
+493,When motion is detected in the living room, turn on the tv and set it to the news channel.
+494,If the temperature in the living room exceeds a certain level, lower the blinds to prevent excess heat gain.
+495,When motion is detected in the hallway, turn on the lights in the hallway.
+496,If no motion is detected in a room for a certain period of time, turn off the lights in that room.
+497,If the temperature inside the house rises above a certain threshold, turn on the air conditioning system.
+498,Increase the thermostat temperature by 2 degrees when the outside temperature drops below a certain level.
+499,If the temperature outside drops below a certain threshold, turn on the heating system.
+500,If the temperature in the house is above 75°f, turn on the air conditioning.
+501,If no one is home for a certain amount of time, turn off all non-essential devices and lower the thermostat.
+502,If there's no motion in the living room for 30 minutes, turn off the tv and any connected devices.
+503,If motion is detected in the backyard after sunset, turn on the backyard lights.
+504,Turn on the porch lights when motion is detected after sunset.
+505,If the living room temperature reaches a certain point, turn on the ceiling fan.
+506,When the temperature outside drops below 40°f, turn on the heater in the living room.
+507,Adjust the temperature to a cooler setting when nobody is home during the day.
+508,If no one is in the living room, turn off the tv and dim the lights.
+509,If the temperature in the living room gets too warm, turn on the ceiling fan.
+510,If the temperature outside exceeds a certain threshold, turn on the air conditioning.
+511,If it's after 10 pm and the living room tv has been turned off, dim the lights in the room to a low level.
+512,If there is no sign of motion in a room for 30 minutes, turn off the lights.
+513,When motion is detected on the front porch, turn on the porch light.
+514,If the temperature in the living room exceeds a certain level, turn on the ceiling fan.
+515,When someone rings the doorbell, turn on the porch light.
+516,When the thermostat temperature drops below a set point, turn on the heater.
+517,If the temperature in a room goes above a certain level, turn on the air conditioner.
+518,Turn off the music system and lower the window shades when it starts raining.
+519,If there is no motion detected in a room for a certain amount of time, turn off the lights in that room.
+520,If there is no motion detected in the living room for more than 15 minutes, turn off the tv and any other electronics in the room.
+521,Turn on the porch light when motion is detected at night.
+522,If the living room temperature is above 75°f, turn on the air conditioning.
+523,If the temperature in the living room is above a certain threshold, turn on the air conditioning.
+524,If the motion is detected in the living room, turn on the tv and set it to a specified channel.
+525,When motion is detected in the backyard, turn on the outdoor lights for a set period of time.
+526,Turn on the porch lights when the sun sets.
+527,If the temperature rises above 75 degrees in the living room, turn on the ceiling fan.
+528,If no motion is detected in a room for a specified amount of time, turn off the lights.
+529,If the temperature outside drops below a certain threshold, turn on the heating system in the house.
+530,If motion is detected in the hallway between 9pm and 6am, turn on the hallway light at 30% brightness.
+531,If the temperature outside is above 80 degrees fahrenheit, turn on the air conditioning.
+532,When the temperature exceeds a certain limit, turn on the air conditioner.
+533,If the temperature exceeds a certain threshold, turn on the air conditioning.
+534,When motion is detected in the hallway, turn on the hallway lights.
+535,If motion is detected in the hallway, turn on the hallway lights.
+536,If no motion is detected in the living room for 30 minutes, turn off the tv and all the lights in the room.
+537,When motion is detected on the front porch, turn on the porch light.
+538,When the temperature drops below a certain level, turn on the heating system.
+539,If the temperature exceeds a certain level, turn on the air conditioning.
+540,If the temperature in the home rises above a certain level, turn on the ceiling fan.
+541,When the sun rises, open the motorized blinds.
+542,If no motion is detected in the living room for 30 minutes, turn off the tv and any connected speakers.
+543,If the temperature exceeds 80 degrees fahrenheit, turn on the air conditioning.
+544,When the temperature drops below a certain level, turn on the heater.
+545,If the temperature outside rises above a certain level, turn on the air conditioning.
+546,When a smoke detector is triggered, turn on all the lights in the house.
+547,Turn on the porch light when motion is detected after sunset.
+548,If the temperature outside drops below a certain level, turn on the heating system in the house.
+549,If the temperature rises above 80 degrees, turn on the air conditioning.
+550,When the motion is detected in the living room, turn on the lights.
+551,If a window is opened, turn off the air conditioning in that room.
+552,If the temperature inside the house is above a certain level, turn on the air conditioning.
+553,If the temperature exceeds a certain threshold during the day, turn on the air conditioning system.
+554,If no motion is detected in a room for a certain amount of time, turn off the lights in that room.
+555,If there is no motion detected in the living room for 30 minutes, turn off the tv and any connected devices.
+556,If no motion is detected in the living room for 15 minutes, turn off the tv and other electronics.
+557,If the temperature in the living room rises above 80 degrees fahrenheit, turn on the ceiling fan.
+558,In the morning, open the curtains in the bedroom and turn on the coffee maker.
+559,When motion is detected in the living room, turn on the tv and adjust the lights.
+560,If the indoor temperature rises above a certain level, turn on the air conditioning system.
+561,If no motion has been detected in a room for more than 30 minutes, turn off the lights in that room.
+562,If no motion detected in the living room for 10 mins, turn off the tv and other electronics.
+563,If no motion is detected in the living room for 15 minutes, turn off the tv and the lights.
+564,When the temperature drops below 60°f, turn on the heater.
+565,If the temperature outside drops below a certain degree, turn on the heating system.
+566,When the temperature drops below 60 degrees fahrenheit, turn on the heat in the house.
+567,When the smoke detector goes off, turn on all the lights in the house to help people safely evacuate.
+568,If no movement is detected in the living room for a period of 30 minutes, turn off the tv and any surrounding lights.
+569,When the temperature outside drops below a certain level, turn on the heating system in the house.
+570,If no motion is detected in the living room for 15 minutes, turn off the tv and other electronics.
+571,When motion is detected outside the front door, turn on the porch light.
+572,If the temperature in the house exceeds a certain threshold, turn on the air conditioning.
+573,When the temperature drops below a certain point, turn on the heater.
+574,If motion is detected in the living room after 10 pm, turn on the ceiling fan.

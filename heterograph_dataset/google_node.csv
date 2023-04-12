@@ -1,0 +1,4813 @@
+id,content
+0,Are the lights on in the kids bedroom?
+1,Turn on my lights
+2,Turn off the lights
+3,Is the light on in John's office?
+4,Dim the living room lamps
+5,Turn off the lights in the kids bedroom
+6,Is the air purifier on?
+7,Turn on the air purifier
+8,Stop the air purifier
+9,Turn on Movie Mode
+10,Activate Good Morning
+11,Turn off the kids bedroom lamps
+12,Turn off the lights in the bathroom
+13,Is the light on in John's office?
+14,Turn on my lights
+15,Turn off the lights
+16,Are the lights on in the bathroom?
+17,Lower the fan speed
+18,Make the fan speed lower
+19,Raise the fan speed
+20,Turn on the fan
+21,Make the fan speed higher
+22,What is the fan speed?
+23,Set fan to 5
+24,Turn off the fan
+25,Turn off lights
+26,Turn on lights
+27,Set security to arm
+28,Arm security
+29,Switch off the lights
+30,Mute the speaker
+31,Pause the speaker
+32,Volume up on speaker
+33,Stop the speaker
+34,Make it louder on the speaker
+35,Resume the speaker
+36,Skip ahead on speaker
+37,Turn on the TV
+38,Pause the TV
+39,Volume up on TV
+40,Resume the TV
+41,Mute the TV
+42,Stop the TV
+43,Make it louder on the TV
+44,Open the side door
+45,Is the front door closed?
+46,Raise the AC speed
+47,Stop the AC
+48,What cycle is the AC in?
+49,Lower the AC speed
+50,What is AC mode set to?
+51,What is the AC doing?
+52,Start the AC
+53,What is the AC speed?
+54,Did I set AC to cool?
+55,Set mode on AC to cool
+56,Switch off the lights
+57,Turn on the lights
+58,Turn on the living room lamps
+59,Turn on my lights
+60,Dim the lights in the kitchen
+61,Is the light on in John's office?
+62,Are the lights on in the kitchen?
+63,Stop the AC
+64,What is  AC mode set to?
+65,What is the AC speed?
+66,Make the AC speed lower
+67,What is the AC doing?
+68,Set mode on AC to cool
+69,Lower the AC speed
+70,Start the AC
+71,Raise the AC speed
+72,Turn off the AC
+73,Turn on the lights
+74,Are the lights on in the master bed room?
+75,Turn on the kids bedroom lamps
+76,Turn on my lights
+77,Is the light on in Tyler's room?
+78,Dim the lights in the kids bedroom
+79,Switch off the lights
+80,Turn on the camera
+81,What is  on Baby camera?
+82,Turn On Hallway Camera
+83,Turn off the camera
+84,Is the Babycam On?
+85,Show the Front Door Camera on Living Room TV
+86,Show garage camera
+87,Stop the air purifier
+88,Turn on the air purifier
+89,Is the air purifier on?
+90,Turn on Movie Mode
+91,Activate Good Morning
+92,Dim the lights in the kitchen
+93,Is the light on in John's office?
+94,Turn on my lights
+95,Are the lights on in the master bed room?
+96,Turn off the kids bedroom lamps
+97,Dim the lights
+98,Turn on TV
+99,Turn off lights
+100,Switch off the lights
+101,Set the temperature to 65 degrees
+102,Set the thermostat to 68 degrees
+103,What is the temperature inside?
+104,Turn up the thermostat
+105,Turn down the thermostat
+106,Activate Good Morning
+107,Turn on Movie Mode
+108,Set the temperature to 65 degrees
+109,Set the thermostat to 68 degrees
+110,Turn down the thermostat
+111,What is the temperature inside?
+112,Turn on the lights
+113,Is the light on in Tyler's room?
+114,Turn off the lights in the bathroom
+115,Are the lights on in the dining room?
+116,Turn on my lights
+117,Turn on the kitchen lamps
+118,Switch off the lights
+119,What is the temperature inside?
+120,Set the temperature to 65 degrees
+121,Turn down the thermostat
+122,Set the thermostat to 70 degrees
+123,Turn off the lights
+124,Dim the lights in the living room
+125,Turn on my lights
+126,Turn on the bathroom lamps
+127,Is the light on in Tyler's room?
+128,Are the lights on in the master bed room?
+129,Switch off the lights
+130,Turn off the living room lamps
+131,Is the light on in Tyler's room?
+132,Are the lights on in the dining room?
+133,Turn off the lights
+134,Dim the lights in the dining room
+135,Turn on my lights
+136,Switch off the lights
+137,Turn on the lights in the master bed room
+138,Turn on the lights
+139,Are the lights on in the kids bedroom?
+140,Turn on the master bed room lamps
+141,Is the light on in John's office?
+142,Turn on my lights
+143,Talk to toro tempus
+144,Show the Front Door Camera on Living Room TV
+145,What is on Baby camera?
+146,Turn On Hallway Camera
+147,Show garage camera
+148,Turn on the camera
+149,Turn off the camera
+150,Is the Babycam On?
+151,What is the temperature inside?
+152,Turn up the thermostat
+153,Turn down the thermostat
+154,Set the thermostat to 72 degrees
+155,Set the temperature to 65 degrees
+156,Raise the AC speed
+157,Lower the AC speed
+158,Set AC to high
+159,Set mode on AC to cool
+160,Stop the AC
+161,Make the AC speed lower
+162,What is the AC doing?
+163,Did I set AC to cool?
+164,Turn off the AC
+165,Turn on the AC
+166,Turn off the water heater
+167,Turn up the temperature on water heater
+168,Is my water heater on?
+169,Set security to arm
+170,Arm security
+171,Skip ahead on TV
+172,Turn on the TV
+173,Mute the TV
+174,Resume the TV
+175,Make it louder on the TV
+176,Volume down on TV
+177,Pause the TV
+178,Stop the TV
+179,Turn off speakers
+180,Turn on speakers
+181,Close the curtains half way
+182,Open the bedroom curtains
+183,Make it louder on the speaker
+184,Resume the speaker
+185,Pause the speaker
+186,Mute the speaker
+187,Stop the speaker
+188,Volume up on speaker
+189,Activate Good Morning
+190,Turn on Movie Mode
+191,Are the lights on in the kitchen?
+192,Turn on my lights
+193,Turn off the lights in the kitchen
+194,Is the light on in John's office?
+195,Dim the bathroom lamps
+196,Turn on the lights
+197,Did I set AC to cool?
+198,What cycle is the AC in?
+199,Turn off the AC
+200,Set AC to high
+201,Make the AC speed lower
+202,What is AC mode set to?
+203,Lower the AC speed
+204,Start the AC
+205,Raise the AC speed
+206,What is the AC doing?
+207,Switch off the lights
+208,Talk to lucky robot
+209,Ask lucky robot
+210,Talk to Aquarium Capacity Calculator
+211,Talk to Mother Teresa's Story
+212,Talk to Belgian Social Security Office
+213,Call mom on Max Tel
+214,Show my Max Tel profile
+215,Show outgoing Max Tel calls
+216,Find Thomas on Max Tel
+217,Add John Doe to my Max Tel contacts
+218,Open Max Tel QR code
+219,Video chat with John Doe on Mobo Messenger
+220,Show outgoing Mobo Messenger video calls
+221,What were my Mobo Messenger audio calls from yesterday?
+222,Call Sam Tim on Mobo Messenger
+223,Add Isaac to my Mobo Messenger contacts
+224,Look up for Sam Tim on Mobo Messenger
+225,Open Mobo Messenger QR code
+226,Show my Mobo Messenger portfolio
+227,Find John Doe on Mobo Messenger
+228,Call John Doe on LandaGram
+229,Add Jane Doe to my LandaGram contacts
+230,Open LandaGram QR code
+231,Show my profile on LandaGram
+232,Find John Doe on LandaGram
+233,Show my LandaGram calls
+234,Video chat with John on Green Messenger
+235,Show outgoing Green Messenger calls
+236,Show my Green Messenger profile
+237,Find Thomas on Green Messenger
+238,Add John Doe to my Green Messenger contacts
+239,Open Green Messenger QR code
+240,Open Talagram QR code
+241,Call Sam Tim on Talagram
+242,Look up for Sam Tim on Talagram
+243,Find John Doe on Talagram
+244,What were my Talagram audio calls from yesterday?
+245,Show outgoing Talagram video calls
+246,Show my Talagram portfolio
+247,Add Isaac to my Talagram contacts
+248,Video chat with John Doe on Talagram
+249,Show my Novin Plus calls
+250,Call John Doe on Novin Plus
+251,Open Novin Plus QR code
+252,Find John Doe on Novin Plus
+253,Show my profile on Novin Plus
+254,Add Jane Doe to my Novin Plus contacts
+255,Talk to Pension Easy
+256,Find Mike on MaviGram
+257,Call John Doe on MaviGram
+258,Show my MaviGram account
+259,Open MaviGram QR code
+260,Can you add John Doe in my MaviGram contacts?
+261,What were my MaviGram calls?
+262,Add John Doe to my Monoplus contacts
+263,Show my Monoplus profile
+264,Call Mom on Monoplus
+265,Find Thomas on Monoplus
+266,Open Monoplus QR code
+267,Show outgoing Monoplus calls
+268,Add John Doe to my JetPlus contacts
+269,Find Thomas on JetPlus
+270,Show my JetPlus profile
+271,Show outgoing JetPlus calls
+272,Call mom on JetPlus
+273,Open JetPlus QR code
+274,Show outgoing HGram calls
+275,Add John Doe to my HGram contacts
+276,Voice chat with mom on HGram
+277,Open HGram QR code
+278,Find Thomas on HGram
+279,Show my HGram profile
+280,Show my MobogramX profile
+281,Open MobogramX QR code
+282,Add John Doe to my MobogramX contacts
+283,Show outgoing MobogramX calls
+284,Call mom on MobogramX
+285,Find Thomas on MobogramX
+286,Call mom on DotGram
+287,Add John Doe to my DotGram contacts
+288,Find Thomas on DotGram
+289,Show outgoing DotGram calls
+290,Open DotGram QR code
+291,Show my DotGram profile
+292,What were my Mobogram proxy calls?
+293,Can you add John Doe in my Mobogram proxy contacts?
+294,Call John Doe on Mobogram proxy
+295,Find Jack on Mobogram proxy
+296,Open Mobogram proxy QR code
+297,Show my Mobogram proxy account
+298,Open Whatsgram QR code
+299,Show outgoing Whatsgram audio calls
+300,Find Thomas on Whatsgram
+301,Show my Whatsgram profile
+302,Call Mom on Whatsgram
+303,Add Isaac to my Whatsgram contacts
+304,Open Teleteens x QR code
+305,Show my Teleteens x profile
+306,Find Thomas on Teleteens x
+307,Call mom on Teleteens x
+308,Add John Doe to my Teleteens x contacts
+309,Show outgoing Teleteens x calls
+310,Call *123 on AloTel Plus
+311,Open my AloTel Plus QR Code
+312,Look up John Smith in AloTel Plus
+313,Add Isaac to my AloTel Plus contacts
+314,What is my AloTel Plus profile?
+315,What were my AloTel Plus audio calls from yesterday?
+316,Find Thomas on BestPlus
+317,Show my BestPlus profile
+318,Open BestPlus QR code
+319,Add John Doe to my BestPlus contacts
+320,Call mom on BestPlus
+321,Show outgoing BestPlus calls
+322,Add John Doe to my TelePlus contacts
+323,Open TelePlus QR code
+324,Call Mom on TelePlus
+325,Show my TelePlus profile
+326,Find Thomas on TelePlus
+327,Show outgoing TelePlus calls
+328,Open BlueTel QR code
+329,Show my BlueTel portfolio
+330,Call John Doe on BlueTel
+331,Add James to my BlueTel contacts
+332,Look up James in BlueTel
+333,Show outgoing BlueTel video calls
+334,Open TinaGeram QR code
+335,Find Thomas on TinaGeram
+336,Add John Doe to my TinaGeram contacts
+337,Call mom on TinaGeram
+338,Show my TinaGeram profile
+339,Show outgoing TinaGeram calls
+340,Add James to my ShadGram contacts
+341,What were my ShadGram calls?
+342,Show my ShadGram account
+343,Find James on ShadGram
+344,Open ShadGram QR code
+345,Call John Doe on ShadGram
+346,Show my YasiGram account
+347,Add Isaac to my YasiGram contacts
+348,What were my YasiGram calls?
+349,Open YasiGram QR code
+350,Call John Doe on YasiGram
+351,Find James on YasiGram
+352,Show my SafeGram profile
+353,Show outgoing SafeGram calls
+354,Open SafeGram QR code
+355,Add John Doe to my SafeGram contacts
+356,Find Thomas on SafeGram
+357,Call mom on SafeGram
+358,Show my Pro Plus Messenger profile
+359,Find Thomas on Pro Plus Messenger
+360,Show outgoing Pro Plus Messenger calls
+361,Call mom on Pro Plus Messenger
+362,Open Pro Plus Messenger QR code
+363,Add John Doe to my Pro Plus Messenger contacts
+364,Show outgoing sib che calls
+365,Open sib che QR code
+366,Call mom on sib che
+367,Show my sib che profile
+368,Find Thomas on sib che
+369,Add John Doe to my sib che contacts
+370,What were my Telegram for Christian calls?
+371,Open Telegram for Christian QR code
+372,Show my Telegram for Christian account
+373,Can you add 18774531304 as John Doe’s mobile number in my Telegram for Christian contacts?
+374,Find James on Telegram for Christian
+375,Call John Doe on Telegram for Christian
+376,Find Thomas on Private Chat
+377,Show my Private Chat profile
+378,Add John Doe to my Private Chat contacts
+379,Open Private Chat QR code
+380,Call mom on Private Chat
+381,Show outgoing Private Chat calls
+382,Video chat with Bob on AllGram Messenger
+383,Find Thomas on AllGram Messenger
+384,Show outgoing AllGram Messenger calls
+385,Open AllGram Messenger QR code
+386,Show my AllGram Messenger profile
+387,Call John Doe on Telegrad
+388,Add James to my Telegrad contacts
+389,Find James on Telegrad
+390,What were my Telegrad calls?
+391,Open Telegrad QR code
+392,Show my Telegrad account
+393,Add John Doe to my Waller Swiss contacts
+394,Show my Waller Swiss profile
+395,Open Waller Swiss QR code
+396,Show outgoing Waller Swiss calls
+397,Call mom on Waller Swiss
+398,Find Thomas on Waller Swiss
+399,Call Sam Tim on Plus chat
+400,Add Isaac to my Plus Chat contacts
+401,Show my Plus Chat portfolio
+402,Video chat with John Doe on Plus Chat
+403,Find John Doe on Plus Chat
+404,Look up for Sam Tim on Plus Chat
+405,Show outgoing Plus Chat video calls
+406,What were my Plus Chat audio calls from yesterday?
+407,Open Plus Chat QR code
+408,Call John Doe on TopPlus
+409,Show my TopPlus account
+410,Open TopPlus QR code
+411,Find Jack on TopPlus
+412,What were my TopPlus calls?
+413,Can you add 18774531304 as John Doe’s mobile number in my TopPlus contacts?
+414,Call Mom on Plus Mobo
+415,Find Thomas on Plus Mobo
+416,Open Plus Mobo QR code
+417,Show outgoing Plus Mobo calls
+418,Show my Plus Mobo profile
+419,Add John Doe to my Plus Mobo contacts
+420,Call mom on Nicegram Messenger Plus
+421,Find Thomas on Nicegram Messenger Plus
+422,Add John Doe to my Nicegram Messenger Plus contacts
+423,Show outgoing Nicegram Messenger Plus calls
+424,Show my Nicegram Messenger Plus profile
+425,Open Nicegram Messenger Plus QR code
+426,Talk to Mr. P
+427,Show my MonoTalaie profile
+428,Open MonoTalaie QR code
+429,Add John Doe to my MonoTalaie contacts
+430,Call mom on MonoTalaie
+431,Find Thomas on MonoTalaie
+432,Show outgoing MonoTalaie calls
+433,Find Thomas on Turbo Plus
+434,Open Turbo Plus QR code
+435,Show my Turbo Plus profile
+436,Add Isaac to my Turbo Plus contacts
+437,Show outgoing Turbo Plus audio calls
+438,Call Mom on Turbo Plus
+439,Add John Doe to my Chattel contacts
+440,Find Thomas on Chattel
+441,Open Chattel QR code
+442,Show outgoing Chattel calls
+443,Call mom on Chattel
+444,Show my Chattel profile
+445,Show my ActiveGram profile
+446,Open ActiveGram QR code
+447,Add John Doe to my ActiveGram contacts
+448,Find Thomas on ActiveGram
+449,Call mom on ActiveGram
+450,Show outgoing ActiveGram calls
+451,Let me see my Wish account
+452,Update my account on Wish
+453,Get shoes on Wish
+454,What is my Wish order status?
+455,View my Wish Cart
+456,Open rewards on Wish
+457,Show outgoing Alegram video calls
+458,Add Isaac to my Alegram contacts
+459,Find Thomas on Alegram
+460,Show my Alegram portfolio
+461,Video chat with Thomas on Alegram
+462,Scan to pay on Alegram
+463,Talk to Bright Idea
+464,What were my Jumper calls?
+465,Can you add 8774531304 as John Doe’s mobile number in my Jumper contacts?
+466,Show my Jumper account
+467,Call John Doe on Jumper
+468,Find James on Jumper
+469,Open Jumper QR code
+470,Show outgoing Lux Gram Messenger calls
+471,Show my Lux Gram Messenger profile
+472,Find Thomas on Lux Gram Messenger
+473,Open Lux Gram Messenger QR code
+474,Add John Doe to my Lux Gram Messenger contacts
+475,Call mom on Lux Gram Messenger
+476,Find Thomas on MetaGram Messenger
+477,Show my MetaGram Messenger profile
+478,Show outgoing MetaGram Messenger calls
+479,Call mom on MetaGram Messenger
+480,Open MetaGram Messenger QR code
+481,Add John Doe to my MetaGram Messenger contacts
+482,Open Original Mobo QR code
+483,Call John Doe on Original Mobo
+484,Find James on Original Mobo
+485,Can you add 8774531304 as John Doe’s mobile number in my Original Mobo contacts?
+486,Show my Original Mobo account
+487,What were my Original Mobo calls?
+488,Add John Doe to my W Plus Messenger contacts
+489,Open W Plus Messenger QR code
+490,Call mom on W Plus Messenger
+491,Show outgoing W Plus Messenger calls
+492,Show my W Plus Messenger profile
+493,Find Thomas on W Plus Messenger
+494,Call mom on Mobogram my
+495,Show my Mobogram my profile
+496,Add John Doe to my Mobogram my contacts
+497,Open Mobogram my QR code
+498,Find Thomas on Mobogram my
+499,Show outgoing Mobogram my calls
+500,Show my Mobogram X profile
+501,Find Thomas on Mobogram X
+502,Open Mobogram X QR code
+503,Add John Doe to my Mobogram X contacts
+504,Show outgoing Mobogram X calls
+505,Call mom on Mobogram X
+506,Talk to AGC Chat Helper to start
+507,Talk to Ramco HCM
+508,Let us go home
+509,Talk to Starfish Me
+510,Talk to Attendance Checker
+511,Find Thomas on Turbo X Messenger
+512,Open Turbo X Messenger QR code
+513,Show outgoing Turbo X Messenger calls
+514,Add John Doe to my Turbo X Messenger contacts
+515,Call mom on Turbo X Messenger
+516,Show my Turbo X Messenger profile
+517,Talk to Happier HR Pentest
+518,Let us go to work
+519,I am heading out
+520,I am leaving
+521,I am home
+522,I am back
+523,What is my daily brief?
+524,Tell me about my day
+525,Find emails from last week
+526,Send an email to Steve
+527,When does my package arrive?
+528,When is my bill due?
+529,What time is my next flight?
+530,Show me my past flights
+531,Show me my emails from last week
+532,Send an email to Sally
+533,Show me my reservations
+534,Open Gmail
+535,Bedtime
+536,Start Bedtime Routine
+537,Good night
+538,Good morning
+539,Tell me about my day
+540,I am up
+541,Create a routine
+542,Talk to Lala Lajpat Rai's Life
+543,Talk to Mr Project
+544,Talk to Srinivasa Ramanujan's Life
+545,Talk to Udham Singh's Life
+546,Talk to Terri Scheer
+547,Talk to Ravikiran Dhulipala Info
+548,Talk to Lok Nayak's Story
+549,I want to talk to Beethoven's Vienna
+550,Talk to Rabindranath Tagore's Story
+551,Talk to Taylor Swift Facts
+552,Ask Taylor Swift Facts
+553,Talk to Stephen Hawking's Life
+554,Talk to Nick's Talk
+555,Talk to Amitabh Bachchan's Life
+556,Talk to kashmir facts
+557,Talk to Shaheed Rajguru's Life
+558,Talk to Civil Developer
+559,Talk to HD School
+560,Talk to InterviewBot
+561,Talk to Aaruush SRM
+562,Talk to Aryabhata's Life
+563,Talk to Father Of Computer System
+564,Talk to Amway Business Opportunity
+565,Ask Amway Business Opportunity
+566,Talk to Chemathesaurus Help
+567,Talk to Cricket Spider
+568,Ask Cricket Spider
+569,Ask Cricket Spider about Best batting of Virat in ODI
+570,Ask Cricket Spider about Upcoming matches of Virat vs Aus
+571,Ask Cricket Spider about Top 10 players in IPL
+572,Talk to Vishwajeet Raj's Resume
+573,Talk to Veeru's Story
+574,Talk to This Week in Beatle History
+575,Speak to This Week in Beatle History
+576,Ask This Week in Beatle History
+577,Talk to SRK Facts
+578,Speak to SRK Facts
+579,Ask SRK Facts to tell me a shah rukh khan fact
+580,Ask SRK Facts to tell me an srk fact
+581,Ask SRK Facts to tell me a fact about srk
+582,Talk to Tech Founders
+583,Talk to Pranjal's  Resume
+584,Talk to Roman Reigns's Shield
+585,Talk to Neha Kakkar's Life
+586,Talk to Selena Gomez Facts
+587,Talk to Netaji Subhas Chandra Bose's life
+588,Talk to Floyd Mayweather's Life
+589,Talk to Kalpna Chawla's Life
+590,Talk to Amrita's CV
+591,Talk to KV Pokaran
+592,Talk to Messi's Shoes
+593,Talk to PM Narendra Modi's Life
+594,Talk to Cricket's God
+595,Talk to Pingu Babu
+596,Talk to Bangtan's Army
+597,Talk to Mr Guru
+598,Talk to Mr. Kudos
+599,Talk to Bill Gates's Life
+600,Ask Discovered Book
+601,Speak to Discovered Book
+602,Talk to Discovered Book
+603,Talk to Mr Musicphile
+604,Talk to CV Raman's Life
+605,Talk to Stefan vd Support
+606,Talk to Mood bit
+607,Talk to Voice Portfolio
+608,Talk to Mesmerizing Megha
+609,Talk to ooseven Technical
+610,Talk to Chirag Personal Info
+611,Talk to Abraham Lincoln's Link
+612,Talk to Sammi technical
+613,Talk to NFL Statistics
+614,Talk to Dr.Facts
+615,Ask Dr.Facts to Give me a fact about facebook
+616,Talk to Bhagat Singh's Bravery
+617,Talk to BTS kpop
+618,Speak to BTS kpop
+619,Talk to nickname me
+620,Ask Michael's Resume
+621,Talk to Anne Frank's Diary
+622,Talk to Varsha's Resume
+623,Let me talk to Varsha's Resume
+624,Speak to Varsha's Resume
+625,Talk to Ariana Grande Facts
+626,Talk to Jeff Bezos Biography
+627,Talk to Amit's Resume
+628,Talk to Shaheed Sukhdev's Life
+629,Talk to Chihau Chau Bio
+630,Talk to Things BTS Says
+631,Speak to Things BTS Says
+632,Ask care pod to get air quality information
+633,Ask care pod to get dining menu
+634,Ask care pod to get assistance for medication
+635,Ask care pod to get care team information
+636,Ask care pod to get care plan activities
+637,Talk to Charles de Gaulle's life
+638,Talk to WikiSpeaker
+639,Ask WikiSpeaker to define Chemistry
+640,Ask WikiSpeaker about the history of Amsterdam
+641,What is the capital of Kenya?
+642,When was Grace Hopper born?
+643,Movie showtimes near me
+644,How far away is the moon?
+645,When is Diwali?
+646,What is the time difference between Casablanca and San Francisco?
+647,What is the lifespan of a lion?
+648,Who plays Phil Dunphy?
+649,When was telescope invented?
+650,When is Mother's Day?
+651,Which waterfall is located near the border between Germany and Switzerland?
+652,Search for political news
+653,How tall is Barack Obama?
+654,Search for bicycles
+655,How heavy is the fattest cat in the world?
+656,Search for used cars
+657,Search for rap lyrics
+658,Search for desk chairs
+659,What is the Bruce Willis movie where he travels through time?
+660,Search for funny blogs
+661,Talk to Who is in space?
+662,Talk to Mrs Psychologist
+663,Open Discord
+664,Show Game of Thrones on Wikipedia
+665,Open Snapchat
+666,Open NikeRunClub
+667,Open Wikipedia
+668,Open MyFitnessPal
+669,Show World War II on Wikipedia
+670,Open Twitter
+671,Open YouTube
+672,Open Spotify
+673,Tell me the Mets standings
+674,Cricket
+675,What are the MLB standings?
+676,What is the Cricket score?
+677,When do the Crusaders play next?
+678,When does Manchester United play?
+679,Tell me sports news
+680,When is the next footy game?
+681,Who won the last Premier League?
+682,Who is the fastest man alive?
+683,Talk to A D A Calculator
+684,Talk to Homebrew Helper
+685,Ask Homebrew Helper
+686,Speak to Homebrew Helper
+687,Talk to Antenna Calculator
+688,Ask TaxQuarter to estimate my tax refund
+689,Ask TaxQuarter about my tax refund
+690,Talk to TaxQuarter
+691,Talk to Eastern Corporate fcu
+692,Talk to Loan Payment Calculator
+693,Ask Loan Payment Calculator to calculate monthly payment?
+694,Ask Loan Payment Calculator to calculate loan payment?
+695,Talk to Mr Calculator
+696,Talk to TWL Split A Bill
+697,Talk to Building Material Calculator
+698,Talk to Egyptian pound
+699,Talk to Mortgage Payment Calculator
+700,Speak to Mortgage Payment Calculator
+701,I want to speak to Mortgage Payment Calculator
+702,Talk to TRIGGERcmd
+703,Ask TRIGGERcmd to run Notepad
+704,Ask TRIGGERcmd to trigger Calculator
+705,Ask TRIGGERcmd to run Calculator on Laptop
+706,What is the square root of 82?
+707,What is 25 times 83?
+708,What is pi times 63 squared?
+709,What is 17 divided by 8?
+710,What is 2 to the power of 30?
+711,What is 18% of 281?
+712,What is 18% of 96?
+713,What calculations can you do?
+714,What is 5 factorial?
+715,What is the sine of 245 degrees?
+716,How old is someone born on September 15
+717,Can you open the door?
+718,What sound does a cat make?
+719,Tell me a poem
+720,Sing me a song
+721,What am I thinking right now?
+722,Play change my voice
+723,Drop a beat for me
+724,Flip a coin
+725,Tell me a StoryCorps story
+726,Count from 1 to 10
+727,Talk to Cloud Toolbox
+728,Ask Cloud Toolbox what lights are on for the solution board?
+729,Talk to Robotics Connect
+730,Ask Robotics Connect for max number of robots in a wire
+731,Ask Robotics Connect for a special feature
+732,Ask Robotics Connect for duration to mow a soccer pitch
+733,Talk to Smart Robot
+734,Ask Smart Robot
+735,Talk to eSmart life
+736,Ask eSmart life to turn on switch
+737,Ask eSmart life to go home
+738,Talk to grunn robot
+739,Ask grunn robot
+740,Talk to Candy Dish
+741,Talk to master drive
+742,Talk to Watchman door
+743,Talk to clean robotic
+744,Ask clean robotic
+745,Talk to Warm me and list my products
+746,Talk to Warm me and set heat for both sides to maximum
+747,Speak to Warm me and turn on both sides
+748,Ask Warm me to set timer for one hour
+749,Speak to PowerPlay
+750,Ask PowerPlay
+751,Talk to PowerPlay
+752,Talk to Petoneer feed three portions on Nutri
+753,Talk to Petoneer turn on the Fresco
+754,Talk to Petoneer turn on  the led of Fresco
+755,Talk to Petoneer what is the water level of Fresco
+756,Talk to Petoneer what is the tds value of the Fresco
+757,Talk to Bloom Home Control App
+758,Talk to Luffanet
+759,Talk to smart Dry
+760,Ask smart Dry
+761,Ask smart Dry are my clothes dry
+762,Talk to ChefSteps Joule
+763,Talk to ViewSonic
+764,Tell Shark to clean
+765,Tell Shark to start cleaning
+766,Talk to Shark
+767,Tell Shark to dock
+768,Tell Shark to vacuum
+769,Tell Shark to go home
+770,Tell me a Shark joke
+771,Tell Shark to pause my robot
+772,Tell Shark to send my robot to the dock
+773,Tell Shark to check my robot's battery
+774,Talk to Blue Voice play Radio Paradise in the Office
+775,Talk to Blue Voice pause in the Den
+776,Talk to Orbit B-Hyve
+777,Turn on the living room lamps
+778,Is the light on in John's office?
+779,Turn on my lights
+780,Turn on the lights
+781,Are the lights on in the kitchen?
+782,Turn on the lights in the dining room
+783,Turn on lights
+784,Turn off TV
+785,Activate Good Morning
+786,Turn on Movie Mode
+787,Switch off the lights
+788,Skip ahead on TV
+789,Make it louder on the TV
+790,Turn on the TV
+791,Mute the TV
+792,Resume the TV
+793,Stop the TV
+794,Volume up on TV
+795,Pause the TV
+796,Set AC to high
+797,Turn on the AC
+798,What is the AC speed?
+799,Stop the AC
+800,What is AC mode set to?
+801,Did I set AC to cool?
+802,Make the AC speed lower
+803,What is the AC doing?
+804,Start the AC
+805,Set mode on AC to cool
+806,Close the curtains half way
+807,Open the bedroom curtains
+808,Set the thermostat to 75 degrees
+809,Set the temperature to 65 degrees
+810,Turn up the thermostat
+811,What is the temperature inside?
+812,Turn down the thermostat
+813,Switch off the lights
+814,Dim the lights in the dining room
+815,Turn on the kids bedroom lamps
+816,Is the light on in Adam's bathroom?
+817,Are the lights on in the kids bedroom?
+818,Turn on my lights
+819,Turn on the lights
+820,Turn down the thermostat
+821,Turn up the thermostat
+822,Set the thermostat to 68 degrees
+823,What is the temperature inside?
+824,Set the temperature to 65 degrees
+825,Turn up the temperature on water heater
+826,Turn off the water heater
+827,Is my water heater on?
+828,Arm security
+829,Set security to arm
+830,Skip ahead on speaker
+831,Stop the TV
+832,Make it louder on the TV
+833,Volume up on TV
+834,Mute the TV
+835,Resume the TV
+836,Pause the TV
+837,Turn on the TV
+838,Pause the speaker
+839,Make it louder on the speaker
+840,Stop the speaker
+841,Volume down on speaker
+842,Resume the speaker
+843,Mute the speaker
+844,Open the side door
+845,Is the front door closed?
+846,Activate Good Morning
+847,Turn on Movie Mode
+848,Turn off the camera
+849,Show the Front Door Camera on Living Room TV
+850,Show garage camera
+851,Turn on the camera
+852,Turn On Hallway Camera
+853,What is on Baby camera?
+854,Is the Babycam On?
+855,Turn on speakers
+856,Turn off lights
+857,Stop the microwave timer
+858,Run the microwave for 5 minutes
+859,Resume my microwave
+860,How much time is left on the microwave timer?
+861,Run microwave for 30 seconds
+862,Pause my microwave
+863,Set microwave power level to high
+864,Increase the microwave timer by 30 seconds
+865,Pause the microwave timer
+866,Turn on the TV
+867,Mute the TV
+868,Skip ahead on speaker
+869,Resume the TV
+870,Volume up on TV
+871,Stop the TV
+872,Make it louder on the TV
+873,Pause the TV
+874,Is the light on in Alice's bedroom?
+875,Turn off the lights
+876,Are the lights on in the bathroom?
+877,Turn on my lights
+878,Dim the kitchen lamps
+879,Turn on the lights in the dining room
+880,Lower the AC speed
+881,Turn off the AC
+882,What cycle is the AC in?
+883,Make the AC speed lower
+884,Raise the AC speed
+885,Did I set AC to cool?
+886,Start the AC
+887,What's AC mode set to?
+888,Set AC to high
+889,Set mode on AC to cool
+890,Switch off the lights
+891,Turn off speakers
+892,Turn on lights
+893,Is the front door closed?
+894,Open the side door
+895,Close the window
+896,Open the window
+897,Turn on lights
+898,Turn off TV
+899,Skip ahead on TV
+900,Make it louder on the TV
+901,Turn on the TV
+902,Resume the TV
+903,Pause the TV
+904,Stop the TV
+905,Mute the TV
+906,Volume down on TV
+907,Open the bedroom curtains
+908,Close the curtains half way
+909,What is the AC speed?
+910,What is AC mode set to?
+911,Start the AC
+912,Set AC to high
+913,Set mode on AC to cool
+914,Make the AC speed lower
+915,Stop the AC
+916,Lower the AC speed
+917,Raise the AC speed
+918,Turn on the AC
+919,Switch off the lights
+920,Activate Good Morning
+921,Turn on Movie Mode
+922,Turn on the lights in the kitchen
+923,Are the lights on in the dining room?
+924,Turn on the dining room lamps
+925,Turn on the lights
+926,Is the light on in John's office?
+927,Turn on my lights
+928,Turn off the AC
+929,What cycle is the AC in?
+930,Make the AC speed lower
+931,Start the AC
+932,Turn on the AC
+933,Set AC to high
+934,What is the AC speed?
+935,Set mode on AC to cool
+936,What is the AC doing?
+937,Stop the AC
+938,Turn off TV
+939,Turn on speakers
+940,Switch off the lights
+941,Set security to arm
+942,Arm security
+943,Show the Front Door Camera on Living Room TV
+944,What's on Baby camera?
+945,Turn On Hallway Camera
+946,Is the Babycam On?
+947,Show garage camera
+948,Turn on the camera
+949,Turn off the camera
+950,Turn on the TV
+951,Pause the TV
+952,Volume down on TV
+953,Resume the TV
+954,Make it louder on the TV
+955,Skip ahead on speaker
+956,Mute the TV
+957,Stop the TV
+958,Are the lights on in the master bed room?
+959,Is the light on in Adam's bathroom?
+960,Turn off the kids bedroom lamps
+961,Turn on my lights
+962,Dim the lights in the living room
+963,Turn off the lights
+964,Set the thermostat to 72 degrees
+965,Turn down the thermostat
+966,What's the temperature inside?
+967,Set the temperature to 65 degrees
+968,Turn on Movie Mode
+969,Activate Good Morning
+970,Start vacuuming
+971,Charge the vacuum
+972,Start the vacuum
+973,Is the vacuum running?
+974,Send the vacuum home
+975,Is the vacuum charging?
+976,Stop vacuuming
+977,Stop the vacuum
+978,Pause the vacuum
+979,Dock the vacuum
+980,Turn off the fan
+981,Turn on the fan
+982,Make the fan speed higher
+983,Set fan to 5
+984,Lower the fan speed
+985,Make the fan speed lower
+986,Raise the fan speed
+987,What is the fan speed?
+988,Stop the TV
+989,Turn on the TV
+990,Resume the TV
+991,Mute the TV
+992,Skip ahead on speaker
+993,Pause the TV
+994,Make it louder on the TV
+995,Volume up on TV
+996,Are the lights on in the master bed room?
+997,Turn on my lights
+998,Turn off the living room lamps
+999,Dim the lights
+1000,Turn on the lights in the master bed room
+1001,Is the light on in Mary's playroom?
+1002,Turn on Movie Mode
+1003,Activate Good Morning
+1004,Switch off the lights
+1005,Rotate blinds to 20%
+1006,Are blinds open?
+1007,Close blinds down to 20%
+1008,Close blinds 10%
+1009,Close blinds
+1010,Close blinds down
+1011,Open the blinds 60%
+1012,Open blinds up to 50%
+1013,Close blinds to 50%
+1014,Open blinds 50%
+1015,Make the AC speed lower
+1016,Lower the AC speed
+1017,Turn off the AC
+1018,Start the AC
+1019,Set AC to high
+1020,What is the AC speed?
+1021,Set mode on AC to cool
+1022,Turn on the AC
+1023,Stop the AC
+1024,Raise the AC speed
+1025,Set fan to 5
+1026,Turn off the fan
+1027,Turn on the fan
+1028,What is the fan speed?
+1029,Make the fan speed lower
+1030,Lower the fan speed
+1031,Raise the fan speed
+1032,Make the fan speed higher
+1033,Activate airflow for the humidifier
+1034,Set the humidifier to 60% humidity
+1035,Turn on the humidifier
+1036,Set the humidifier to 10
+1037,Set the humidifier to continuous
+1038,Change the airflow to front on the humidifier
+1039,Start the humidifier
+1040,Is the light on in Adam's bathroom?
+1041,Turn on the lights in the living room
+1042,Turn on the lights
+1043,Turn on my lights
+1044,Are the lights on in the dining room?
+1045,Dim the bathroom lamps
+1046,Switch off the lights
+1047,Pause the speaker
+1048,Mute the speaker
+1049,Skip ahead on TV
+1050,Resume the speaker
+1051,Make it louder on the speaker
+1052,Stop the speaker
+1053,Volume up on speaker
+1054,Turn down the thermostat
+1055,Set the temperature to 65 degrees
+1056,Turn up the thermostat
+1057,What is the temperature inside?
+1058,Set the thermostat to 75 degrees
+1059,Is my water heater on?
+1060,Turn off the water heater
+1061,Turn up the temperature on water heater
+1062,What is the temperature set to?
+1063,Set the temperature to 72 degrees
+1064,Turn on Movie Mode
+1065,Activate Good Morning
+1066,Set security to arm
+1067,Arm security
+1068,Close blinds to 50%
+1069,Open blinds to 20%
+1070,Close blinds 10%
+1071,Close blinds
+1072,Close blinds down
+1073,Rotate blinds to 20%
+1074,Open the blinds 10%
+1075,Open blinds
+1076,Are blinds open?
+1077,Open the blinds halfway
+1078,Turn on the air purifier
+1079,Is the air purifier on?
+1080,Stop the air purifier
+1081,Turn on TV
+1082,Skip ahead on speaker
+1083,Stop the TV
+1084,Mute the TV
+1085,Volume down on TV
+1086,Turn on the TV
+1087,Make it louder on the TV
+1088,Pause the TV
+1089,Resume the TV
+1090,Stop vacuuming
+1091,Is the vacuum charging?
+1092,Is the vacuum running?
+1093,Start the vacuum
+1094,Start vacuuming
+1095,Pause the vacuum
+1096,Dock the vacuum
+1097,Charge the vacuum
+1098,Send the vacuum home
+1099,Stop the vacuum
+1100,Turn off lights
+1101,Close the curtains half way
+1102,Open the bedroom curtains
+1103,Turn on the camera
+1104,Turn On Hallway Camera
+1105,Show garage camera
+1106,Turn off the camera
+1107,Is the Babycam On?
+1108,Show the Front Door Camera on Living Room TV
+1109,What is on Baby camera?
+1110,Did I set AC to cool?
+1111,What is the AC doing?
+1112,What cycle is the AC in?
+1113,What is the AC speed?
+1114,Lower the AC speed
+1115,Turn off the AC
+1116,Turn on the AC
+1117,Start the AC
+1118,Set AC to high
+1119,Stop the AC
+1120,Activate Good Morning
+1121,Turn on Movie Mode
+1122,Turn on TV
+1123,Turn off lights
+1124,Switch off the lights
+1125,Make it louder on the TV
+1126,Mute the TV
+1127,Skip ahead on TV
+1128,Volume down on TV
+1129,Turn on the TV
+1130,Pause the TV
+1131,Stop the TV
+1132,Resume the TV
+1133,Start vacuuming
+1134,Stop vacuuming
+1135,Is the vacuum running?
+1136,Is the vacuum charging?
+1137,Charge the vacuum
+1138,Start the vacuum
+1139,Dock the vacuum
+1140,Stop the vacuum
+1141,Pause the vacuum
+1142,Send the vacuum home
+1143,Turn on my lights
+1144,Turn on the lights in the master bed room
+1145,Turn on the lights
+1146,Is the light on in Adam's bathroom?
+1147,Turn on the living room lamps
+1148,Are the lights on in the dining room?
+1149,Turn off the camera
+1150,Turn on the camera
+1151,Show the Front Door Camera on Living Room TV
+1152,Turn On Hallway Camera
+1153,What's on Baby camera?
+1154,Show garage camera
+1155,Is the Babycam On?
+1156,Stop the AC
+1157,Set mode on AC to cool
+1158,Lower the AC speed
+1159,What is the AC speed?
+1160,Raise the AC speed
+1161,Turn on the AC
+1162,What cycle is the AC in?
+1163,Turn off the AC
+1164,What is the AC doing?
+1165,Set AC to high
+1166,Is the front door locked?
+1167,Unlock the front door
+1168,Is the front door unlocked?
+1169,Make sure the front door is locked
+1170,Make the front door unlock
+1171,Make the front door lock
+1172,Lock the front door
+1173,Make sure the front door is unlocked
+1174,Set security to arm
+1175,Arm security
+1176,Start the dehumidifier
+1177,Set fanspeed to high on dehumidifier
+1178,Set mode on dehumidifier to auto dry
+1179,Turn on the dehumidifier
+1180,Turn on Movie Mode
+1181,Activate Good Morning
+1182,Make it louder on the TV
+1183,Resume the TV
+1184,Mute the TV
+1185,Pause the TV
+1186,Skip ahead on speaker
+1187,Stop the TV
+1188,Volume down on TV
+1189,Turn on the TV
+1190,Close blinds 10%
+1191,Open blinds
+1192,Close blinds to 50%
+1193,Open blinds to 20%
+1194,Open blinds 50%
+1195,Are blinds open?
+1196,Rotate blinds to 20%
+1197,Open the blinds 60%
+1198,Close blinds
+1199,Close blinds down
+1200,What is the temperature inside?
+1201,Set the temperature to 65 degrees
+1202,Turn down the thermostat
+1203,Turn up the thermostat
+1204,Set the thermostat to 72 degrees
+1205,Lower the fan speed
+1206,Make the fan speed lower
+1207,Turn on the fan
+1208,Raise the fan speed
+1209,Turn off the fan
+1210,Set fan to 5
+1211,What is the fan speed?
+1212,Make the fan speed higher
+1213,Is the air purifier on?
+1214,Turn off the air purifier
+1215,Stop the air purifier
+1216,Turn on my lights
+1217,Turn on the master bed room lamps
+1218,Dim the lights in the master bed room
+1219,Is the light on in Mary's playroom?
+1220,Are the lights on in the master bed room?
+1221,Dim the lights
+1222,Turn on the humidifier
+1223,Deactivate diffused for the humidifier
+1224,Start the humidifier
+1225,Set the humidifier to continuous
+1226,Change the airflow to rear on the humidifier
+1227,Set the humidifier to 2
+1228,Set the humidifier to 35% humidity
+1229,Dock the vacuum
+1230,Stop vacuuming
+1231,Pause the vacuum
+1232,Start vacuuming
+1233,Charge the vacuum
+1234,Stop the vacuum
+1235,Is the vacuum running?
+1236,Start the vacuum
+1237,Is the vacuum charging?
+1238,Send the vacuum home
+1239,Is the front door closed?
+1240,Open the side door
+1241,Set the temperature to 70 degrees
+1242,Is the kettle on?
+1243,Turn off lights
+1244,Turn on lights
+1245,Turn off the camera
+1246,Show the Front Door Camera on Living Room TV
+1247,Turn on the camera
+1248,Is the Babycam On?
+1249,What's on Baby camera?
+1250,Show garage camera
+1251,Turn On Hallway Camera
+1252,What is the temperature set to?
+1253,Set the temperature to 75 degrees
+1254,Pause the speaker
+1255,Mute the speaker
+1256,Volume down on speaker
+1257,Make it louder on the speaker
+1258,Resume the speaker
+1259,Stop the speaker
+1260,Turn off the water heater
+1261,Is my water heater on?
+1262,Turn up the temperature on water heater
+1263,Close the curtains half way
+1264,Open the bedroom curtains
+1265,Switch off the lights
+1266,Arm security
+1267,Set security to arm
+1268,Stop the speaker
+1269,Pause the speaker
+1270,Resume the speaker
+1271,Volume down on speaker
+1272,Skip ahead on TV
+1273,Make it louder on the speaker
+1274,Mute the speaker
+1275,Set the thermostat to 75 degrees
+1276,Turn down the thermostat
+1277,Set the temperature to 65 degrees
+1278,What is the temperature inside?
+1279,Turn off the camera
+1280,What is on Baby camera?
+1281,Show the Front Door Camera on Living Room TV
+1282,Show garage camera
+1283,Is the Babycam On?
+1284,Turn on the camera
+1285,Turn On Hallway Camera
+1286,Activate Good Morning
+1287,Turn on Movie Mode
+1288,Lower the AC speed
+1289,Stop the AC
+1290,Start the AC
+1291,Did I set AC to cool?
+1292,What is the AC speed?
+1293,Turn on the AC
+1294,What is the AC doing?
+1295,Raise the AC speed
+1296,Set AC to high
+1297,Turn off the AC
+1298,Switch off the lights
+1299,Turn on the TV
+1300,Pause the TV
+1301,Volume down on TV
+1302,Skip ahead on speaker
+1303,Make it louder on the TV
+1304,Stop the TV
+1305,Resume the TV
+1306,Mute the TV
+1307,Turn off the lights
+1308,Are the lights on in the kids bedroom?
+1309,Turn off the lights in the kitchen
+1310,Turn on the master bed room lamps
+1311,Is the light on in Alice's bedroom?
+1312,Turn on my lights
+1313,Turn off TV
+1314,Turn on speakers
+1315,Open the bedroom curtains
+1316,Close the curtains half way
+1317,Start the AC
+1318,What's AC mode set to?
+1319,What is the AC speed?
+1320,Set mode on AC to cool
+1321,Turn off the AC
+1322,Lower the AC speed
+1323,Set AC to high
+1324,Stop the AC
+1325,Did I set AC to cool?
+1326,What is the AC doing?
+1327,Volume down on TV
+1328,Skip ahead on TV
+1329,Make it louder on the TV
+1330,Resume the TV
+1331,Mute the TV
+1332,Stop the TV
+1333,Pause the TV
+1334,Turn on the TV
+1335,Turn on the lights
+1336,Are the lights on in the bathroom?
+1337,Turn on the lights in the master bed room
+1338,Turn on the kitchen lamps
+1339,Is the light on in John's office?
+1340,Turn on my lights
+1341,Switch off the lights
+1342,Turn on Movie Mode
+1343,Activate Good Morning
+1344,Lower the fan speed
+1345,Make the fan speed higher
+1346,What is the fan speed?
+1347,Turn on the fan
+1348,Turn off the fan
+1349,Raise the fan speed
+1350,Make the fan speed lower
+1351,Set fan to 5
+1352,Turn on speakers
+1353,Turn off lights
+1354,Is the vacuum charging?
+1355,Charge the vacuum
+1356,Pause the vacuum
+1357,Dock the vacuum
+1358,Is the vacuum running?
+1359,Stop vacuuming
+1360,Start vacuuming
+1361,Start the vacuum
+1362,Send the vacuum home
+1363,Stop the vacuum
+1364,Turn on the camera
+1365,Is the Babycam On?
+1366,What's on Baby camera?
+1367,Turn off the camera
+1368,Show the Front Door Camera on Living Room TV
+1369,Turn On Hallway Camera
+1370,Show garage camera
+1371,Set security to arm
+1372,Arm security
+1373,Open the side door
+1374,Is the front door closed?
+1375,What is the temperature set to?
+1376,Set the temperature to 72 degrees
+1377,Skip ahead on speaker
+1378,Mute the speaker
+1379,Pause the speaker
+1380,Make it louder on the speaker
+1381,Volume down on speaker
+1382,Resume the speaker
+1383,Stop the speaker
+1384,Turn on TV
+1385,Turn off speakers
+1386,Is my water heater on?
+1387,Turn off the water heater
+1388,Turn up the temperature on water heater
+1389,Set fanspeed to high on dehumidifier
+1390,Set mode on dehumidifier to auto dry
+1391,Turn on the dehumidifier
+1392,Start the dehumidifier
+1393,Are the lights on in the bathroom?
+1394,Turn on the lights in the kitchen
+1395,Is the light on in Alice's bedroom?
+1396,Turn on my lights
+1397,Dim the lights
+1398,Turn off the bathroom lamps
+1399,Set fan to 5
+1400,Make the fan speed lower
+1401,Lower the fan speed
+1402,Turn off the fan
+1403,What is the fan speed?
+1404,Raise the fan speed
+1405,Make the fan speed higher
+1406,Turn on the fan
+1407,Start the AC
+1408,What is the AC doing?
+1409,Set mode on AC to cool
+1410,Did I set AC to cool?
+1411,Set AC to high
+1412,Lower the AC speed
+1413,Make the AC speed lower
+1414,Turn off the AC
+1415,Raise the AC speed
+1416,What cycle is the AC in?
+1417,Stop the air purifier
+1418,Turn off the air purifier
+1419,Is the air purifier on?
+1420,Resume the TV
+1421,Stop the TV
+1422,Mute the TV
+1423,Pause the TV
+1424,Volume up on TV
+1425,Make it louder on the TV
+1426,Turn on the TV
+1427,Open upstairs
+1428,Close upstairs
+1429,Is the upstairs leaking water?
+1430,Is the main line open?
+1431,Is the upstairs closed?
+1432,Show the Front Door Camera on Living Room TV
+1433,What's on Baby camera?
+1434,Turn On Hallway Camera
+1435,Show garage camera
+1436,Turn off the camera
+1437,Is the Babycam On?
+1438,Turn on the camera
+1439,Turn on Movie Mode
+1440,Activate Good Morning
+1441,Is the kettle on?
+1442,Set the temperature to 70 degrees
+1443,Turn down the thermostat
+1444,Set the temperature to 65 degrees
+1445,What's the temperature inside?
+1446,Set the thermostat to 72 degrees
+1447,Is the vacuum running?
+1448,Stop vacuuming
+1449,Start vacuuming
+1450,Dock the vacuum
+1451,Pause the vacuum
+1452,Charge the vacuum
+1453,Stop the vacuum
+1454,Send the vacuum home
+1455,Start the vacuum
+1456,Is the vacuum charging?
+1457,Close the curtains half way
+1458,Open the bedroom curtains
+1459,Set the humidifier to auto
+1460,Activate osciliation for the humidifier
+1461,Change the airflow to front on the humidifier
+1462,Set the humidifier to 5
+1463,Start the humidifier
+1464,Turn off the humidifier
+1465,Set the humidifier to 60% humidity
+1466,Switch off the lights
+1467,Turn on lights
+1468,Turn off TV
+1469,Activate Good Morning
+1470,Turn on Movie Mode
+1471,Raise the fan speed
+1472,Make the fan speed lower
+1473,What is the fan speed?
+1474,Turn on the fan
+1475,Lower the fan speed
+1476,Turn off the fan
+1477,Set fan to 5
+1478,Make the fan speed higher
+1479,Are the lights on in the master bed room?
+1480,Dim the lights
+1481,Dim the lights in the bathroom
+1482,Is the light on in John's office?
+1483,Turn off the bathroom lamps
+1484,Turn on my lights
+1485,Did I set AC to cool?
+1486,What cycle is the AC in?
+1487,Set AC to high
+1488,What's AC mode set to?
+1489,Set mode on AC to cool
+1490,What is the AC doing?
+1491,Stop the AC
+1492,Lower the AC speed
+1493,Raise the AC speed
+1494,Start the AC
+1495,What's the temperature inside?
+1496,Turn up the thermostat
+1497,Set the thermostat to 72 degrees
+1498,Set the temperature to 65 degrees
+1499,Turn down the thermostat
+1500,Open the bedroom curtains
+1501,Close the curtains half way
+1502,Turn on the TV
+1503,Pause the TV
+1504,Make it louder on the TV
+1505,Resume the TV
+1506,Mute the TV
+1507,Volume up on TV
+1508,Stop the TV
+1509,Skip ahead on TV
+1510,Close the curtains half way
+1511,Open the bedroom curtains
+1512,Stop vacuuming
+1513,Pause the vacuum
+1514,Start vacuuming
+1515,Charge the vacuum
+1516,Send the vacuum home
+1517,Is the vacuum running?
+1518,Dock the vacuum
+1519,Start the vacuum
+1520,Stop the vacuum
+1521,Is the vacuum charging?
+1522,Activate airflow for the humidifier
+1523,Set the humidifier to 60% humidity
+1524,Change the airflow to rear on the humidifier
+1525,Start the humidifier
+1526,Turn on the humidifier
+1527,Set the humidifier to 8
+1528,Set the humidifier to auto
+1529,What's AC mode set to?
+1530,What is the AC speed?
+1531,Lower the AC speed
+1532,Did I set AC to cool?
+1533,Set mode on AC to cool
+1534,Turn off the AC
+1535,Set AC to high
+1536,Turn on the AC
+1537,Stop the AC
+1538,What is the AC doing?
+1539,Turn on Movie Mode
+1540,Activate Good Morning
+1541,Arm security
+1542,Set security to arm
+1543,Skip ahead on TV
+1544,Mute the TV
+1545,Stop the TV
+1546,Resume the TV
+1547,Volume up on TV
+1548,Pause the TV
+1549,Make it louder on the TV
+1550,Turn on the TV
+1551,Turn on TV
+1552,Turn On Hallway Camera
+1553,Is the Babycam On?
+1554,Turn on the camera
+1555,Show the Front Door Camera on Living Room TV
+1556,Turn off the camera
+1557,Show garage camera
+1558,What's on Baby camera?
+1559,Dim the lights in the dining room
+1560,Turn off the master bed room lamps
+1561,Is the light on in Tyler's room?
+1562,Turn on the lights
+1563,Are the lights on in the kids bedroom?
+1564,Turn on my lights
+1565,Switch off the lights
+1566,Lower the fan speed
+1567,Make the fan speed lower
+1568,Make the fan speed higher
+1569,Set fan to 5
+1570,What is the fan speed?
+1571,Turn on the fan
+1572,Raise the fan speed
+1573,Turn off the fan
+1574,Set the temperature to 65 degrees
+1575,Turn down the thermostat
+1576,Set the thermostat to 72 degrees
+1577,Turn up the thermostat
+1578,What's the temperature inside?
+1579,Turn off speakers
+1580,Turn on lights
+1581,What is the temperature set to?
+1582,Set the temperature to 80 degrees
+1583,Turn on TV
+1584,Turn off lights
+1585,Turn on speakers
+1586,Open the blinds halfway
+1587,Open blinds
+1588,Rotate blinds to 20%
+1589,Open blinds up to 50%
+1590,Are blinds open?
+1591,Open blinds to 20%
+1592,Open the blinds 50%
+1593,Close blinds to 50%
+1594,Close blinds down to 20%
+1595,Close blinds
+1596,Make the fan speed lower
+1597,Set fan to 5
+1598,Turn off the fan
+1599,Lower the fan speed
+1600,Turn on the fan
+1601,Make the fan speed higher
+1602,What is the fan speed?
+1603,Raise the fan speed
+1604,Turn on my lights
+1605,Turn off the lights
+1606,Turn off the lights in the master bed room
+1607,Is the light on in John's office?
+1608,Dim the kids bedroom lamps
+1609,Are the lights on in the kitchen?
+1610,Make sure the front door is unlocked
+1611,Make sure the front door is locked
+1612,Lock the front door
+1613,Unlock the front door
+1614,Make the front door lock
+1615,Make the front door unlock
+1616,Is the front door locked?
+1617,Is the front door unlocked?
+1618,Is the front door closed?
+1619,Open the side door
+1620,Set security to arm
+1621,Arm security
+1622,Turn on Movie Mode
+1623,Activate Good Morning
+1624,Is the Babycam On?
+1625,Show garage camera
+1626,Turn On Hallway Camera
+1627,What's on Baby camera?
+1628,Show the Front Door Camera on Living Room TV
+1629,Turn on the camera
+1630,Turn off the camera
+1631,Turn on the TV
+1632,Skip ahead on TV
+1633,Resume the TV
+1634,Pause the TV
+1635,Mute the TV
+1636,Make it louder on the TV
+1637,Volume up on TV
+1638,Stop the TV
+1639,Dock the vacuum
+1640,Stop the vacuum
+1641,Pause the vacuum
+1642,Is the vacuum running?
+1643,Start vacuuming
+1644,Start the vacuum
+1645,Is the vacuum charging?
+1646,Stop vacuuming
+1647,Send the vacuum home
+1648,Charge the vacuum
+1649,Close the curtains half way
+1650,Open the bedroom curtains
+1651,Switch off the lights
+1652,Pause the speaker
+1653,Stop the speaker
+1654,Mute the speaker
+1655,Resume the speaker
+1656,Make it louder on the speaker
+1657,Volume down on speaker
+1658,What cycle is the AC in?
+1659,Stop the AC
+1660,Raise the AC speed
+1661,Set mode on AC to cool
+1662,Turn off the AC
+1663,Lower the AC speed
+1664,Make the AC speed lower
+1665,Start the AC
+1666,Did I set AC to cool?
+1667,What's AC mode set to?
+1668,Switch off the lights
+1669,Make it louder on the TV
+1670,Pause the TV
+1671,Skip ahead on TV
+1672,Volume up on TV
+1673,Turn on the TV
+1674,Mute the TV
+1675,Stop the TV
+1676,Resume the TV
+1677,Activate Good Morning
+1678,Turn on Movie Mode
+1679,Turn on TV
+1680,Did I set AC to cool?
+1681,What is the AC doing?
+1682,Turn off the AC
+1683,Stop the AC
+1684,Set AC to high
+1685,Lower the AC speed
+1686,Start the AC
+1687,Make the AC speed lower
+1688,What cycle is the AC in?
+1689,Set mode on AC to cool
+1690,Make it louder on the speaker
+1691,Stop the speaker
+1692,Mute the speaker
+1693,Pause the speaker
+1694,Skip ahead on speaker
+1695,Resume the speaker
+1696,Volume up on speaker
+1697,Close the curtains half way
+1698,Open the bedroom curtains
+1699,Set the temperature to 70 degrees
+1700,Is the kettle on?
+1701,Set the humidifier to 1
+1702,Turn off the humidifier
+1703,Change the airflow to front on the humidifier
+1704,Start the humidifier
+1705,Set the humidifier to 35% humidity
+1706,Set the humidifier to manual
+1707,Deactivate osciliation for the humidifier
+1708,Set mode on dehumidifier to auto dry
+1709,Start the dehumidifier
+1710,Turn on the dehumidifier
+1711,Set fanspeed to high on dehumidifier
+1712,Turn off lights
+1713,What is the temperature set to?
+1714,Set the temperature to 72 degrees
+1715,Open upstairs
+1716,Close upstairs
+1717,Is the upstairs closed?
+1718,Is the main line leaking water?
+1719,Is the upstairs open?
+1720,Make the fan speed lower
+1721,Turn off the fan
+1722,Set fan to 5
+1723,Turn on the fan
+1724,Make the fan speed higher
+1725,Raise the fan speed
+1726,What is the fan speed?
+1727,Lower the fan speed
+1728,Turn off the lights
+1729,Dim the bathroom lamps
+1730,Turn on my lights
+1731,Dim the lights in the kitchen
+1732,Are the lights on in the kids bedroom?
+1733,Is the light on in Mary's playroom?
+1734,Open blinds to 20%
+1735,Rotate blinds to 20%
+1736,Open blinds
+1737,Close blinds down
+1738,Open the blinds 30%
+1739,Close blinds
+1740,Open blinds 50%
+1741,Open the blinds halfway
+1742,Open blinds up to 50%
+1743,Close blinds 10%
+1744,Turn off the camera
+1745,Is the Babycam On?
+1746,Show the Front Door Camera on Living Room TV
+1747,What's on Baby camera?
+1748,Show garage camera
+1749,Turn on the camera
+1750,Turn On Hallway Camera
+1751,Turn down the thermostat
+1752,Turn up the thermostat
+1753,Set the temperature to 65 degrees
+1754,Set the thermostat to 75 degrees
+1755,What's the temperature inside?
+1756,Start the vacuum
+1757,Stop vacuuming
+1758,Pause the vacuum
+1759,Start vacuuming
+1760,Is the vacuum charging?
+1761,Stop the vacuum
+1762,Dock the vacuum
+1763,Send the vacuum home
+1764,Charge the vacuum
+1765,Is the vacuum running?
+1766,Turn off the water heater
+1767,Is my water heater on?
+1768,Turn up the temperature on water heater
+1769,Turn on the air purifier
+1770,Is the air purifier on?
+1771,Stop the air purifier
+1772,Open the side door
+1773,Is the front door closed?
+1774,Arm security
+1775,Set security to arm
+1776,Stop vacuuming
+1777,Is the vacuum charging?
+1778,Pause the vacuum
+1779,Send the vacuum home
+1780,Is the vacuum running?
+1781,Start vacuuming
+1782,Stop the vacuum
+1783,Start the vacuum
+1784,Dock the vacuum
+1785,Charge the vacuum
+1786,Pause the TV
+1787,Stop the TV
+1788,Resume the TV
+1789,Turn on the TV
+1790,Mute the TV
+1791,Skip ahead on TV
+1792,Volume up on TV
+1793,Make it louder on the TV
+1794,What cycle is the AC in?
+1795,Start the AC
+1796,Stop the AC
+1797,Did I set AC to cool?
+1798,Make the AC speed lower
+1799,What is the AC doing?
+1800,Turn on the AC
+1801,Set AC to high
+1802,Raise the AC speed
+1803,Lower the AC speed
+1804,Turn off TV
+1805,Turn on TV
+1806,Mute the speaker
+1807,Resume the speaker
+1808,Stop the speaker
+1809,Volume down on speaker
+1810,Skip ahead on speaker
+1811,Pause the speaker
+1812,Make it louder on the speaker
+1813,Show garage camera
+1814,Turn off the camera
+1815,What is on Baby camera?
+1816,Is the Babycam On?
+1817,Turn On Hallway Camera
+1818,Turn on the camera
+1819,Show the Front Door Camera on Living Room TV
+1820,Activate night for the humidifier
+1821,Stop the humidifier
+1822,Set the humidifier to 10
+1823,Set the humidifier to 60% humidity
+1824,Change the airflow to front on the humidifier
+1825,Turn off the humidifier
+1826,Set the humidifier to continuous
+1827,Set the thermostat to 68 degrees
+1828,Turn down the thermostat
+1829,Set the temperature to 65 degrees
+1830,What is the temperature inside?
+1831,Turn up the thermostat
+1832,What is the temperature set to?
+1833,Set the temperature to 72 degrees
+1834,Turn on my lights
+1835,Turn on the lights in the kitchen
+1836,Turn off the lights
+1837,Are the lights on in the living room?
+1838,Turn on the kitchen lamps
+1839,Is the light on in Mary's playroom?
+1840,Switch off the lights
+1841,Activate Good Morning
+1842,Turn on Movie Mode
+1843,Arm security
+1844,Set security to arm
+1845,Turn off the fan
+1846,Raise the fan speed
+1847,Make the fan speed lower
+1848,Set fan to 5
+1849,What is the fan speed?
+1850,Lower the fan speed
+1851,Make the fan speed higher
+1852,Turn on the fan
+1853,Open the bedroom curtains
+1854,Close the curtains half way
+1855,Activate Good Morning
+1856,Turn on Movie Mode
+1857,Turn on the camera
+1858,Show garage camera
+1859,What's on Baby camera?
+1860,Is the Babycam On?
+1861,Turn On Hallway Camera
+1862,Turn off the camera
+1863,Show the Front Door Camera on Living Room TV
+1864,Set AC to high
+1865,Did I set AC to cool?
+1866,Set mode on AC to cool
+1867,Turn on the AC
+1868,Turn off the AC
+1869,What is the AC doing?
+1870,What is the AC speed?
+1871,What's AC mode set to?
+1872,Start the AC
+1873,What cycle is the AC in?
+1874,Switch off the lights
+1875,Turn on lights
+1876,Turn off speakers
+1877,Turn on the lights
+1878,Turn on my lights
+1879,Dim the lights in the master bed room
+1880,Are the lights on in the bathroom?
+1881,Turn on the living room lamps
+1882,Is the light on in Adam's bathroom?
+1883,Mute the TV
+1884,Resume the TV
+1885,Stop the TV
+1886,Skip ahead on speaker
+1887,Pause the TV
+1888,Turn on the TV
+1889,Make it louder on the TV
+1890,Volume up on TV
+1891,Set mode on AC to cool
+1892,Stop the AC
+1893,What is the AC speed?
+1894,Start the AC
+1895,Turn off the AC
+1896,Make the AC speed lower
+1897,Raise the AC speed
+1898,Turn on the AC
+1899,Lower the AC speed
+1900,What's AC mode set to?
+1901,Skip ahead on speaker
+1902,Turn on the TV
+1903,Pause the TV
+1904,Volume up on TV
+1905,Stop the TV
+1906,Mute the TV
+1907,Make it louder on the TV
+1908,Resume the TV
+1909,Turn on the fan
+1910,Make the fan speed higher
+1911,Raise the fan speed
+1912,Lower the fan speed
+1913,What is the fan speed?
+1914,Turn off the fan
+1915,Set fan to 5
+1916,Make the fan speed lower
+1917,Turn off lights
+1918,Turn on lights
+1919,Turn on Movie Mode
+1920,Activate Good Morning
+1921,What is the temperature set to?
+1922,Set the temperature to 75 degrees
+1923,Close blinds down to 20%
+1924,Rotate blinds to 20%
+1925,Open the blinds halfway
+1926,Open blinds to 20%
+1927,Are blinds open?
+1928,Open blinds 50%
+1929,Open the blinds 80%
+1930,Open blinds up to 50%
+1931,Open blinds
+1932,Close blinds
+1933,Is the vacuum charging?
+1934,Start vacuuming
+1935,Is the vacuum running?
+1936,Send the vacuum home
+1937,Dock the vacuum
+1938,Stop vacuuming
+1939,Stop the vacuum
+1940,Pause the vacuum
+1941,Start the vacuum
+1942,Charge the vacuum
+1943,Turn on the fan
+1944,Raise the fan speed
+1945,Lower the fan speed
+1946,Make the fan speed higher
+1947,What is the fan speed?
+1948,Turn off the fan
+1949,Make the fan speed lower
+1950,Set fan to 5
+1951,Turn on lights
+1952,Turn off speakers
+1953,Pause the TV
+1954,Mute the TV
+1955,Turn on the TV
+1956,Stop the TV
+1957,Resume the TV
+1958,Volume down on TV
+1959,Make it louder on the TV
+1960,Skip ahead on speaker
+1961,Is the upstairs leaking water?
+1962,Close the main line
+1963,Open main line
+1964,Is the upstairs closed?
+1965,Is the main line open?
+1966,Switch off the lights
+1967,Arm security
+1968,Set security to arm
+1969,Is the kettle on?
+1970,Set the temperature to 70 degrees
+1971,Raise the AC speed
+1972,Make the AC speed lower
+1973,Set mode on AC to cool
+1974,What cycle is the AC in?
+1975,What's AC mode set to?
+1976,Did I set AC to cool?
+1977,What is the AC doing?
+1978,What is the AC speed?
+1979,Turn off the AC
+1980,Set AC to high
+1981,Is the light on in Tyler's room?
+1982,Dim the lights
+1983,Are the lights on in the bathroom?
+1984,Turn off the master bed room lamps
+1985,Turn on my lights
+1986,Turn on the lights in the kids bedroom
+1987,Activate Good Morning
+1988,Turn on Movie Mode
+1989,Open the bedroom curtains
+1990,Close the curtains half way
+1991,Set the thermostat to 72 degrees
+1992,What's the temperature inside?
+1993,Turn up the thermostat
+1994,Turn down the thermostat
+1995,Set the temperature to 65 degrees
+1996,Turn up the temperature on water heater
+1997,Turn off the water heater
+1998,Is my water heater on?
+1999,Mute the speaker
+2000,Volume down on speaker
+2001,Pause the speaker
+2002,Resume the speaker
+2003,Stop the speaker
+2004,Make it louder on the speaker
+2005,Turn on the camera
+2006,What's on Baby camera?
+2007,Is the Babycam On?
+2008,Show the Front Door Camera on Living Room TV
+2009,Turn On Hallway Camera
+2010,Turn off the camera
+2011,Show garage camera
+2012,Turn on speakers
+2013,Turn off lights
+2014,Open blinds
+2015,Open blinds to 20%
+2016,Close blinds 10%
+2017,Open the blinds 10%
+2018,Rotate blinds to 20%
+2019,Close blinds down
+2020,Are blinds open?
+2021,Open blinds 50%
+2022,Close blinds to 50%
+2023,Close blinds down to 20%
+2024,Turn down the thermostat
+2025,What's the temperature inside?
+2026,Turn up the thermostat
+2027,Set the thermostat to 75 degrees
+2028,Set the temperature to 65 degrees
+2029,Turn on the TV
+2030,Stop the TV
+2031,Pause the TV
+2032,Make it louder on the TV
+2033,Skip ahead on speaker
+2034,Volume up on TV
+2035,Mute the TV
+2036,Resume the TV
+2037,Show the Front Door Camera on Living Room TV
+2038,Turn on the camera
+2039,Turn off the camera
+2040,Turn On Hallway Camera
+2041,Show garage camera
+2042,Is the Babycam On?
+2043,What's on Baby camera?
+2044,Open the side door
+2045,Is the front door closed?
+2046,How much time does the car have remaining?
+2047,How many miles of charge does the car have?
+2048,How long until the car is charged?
+2049,Is the car unplugged?
+2050,What's the battery level of car charger?
+2051,Stop charging the car
+2052,Is the air purifier on?
+2053,Stop the air purifier
+2054,Turn on the air purifier
+2055,What is the temperature set to?
+2056,Set the temperature to 72 degrees
+2057,Set fan to 5
+2058,Make the fan speed higher
+2059,Turn on the fan
+2060,Lower the fan speed
+2061,Make the fan speed lower
+2062,What is the fan speed?
+2063,Turn off the fan
+2064,Raise the fan speed
+2065,Open the front gate
+2066,Close the gate 50%
+2067,Activate Good Morning
+2068,Turn on Movie Mode
+2069,Is the light on in Adam's bathroom?
+2070,Dim the lights
+2071,Are the lights on in the living room?
+2072,Dim the lights in the dining room
+2073,Turn on my lights
+2074,Turn off the living room lamps
+2075,Switch off the lights
+2076,Close the window
+2077,Open the window
+2078,Raise the fan speed
+2079,Make the fan speed lower
+2080,Turn on the fan
+2081,Lower the fan speed
+2082,Set fan to 5
+2083,What is the fan speed?
+2084,Make the fan speed higher
+2085,Turn off the fan
+2086,Turn off TV
+2087,Turn on TV
+2088,Stop the TV
+2089,Turn on the TV
+2090,Resume the TV
+2091,Skip ahead on TV
+2092,Mute the TV
+2093,Pause the TV
+2094,Make it louder on the TV
+2095,Volume up on TV
+2096,Open the bedroom curtains
+2097,Close the curtains half way
+2098,Raise the fan speed
+2099,Turn on the fan
+2100,Make the fan speed higher
+2101,Lower the fan speed
+2102,Turn off the fan
+2103,What is the fan speed?
+2104,Set fan to 5
+2105,Make the fan speed lower
+2106,Turn on TV
+2107,Turn off speakers
+2108,Are the lights on in the master bed room?
+2109,Is the light on in Alice's bedroom?
+2110,Dim the lights
+2111,Turn off the living room lamps
+2112,Turn on the lights in the kitchen
+2113,Turn on my lights
+2114,Pause the TV
+2115,Skip ahead on speaker
+2116,Make it louder on the TV
+2117,Resume the TV
+2118,Mute the TV
+2119,Turn on the TV
+2120,Stop the TV
+2121,Volume down on TV
+2122,Raise the AC speed
+2123,Lower the AC speed
+2124,What is the AC doing?
+2125,Make the AC speed lower
+2126,What cycle is the AC in?
+2127,What is the AC speed?
+2128,Start the AC
+2129,Turn off the AC
+2130,Turn on the AC
+2131,Set mode on AC to cool
+2132,Turn on Movie Mode
+2133,Activate Good Morning
+2134,Turn on the fan
+2135,What is the fan speed?
+2136,Lower the fan speed
+2137,Make the fan speed lower
+2138,Turn off the fan
+2139,Set fan to 5
+2140,Raise the fan speed
+2141,Make the fan speed higher
+2142,Raise the AC speed
+2143,What is the AC speed?
+2144,What's AC mode set to?
+2145,Set mode on AC to cool
+2146,Stop the AC
+2147,Turn off the AC
+2148,Set AC to high
+2149,Make the AC speed lower
+2150,What is the AC doing?
+2151,What cycle is the AC in?
+2152,Activate Good Morning
+2153,Turn on Movie Mode
+2154,Turn off lights
+2155,Turn on speakers
+2156,Skip ahead on speaker
+2157,Volume down on TV
+2158,Make it louder on the TV
+2159,Pause the TV
+2160,Turn on the TV
+2161,Resume the TV
+2162,Stop the TV
+2163,Mute the TV
+2164,Are blinds open?
+2165,Close blinds to 50%
+2166,Open blinds up to 50%
+2167,Rotate blinds to 20%
+2168,Open the blinds halfway
+2169,Open blinds
+2170,Close blinds down to 20%
+2171,Close blinds down
+2172,Close blinds 10%
+2173,Open the blinds 50%
+2174,Stop the AC
+2175,Did I set AC to cool?
+2176,Raise the AC speed
+2177,What is the AC doing?
+2178,Make the AC speed lower
+2179,Set AC to high
+2180,What is the AC speed?
+2181,What's AC mode set to?
+2182,Set mode on AC to cool
+2183,Turn on the AC
+2184,Turn on TV
+2185,Turn on Movie Mode
+2186,Activate Good Morning
+2187,Make it louder on the TV
+2188,Volume up on TV
+2189,Turn on the TV
+2190,Mute the TV
+2191,Stop the TV
+2192,Skip ahead on TV
+2193,Resume the TV
+2194,Pause the TV
+2195,What is the fan speed?
+2196,Lower the fan speed
+2197,Turn off the fan
+2198,Make the fan speed higher
+2199,Make the fan speed lower
+2200,Raise the fan speed
+2201,Set fan to 5
+2202,Turn on the fan
+2203,Dim the lights
+2204,Turn on my lights
+2205,Turn off the master bed room lamps
+2206,Are the lights on in the master bed room?
+2207,Turn off the lights in the dining room
+2208,Is the light on in Adam's bathroom?
+2209,Turn off the fan
+2210,Raise the fan speed
+2211,Lower the fan speed
+2212,Turn on the fan
+2213,Make the fan speed lower
+2214,Make the fan speed higher
+2215,Set fan to 5
+2216,What is the fan speed?
+2217,Activate Good Morning
+2218,Turn on Movie Mode
+2219,Turn off the AC
+2220,Set AC to high
+2221,What's AC mode set to?
+2222,Make the AC speed lower
+2223,Turn on the AC
+2224,What is the AC doing?
+2225,Start the AC
+2226,Stop the AC
+2227,What is the AC speed?
+2228,Raise the AC speed
+2229,Turn off the lights
+2230,Turn on the lights in the kitchen
+2231,Turn on my lights
+2232,Turn on the living room lamps
+2233,Is the light on in Adam's bathroom?
+2234,Are the lights on in the living room?
+2235,Turn off TV
+2236,Turn on lights
+2237,Set the temperature to 75 degrees
+2238,What is the temperature set to?
+2239,Is the laundry clean?
+2240,Pause the washing machine
+2241,Set Temperature on washing machine to hot
+2242,Turn off extra rinse on the wachine machine
+2243,Start washing my clothes
+2244,Is washing machine extra rinse turned on?
+2245,What's washing machine temperature set to?
+2246,Is the washing machine running?
+2247,What cycle is the washing machine doing next?
+2248,What cycle is the washing machine in?
+2249,Stop the TV
+2250,Mute the TV
+2251,Make it louder on the TV
+2252,Turn on the TV
+2253,Skip ahead on TV
+2254,Pause the TV
+2255,Volume up on TV
+2256,Resume the TV
+2257,Turn down the thermostat
+2258,Set the temperature to 65 degrees
+2259,What's the temperature inside?
+2260,Set the thermostat to 68 degrees
+2261,Close the gate 50%
+2262,Open the front gate
+2263,Open blinds 50%
+2264,Open blinds up to 50%
+2265,Open the blinds halfway
+2266,Open blinds to 20%
+2267,Close blinds down to 20%
+2268,Open the blinds 30%
+2269,Close blinds 10%
+2270,Rotate blinds to 20%
+2271,Close blinds down
+2272,Are blinds open?
+2273,Open the side door
+2274,Is the front door closed?
+2275,Turn on the lights
+2276,Are the lights on in the living room?
+2277,Turn off the lights in the bathroom
+2278,Is the light on in John's office?
+2279,Turn on my lights
+2280,Turn off the kids bedroom lamps
+2281,Turn on Movie Mode
+2282,Activate Good Morning
+2283,Turn on speakers
+2284,Turn off TV
+2285,Skip ahead on speaker
+2286,Make it louder on the TV
+2287,Resume the TV
+2288,Mute the TV
+2289,Pause the TV
+2290,Turn on the TV
+2291,Volume up on TV
+2292,Stop the TV
+2293,Stop vacuuming
+2294,Is the vacuum charging?
+2295,Dock the vacuum
+2296,Is the vacuum running?
+2297,Start vacuuming
+2298,Stop the vacuum
+2299,Start the vacuum
+2300,Charge the vacuum
+2301,Pause the vacuum
+2302,Send the vacuum home
+2303,Open the bedroom curtains
+2304,Close the curtains half way
+2305,What's AC mode set to?
+2306,Lower the AC speed
+2307,Raise the AC speed
+2308,Start the AC
+2309,Make the AC speed lower
+2310,Set AC to high
+2311,Turn on the AC
+2312,What is the AC doing?
+2313,Stop the AC
+2314,Turn off the AC
+2315,Set the temperature to 80 degrees
+2316,What is the temperature set to?
+2317,What is the fan speed?
+2318,Set fan to 5
+2319,Lower the fan speed
+2320,Turn on the fan
+2321,Make the fan speed higher
+2322,Turn off the fan
+2323,Make the fan speed lower
+2324,Raise the fan speed
+2325,What is the AC speed?
+2326,Raise the AC speed
+2327,Turn on the AC
+2328,Lower the AC speed
+2329,Start the AC
+2330,Turn off the AC
+2331,Make the AC speed lower
+2332,Stop the AC
+2333,Set AC to high
+2334,What's AC mode set to?
+2335,Switch off the lights
+2336,Turn off the living room lamps
+2337,Is the light on in Alice's bedroom?
+2338,Turn off the lights
+2339,Turn off the lights in the dining room
+2340,Turn on my lights
+2341,Are the lights on in the kitchen?
+2342,Stop the air purifier
+2343,Turn on the air purifier
+2344,Is the air purifier on?
+2345,Turn on Movie Mode
+2346,Activate Good Morning
+2347,Pause the TV
+2348,Make it louder on the TV
+2349,Resume the TV
+2350,Skip ahead on speaker
+2351,Turn on the TV
+2352,Stop the TV
+2353,Volume down on TV
+2354,Mute the TV
+2355,Open the side door
+2356,Is the front door closed?
+2357,Talk to Startle Music
+2358,Talk to Rescan My TV
+2359,Talk to voice act
+2360,Ask voice act
+2361,Talk to Channel Surfer
+2362,Ask Channel Surfer to tune to channel 62
+2363,Ask Channel Surfer to find The Big Bang Theory
+2364,Ask Channel Surfer what am I watching
+2365,Ask Channel Surfer what is on channel 62
+2366,Talk to HomiSmart
+2367,Talk to HomiSmart and turn on TV
+2368,Talk to HomiSmart and turn off TV
+2369,Talk to HomiSmart and lock TV
+2370,Talk to HomiSmart and unlock TV
+2371,Ask Hargray to watch channel 3
+2372,Ask Hargray to search for Big Bang Theory
+2373,Ask Hargray to tune to the Weather Channel
+2374,Talk to Tech Coach
+2375,Ask Tech Coach to chat with a live expert
+2376,Ask Tech Coach to help me with netflix
+2377,Ask Tech Coach to help me with billing
+2378,Ask Metronet to watch channel 3
+2379,Ask Metronet to search for Big Bang Theory
+2380,Ask Metronet to tune to the Weather Channel
+2381,Talk to Blu Magic
+2382,Talk to Full Battery
+2383,Talk to Full Battery to tell me if my watch is fully charged
+2384,Talk to Full Battery to tell me my account email address
+2385,Talk to Panasonic Audio
+2386,Ask Panasonic Audio to play.
+2387,Ask Panasonic Audio to change to FM source.
+2388,Ask Panasonic Audio to turn off.
+2389,Talk to Automatic Projector.
+2390,Ask Automatic Projector to help me more.
+2391,Ask Automatic Projector to increase the brightness.
+2392,Talk to Automatic Projector about more information.
+2393,Talk to Erica Home
+2394,Let me talk to Erica Home
+2395,Tell Erica Home to play HBO
+2396,Ask Erica Home
+2397,Ask Erica Home to Play HBO on Tata Sky
+2398,Talk to TCL TV
+2399,Talk to The Christmas Piano
+2400,Ask tv service to tune to TSN
+2401,Ask tv service to play Big Bang Theory
+2402,Ask tv service to search for Tom Hanks
+2403,Open Settings
+2404,Change volume
+2405,Change volume to 30%
+2406,Set volume to 61%
+2407,Open wifi settings
+2408,Turn on bluetooth
+2409,Find my phone
+2410,Turn on the wifi
+2411,Mute
+2412,Volume level 6
+2413,Ask URC to turn on the music
+2414,Ask URC to lower the shades
+2415,Ask URC to start the party
+2416,Ask URC for the family room temperature
+2417,Let me talk to Quick Remote
+2418,Ask Quick Remote to pause the TV
+2419,Ask Quick Remote to go home
+2420,right
+2421,down and select
+2422,Ask Quick Remote to start Netflix and wait
+2423,Ask Quick Remote to switch to Family Room Roku
+2424,Ask MusicCast
+2425,Talk to MusicCast
+2426,Turn on the Xbox
+2427,Resume the Xbox
+2428,Open YouTube on Xbox
+2429,Record that on Xbox
+2430,Play Gears 5 on Xbox
+2431,Turn off the Xbox
+2432,Pause the Xbox
+2433,Turn off my TV
+2434,Play relaxing music on my TV
+2435,Play music on my TV
+2436,Play 'Royals' on my TV
+2437,Play country music on my TV
+2438,Play some Ella Fitzgerald on my TV
+2439,Next song on my TV
+2440,What song is playing on my TV?
+2441,Next episode on my TV
+2442,Open Netflix
+2443,Watch Stranger Things on Netflix
+2444,Open Netflix on this device
+2445,Watch 'Stranger Things' on Netflix
+2446,Show recommended videos on Youtube
+2447,Trending videos on Youtube
+2448,Play a video
+2449,Show me a funny video on Youtube
+2450,Open YouTube
+2451,Show recommended videos
+2452,Show me cat videos on YouTube
+2453,Play video
+2454,Top music videos on Youtube
+2455,Funny video
+2456,Show One Direction videos on Youtube
+2457,Show a cute video on Youtube
+2458,Play The Chainsmokers videos
+2459,Play makeup tutorial on YouTube
+2460,Play business news videos on Youtube
+2461,Play an inspirational video on Youtube
+2462,Show cat videos on Youtube
+2463,What's the temperature inside?
+2464,Turn up the thermostat
+2465,Set the thermostat to 70 degrees
+2466,Set the temperature to 65 degrees
+2467,Set the thermostat to 70 degrees
+2468,Turn up the thermostat
+2469,What's the temperature inside?
+2470,Set the temperature to 65 degrees
+2471,Turn down the thermostat
+2472,Turn down the thermostat
+2473,What's the temperature inside?
+2474,Turn up the thermostat
+2475,Set the thermostat to 70 degrees
+2476,Set the temperature to 65 degrees
+2477,Set the thermostat to 72 degrees
+2478,Turn down the thermostat
+2479,What's the temperature inside?
+2480,Turn up the thermostat
+2481,Set the temperature to 65 degrees
+2482,Turn on lights
+2483,Turn off TV
+2484,Set fan to 5
+2485,Turn off the fan
+2486,Make the fan speed lower
+2487,Lower the fan speed
+2488,Turn on the fan
+2489,What is the fan speed?
+2490,Make the fan speed higher
+2491,Raise the fan speed
+2492,Set the thermostat to 70 degrees
+2493,Turn up the thermostat
+2494,Set the temperature to 65 degrees
+2495,What's the temperature inside?
+2496,Set the thermostat to 68 degrees
+2497,Set the temperature to 65 degrees
+2498,Turn down the thermostat
+2499,What's the temperature inside?
+2500,Set the temperature to 65 degrees
+2501,Turn up the thermostat
+2502,What's the temperature inside?
+2503,Turn down the thermostat
+2504,Set the thermostat to 72 degrees
+2505,Turn down the thermostat
+2506,Set the temperature to 65 degrees
+2507,What's the temperature inside?
+2508,Set the thermostat to 75 degrees
+2509,Turn off lights
+2510,Turn on speakers
+2511,Switch off the lights
+2512,Turn on Movie Mode
+2513,Activate Good Morning
+2514,Start the AC
+2515,Turn on the AC
+2516,What cycle is the AC in?
+2517,Lower the AC speed
+2518,Set mode on AC to cool
+2519,Did I set AC to cool?
+2520,Make the AC speed lower
+2521,Turn off the AC
+2522,What is the AC doing?
+2523,Raise the AC speed
+2524,Talk to my comfort house
+2525,Ask my comfort house what is my living room humidity
+2526,Ask my comfort house what is my living room temperature
+2527,Ask my comfort house turn on my living room thermostat
+2528,Talk to My Zoe EV
+2529,Talk to heater from Mill
+2530,Talk to K Smart
+2531,Talk to K Smart and turn on the bedroom lamp
+2532,Talk to K Smart and turn on the bedroom usb
+2533,Talk to millennium smart flame
+2534,Talk to Vesta boiler
+2535,Ask Vesta boiler to power on
+2536,Ask Vesta boiler to raise temperature
+2537,Ask Vesta boiler to get status
+2538,Talk to d moat
+2539,Ask d moat to pause internet traffic
+2540,Ask d moat to list my connected devices
+2541,Ask d moat about network status
+2542,Ask d moat about temperature
+2543,Talk to Aircon net
+2544,Talk to smart humidifier
+2545,Talk to Smart Plus
+2546,Ask my bedroom thermometer for all details
+2547,Ask my bedroom thermometer for the temperature
+2548,Ask my bedroom thermometer for the dew point
+2549,Ask my bedroom thermometer for the relative humidity
+2550,Talk to Aura Air
+2551,Talk to Mux Home
+2552,Talk to eModul Smart
+2553,Talk to Air Purity
+2554,Talk to Modern Forms
+2555,Talk to Moodo Box
+2556,Talk to Moodo Box for power on
+2557,Talk to Moodo Box for enable shuffle
+2558,Talk to Moodo Box for enable interval
+2559,Talk to Arduino Temperature
+2560,Ask Blue Connect the water temperature
+2561,Ask Blue Connect the last measurement
+2562,Ask Blue Connect how is my pool going
+2563,Talk to climote
+2564,Ask climote to boost heating for 1 hour
+2565,Ask uHoo about my air quality in living room
+2566,Ask uHoo to give me a summary
+2567,Ask uHoo about my carbon dioxide level
+2568,Ask Blue Link to start my car
+2569,Talk to Blue Link
+2570,Ask Blue Link to start charging my Sonata Plug in Hybrid
+2571,Talk to Ambi Climate
+2572,Talk to Ambi Climate and turn on my a.c.
+2573,Ask ambi climate what is temperature in living room
+2574,Ask Awair about my air quality
+2575,Ask Awair for the temperature
+2576,Turn off the camera
+2577,Turn on the camera
+2578,Show the Front Door Camera on Living Room TV
+2579,Show garage camera
+2580,Turn On Hallway Camera
+2581,What's on Baby camera?
+2582,Is the Babycam On?
+2583,Set the temperature to 65 degrees
+2584,What is the temperature set to?
+2585,Switch off the lights
+2586,Turn on Movie Mode
+2587,Activate Good Morning
+2588,Turn off the lights
+2589,Is the light on in Adam's bathroom?
+2590,Turn on the lights in the living room
+2591,Turn off the bathroom lamps
+2592,Turn on my lights
+2593,Are the lights on in the living room?
+2594,Arm security
+2595,Set security to arm
+2596,Turn off lights
+2597,Turn on speakers
+2598,Set the temperature to 65 degrees
+2599,Set the thermostat to 70 degrees
+2600,What's the temperature inside?
+2601,Turn down the thermostat
+2602,Switch off the lights
+2603,Rotate blinds to 20%
+2604,Close blinds down
+2605,Close blinds 10%
+2606,Open blinds up to 50%
+2607,Open the blinds halfway
+2608,Close blinds
+2609,Close blinds down to 20%
+2610,Are blinds open?
+2611,Open the blinds 60%
+2612,Open blinds
+2613,Activate Good Morning
+2614,Turn on Movie Mode
+2615,Set awning to night mode
+2616,Open the awning
+2617,Close the awning
+2618,Open shutter 50%
+2619,Close the shutter half way
+2620,Open the shutter
+2621,Rotate shutter 20%
+2622,Is the garage door open?
+2623,Close the garage door
+2624,Open the garage door
+2625,Turn on my lights
+2626,Is the light on in John's office?
+2627,Dim the bathroom lamps
+2628,Turn on the lights
+2629,Are the lights on in the living room?
+2630,Turn off the lights in the dining room
+2631,Stop vacuuming
+2632,Dock the vacuum
+2633,Charge the vacuum
+2634,Is the vacuum charging?
+2635,Start the vacuum
+2636,Pause the vacuum
+2637,Is the vacuum running?
+2638,Send the vacuum home
+2639,Stop the vacuum
+2640,Start vacuuming
+2641,Is my water heater on?
+2642,Turn up the temperature on water heater
+2643,Turn off the water heater
+2644,What is the fan speed?
+2645,Set fan to 5
+2646,Raise the fan speed
+2647,Lower the fan speed
+2648,Make the fan speed higher
+2649,Turn off the fan
+2650,Make the fan speed lower
+2651,Turn on the fan
+2652,Switch off the lights
+2653,Make the AC speed lower
+2654,What is the AC speed?
+2655,Lower the AC speed
+2656,Did I set AC to cool?
+2657,Stop the AC
+2658,What is the AC doing?
+2659,Start the AC
+2660,Raise the AC speed
+2661,What's AC mode set to?
+2662,Turn on the AC
+2663,Set security to arm
+2664,Arm security
+2665,Turn off lights
+2666,Turn on lights
+2667,Stop the air purifier
+2668,Turn on the air purifier
+2669,Is the air purifier on?
+2670,Turn up the thermostat
+2671,Set the thermostat to 70 degrees
+2672,What's the temperature inside?
+2673,Set the temperature to 65 degrees
+2674,Set the humidifier to 35% humidity
+2675,Set the humidifier to 8
+2676,Set the humidifier to auto
+2677,Turn off the humidifier
+2678,Activate diffused for the humidifier
+2679,Start the humidifier
+2680,Change the airflow to front on the humidifier
+2681,Skip ahead on speaker
+2682,Stop the TV
+2683,Turn on the TV
+2684,Mute the TV
+2685,Volume down on TV
+2686,Pause the TV
+2687,Resume the TV
+2688,Make it louder on the TV
+2689,Close blinds
+2690,Rotate blinds to 20%
+2691,Open blinds 50%
+2692,Open blinds
+2693,Close blinds down to 20%
+2694,Close blinds to 50%
+2695,Open blinds up to 50%
+2696,Are blinds open?
+2697,Open blinds to 20%
+2698,Open the blinds halfway
+2699,Turn off the camera
+2700,What's on Baby camera?
+2701,Turn On Hallway Camera
+2702,Turn on the camera
+2703,Is the Babycam On?
+2704,Show garage camera
+2705,Show the Front Door Camera on Living Room TV
+2706,Is the front door closed?
+2707,Open the side door
+2708,What is the temperature set to?
+2709,Set the temperature to 72 degrees
+2710,Dim the lights
+2711,Turn on the lights in the bathroom
+2712,Are the lights on in the living room?
+2713,Is the light on in Alice's bedroom?
+2714,Turn on my lights
+2715,Turn on the bathroom lamps
+2716,Turn on TV
+2717,Close the curtains half way
+2718,Open the bedroom curtains
+2719,Lock the front door
+2720,Is the front door locked?
+2721,Make the front door lock
+2722,Make sure the front door is locked
+2723,Make sure the front door is unlocked
+2724,Is the front door unlocked?
+2725,Make the front door unlock
+2726,Unlock the front door
+2727,Pause the speaker
+2728,Mute the speaker
+2729,Resume the speaker
+2730,Make it louder on the speaker
+2731,Volume up on speaker
+2732,Stop the speaker
+2733,Activate Good Morning
+2734,Turn on Movie Mode
+2735,Set security to arm
+2736,Arm security
+2737,Turn on my lights
+2738,Is the light on in Adam's bathroom?
+2739,Turn off the lights
+2740,Turn off the living room lamps
+2741,Dim the lights in the kitchen
+2742,Are the lights on in the living room?
+2743,Set the temperature to 65 degrees
+2744,Turn up the thermostat
+2745,What's the temperature inside?
+2746,Set the thermostat to 72 degrees
+2747,Turn down the thermostat
+2748,Turn off TV
+2749,Turn on speakers
+2750,Lock the front door
+2751,Make the front door lock
+2752,Is the front door locked?
+2753,Is the front door unlocked?
+2754,Make sure the front door is locked
+2755,Unlock the front door
+2756,Make sure the front door is unlocked
+2757,Make the front door unlock
+2758,Rotate shutter 20%
+2759,Close the shutter half way
+2760,Open the shutter
+2761,Open shutter 50%
+2762,Close blinds down to 20%
+2763,Close blinds
+2764,Open the blinds halfway
+2765,Close blinds 10%
+2766,Open blinds up to 50%
+2767,Close blinds to 50%
+2768,Rotate blinds to 20%
+2769,Open blinds 50%
+2770,Open the blinds 30%
+2771,Open blinds to 20%
+2772,Open the front gate
+2773,Close the gate 50%
+2774,Dim the lights
+2775,Are the lights on in the bathroom?
+2776,Turn on the kitchen lamps
+2777,Is the light on in John's office?
+2778,Turn on my lights
+2779,Turn on the lights in the dining room
+2780,Activate Good Morning
+2781,Turn on Movie Mode
+2782,Arm security
+2783,Set security to arm
+2784,Is the front door locked?
+2785,Lock the front door
+2786,Make the front door unlock
+2787,Unlock the front door
+2788,Make the front door lock
+2789,Is the front door unlocked?
+2790,Make sure the front door is unlocked
+2791,Make sure the front door is locked
+2792,Switch off the lights
+2793,Is the garage door open?
+2794,Close the garage door
+2795,Open the garage door
+2796,Open the side door
+2797,Is the front door closed?
+2798,Turn off lights
+2799,Turn on lights
+2800,What's the temperature inside?
+2801,Set the thermostat to 70 degrees
+2802,Set the temperature to 65 degrees
+2803,Turn up the thermostat
+2804,Turn down the thermostat
+2805,Close the window
+2806,Open the window
+2807,Turn on Movie Mode
+2808,Activate Good Morning
+2809,Show the Front Door Camera on Living Room TV
+2810,Turn On Hallway Camera
+2811,Turn off the camera
+2812,What's on Baby camera?
+2813,Is the Babycam On?
+2814,Turn on the camera
+2815,Show garage camera
+2816,Switch off the lights
+2817,Turn on the lights
+2818,Is the light on in Tyler's room?
+2819,Turn on my lights
+2820,Are the lights on in the kids bedroom?
+2821,Turn on the lights in the bathroom
+2822,Dim the bathroom lamps
+2823,Lower the fan speed
+2824,Make the fan speed lower
+2825,Make the fan speed higher
+2826,Turn off the fan
+2827,Raise the fan speed
+2828,Turn on the fan
+2829,Set fan to 5
+2830,What is the fan speed?
+2831,Open the bedroom curtains
+2832,Close the curtains half way
+2833,Make sure the front door is locked
+2834,Unlock the front door
+2835,Make the front door unlock
+2836,Is the front door unlocked?
+2837,Make sure the front door is unlocked
+2838,Make the front door lock
+2839,Lock the front door
+2840,Is the front door locked?
+2841,What is the AC doing?
+2842,Stop the AC
+2843,What is the AC speed?
+2844,Turn on the AC
+2845,Did I set AC to cool?
+2846,Start the AC
+2847,Lower the AC speed
+2848,Make the AC speed lower
+2849,What's AC mode set to?
+2850,Raise the AC speed
+2851,Turn on my lights
+2852,Dim the lights in the kids bedroom
+2853,Dim the kids bedroom lamps
+2854,Turn on the lights
+2855,Is the light on in John's office?
+2856,Are the lights on in the dining room?
+2857,Pause the TV
+2858,Resume the TV
+2859,Stop the TV
+2860,Skip ahead on TV
+2861,Turn on the TV
+2862,Make it louder on the TV
+2863,Volume down on TV
+2864,Mute the TV
+2865,Show garage camera
+2866,What's on Baby camera?
+2867,Show the Front Door Camera on Living Room TV
+2868,Is the Babycam On?
+2869,Turn off the camera
+2870,Turn on the camera
+2871,Turn On Hallway Camera
+2872,Switch off the lights
+2873,What is the temperature set to?
+2874,Set the temperature to 80 degrees
+2875,Activate Good Morning
+2876,Turn on Movie Mode
+2877,Arm security
+2878,Set security to arm
+2879,Turn off speakers
+2880,Turn on speakers
+2881,Turn on my lights
+2882,Is the light on in John's office?
+2883,Are the lights on in the kitchen?
+2884,Dim the dining room lamps
+2885,Turn on the lights
+2886,Dim the lights in the living room
+2887,What's on Baby camera?
+2888,Turn On Hallway Camera
+2889,Turn on the camera
+2890,Turn off the camera
+2891,Is the Babycam On?
+2892,Show garage camera
+2893,Show the Front Door Camera on Living Room TV
+2894,Make the AC speed lower
+2895,What's AC mode set to?
+2896,What is the AC speed?
+2897,Lower the AC speed
+2898,Set AC to high
+2899,Start the AC
+2900,Did I set AC to cool?
+2901,Set mode on AC to cool
+2902,What is the AC doing?
+2903,Raise the AC speed
+2904,Switch off the lights
+2905,Turn on Movie Mode
+2906,Activate Good Morning
+2907,Turn on TV
+2908,Turn off speakers
+2909,Is the air purifier on?
+2910,Turn off the air purifier
+2911,Stop the air purifier
+2912,Make it louder on the TV
+2913,Skip ahead on speaker
+2914,Volume down on TV
+2915,Stop the TV
+2916,Turn on the TV
+2917,Resume the TV
+2918,Pause the TV
+2919,Mute the TV
+2920,Start the vacuum
+2921,Is the vacuum charging?
+2922,Pause the vacuum
+2923,Send the vacuum home
+2924,Stop the vacuum
+2925,Start vacuuming
+2926,Dock the vacuum
+2927,Is the vacuum running?
+2928,Stop vacuuming
+2929,Charge the vacuum
+2930,What is the temperature set to?
+2931,Set the temperature to 75 degrees
+2932,Make the front door lock
+2933,Lock the front door
+2934,Unlock the front door
+2935,Is the front door unlocked?
+2936,Make sure the front door is unlocked
+2937,Is the front door locked?
+2938,Make sure the front door is locked
+2939,Make the front door unlock
+2940,Set fan to 5
+2941,Raise the fan speed
+2942,Lower the fan speed
+2943,Make the fan speed higher
+2944,What is the fan speed?
+2945,Make the fan speed lower
+2946,Turn off the fan
+2947,Turn on the fan
+2948,Did I set AC to cool?
+2949,Stop the AC
+2950,Lower the AC speed
+2951,Turn off the AC
+2952,Start the AC
+2953,What's AC mode set to?
+2954,What is the AC doing?
+2955,Make the AC speed lower
+2956,Set mode on AC to cool
+2957,Turn on the AC
+2958,Turn up the thermostat
+2959,Set the thermostat to 75 degrees
+2960,What's the temperature inside?
+2961,Set the temperature to 65 degrees
+2962,Turn on the TV
+2963,Make it louder on the TV
+2964,Volume up on TV
+2965,Mute the TV
+2966,Stop the TV
+2967,Pause the TV
+2968,Skip ahead on speaker
+2969,Resume the TV
+2970,Turn on my lights
+2971,Turn on the lights in the master bed room
+2972,Turn off the lights
+2973,Turn off the kitchen lamps
+2974,Are the lights on in the dining room?
+2975,Is the light on in Mary's playroom?
+2976,Turn off lights
+2977,Turn on TV
+2978,Switch off the lights
+2979,Is the Babycam On?
+2980,Show the Front Door Camera on Living Room TV
+2981,Turn off the camera
+2982,Turn on the camera
+2983,Show garage camera
+2984,Turn On Hallway Camera
+2985,What's on Baby camera?
+2986,Turn on Movie Mode
+2987,Activate Good Morning
+2988,Switch off the lights
+2989,Show the Front Door Camera on Living Room TV
+2990,What's on Baby camera?
+2991,Is the Babycam On?
+2992,Show garage camera
+2993,Turn On Hallway Camera
+2994,Turn on the camera
+2995,Turn on Movie Mode
+2996,Activate Good Morning
+2997,Turn off the camera
+2998,Show the Front Door Camera on Living Room TV
+2999,Is the Babycam On?
+3000,What's on Baby camera?
+3001,Show garage camera
+3002,Turn On Hallway Camera
+3003,Turn on the camera
+3004,Is the light on in Mary's playroom?
+3005,Are the lights on in the kitchen?
+3006,Turn off the bathroom lamps
+3007,Turn off the lights in the kitchen
+3008,Turn off the lights
+3009,Turn on my lights
+3010,Switch off the lights
+3011,Turn on Movie Mode
+3012,Activate Good Morning
+3013,Turn down the thermostat
+3014,Set the temperature to 65 degrees
+3015,What's the temperature inside?
+3016,Set the thermostat to 70 degrees
+3017,Volume up on TV
+3018,Resume the TV
+3019,Turn on the TV
+3020,Make it louder on the TV
+3021,Pause the TV
+3022,Mute the TV
+3023,Skip ahead on speaker
+3024,Stop the TV
+3025,Turn off the AC
+3026,What's AC mode set to?
+3027,Turn on the AC
+3028,Make the AC speed lower
+3029,Raise the AC speed
+3030,Did I set AC to cool?
+3031,Stop the AC
+3032,What cycle is the AC in?
+3033,What is the AC speed?
+3034,Set mode on AC to cool
+3035,Switch off the lights
+3036,Turn off the air purifier
+3037,Stop the air purifier
+3038,Is the air purifier on?
+3039,Turn on the lights
+3040,Turn off the living room lamps
+3041,Are the lights on in the kids bedroom?
+3042,Turn on my lights
+3043,Dim the lights in the bathroom
+3044,Is the light on in John's office?
+3045,Open the side door
+3046,Is the front door closed?
+3047,Arm security
+3048,Set security to arm
+3049,Start the vacuum
+3050,Start vacuuming
+3051,Charge the vacuum
+3052,Is the vacuum running?
+3053,Stop vacuuming
+3054,Pause the vacuum
+3055,Is the vacuum charging?
+3056,Stop the vacuum
+3057,Send the vacuum home
+3058,Dock the vacuum
+3059,Turn on Movie Mode
+3060,Activate Good Morning
+3061,Pause the speaker
+3062,Skip ahead on speaker
+3063,Stop the speaker
+3064,Resume the speaker
+3065,Make it louder on the speaker
+3066,Volume down on speaker
+3067,Mute the speaker
+3068,Turn on the TV
+3069,Stop the TV
+3070,Make it louder on the TV
+3071,Mute the TV
+3072,Resume the TV
+3073,Volume up on TV
+3074,Pause the TV
+3075,Skip ahead on TV
+3076,What's on Baby camera?
+3077,Turn off the camera
+3078,Show garage camera
+3079,Turn on the camera
+3080,Turn On Hallway Camera
+3081,Show the Front Door Camera on Living Room TV
+3082,Is the Babycam On?
+3083,Is the upstairs closed?
+3084,Is the main line leaking water?
+3085,Open main line
+3086,Is the main line open?
+3087,Close upstairs
+3088,Turn on TV
+3089,Turn off TV
+3090,What's on Baby camera?
+3091,Turn on the camera
+3092,Is the Babycam On?
+3093,Turn off the camera
+3094,Show garage camera
+3095,Turn On Hallway Camera
+3096,Show the Front Door Camera on Living Room TV
+3097,Activate Good Morning
+3098,Turn on Movie Mode
+3099,Start the dehumidifier
+3100,Turn on the dehumidifier
+3101,Set fanspeed to high on dehumidifier
+3102,Set mode on dehumidifier to auto dry
+3103,Turn on TV
+3104,Turn off TV
+3105,Open main line
+3106,Is the upstairs closed?
+3107,Is the main line leaking water?
+3108,Close upstairs
+3109,Is the upstairs open?
+3110,Dim the dining room lamps
+3111,Turn on my lights
+3112,Is the light on in Mary's playroom?
+3113,Are the lights on in the dining room?
+3114,Turn off the lights
+3115,Dim the lights in the master bed room
+3116,Switch off the lights
+3117,Raise the fan speed
+3118,Set fan to 5
+3119,Make the fan speed higher
+3120,Turn off the fan
+3121,What is the fan speed?
+3122,Lower the fan speed
+3123,Turn on the fan
+3124,Make the fan speed lower
+3125,Switch off the lights
+3126,Turn on Movie Mode
+3127,Activate Good Morning
+3128,Turn off lights
+3129,Turn on TV
+3130,Turn off the air purifier
+3131,Is the air purifier on?
+3132,Stop the air purifier
+3133,Are the lights on in the living room?
+3134,Is the light on in John's office?
+3135,Turn on my lights
+3136,Dim the lights
+3137,Dim the lights in the bathroom
+3138,Turn off the dining room lamps
+3139,Is the Babycam On?
+3140,Turn on the camera
+3141,Turn off the camera
+3142,What's on Baby camera?
+3143,Show garage camera
+3144,Turn On Hallway Camera
+3145,Show the Front Door Camera on Living Room TV
+3146,What is the fan speed?
+3147,Raise the fan speed
+3148,Turn on the fan
+3149,Make the fan speed lower
+3150,Make the fan speed higher
+3151,Lower the fan speed
+3152,Set fan to 5
+3153,Turn off the fan
+3154,Dim the lights in the kids bedroom
+3155,Turn off the lights
+3156,Are the lights on in the kitchen?
+3157,Turn on my lights
+3158,Is the light on in John's office?
+3159,Dim the kitchen lamps
+3160,Is the front door locked?
+3161,Make the front door unlock
+3162,Lock the front door
+3163,Make sure the front door is locked
+3164,Make the front door lock
+3165,Is the front door unlocked?
+3166,Make sure the front door is unlocked
+3167,Unlock the front door
+3168,Turn on speakers
+3169,Turn off TV
+3170,What cycle is the AC in?
+3171,Set AC to high
+3172,What's AC mode set to?
+3173,Turn on the AC
+3174,Stop the AC
+3175,Set mode on AC to cool
+3176,Make the AC speed lower
+3177,What is the AC doing?
+3178,What is the AC speed?
+3179,Raise the AC speed
+3180,Open main line
+3181,Is the upstairs open?
+3182,Is the main line leaking water?
+3183,Is the main line closed?
+3184,Close the main line
+3185,Switch off the lights
+3186,Open the bedroom curtains
+3187,Close the curtains half way
+3188,Mute the speaker
+3189,Make it louder on the speaker
+3190,Stop the speaker
+3191,Skip ahead on TV
+3192,Resume the speaker
+3193,Pause the speaker
+3194,Volume down on speaker
+3195,What is the temperature set to?
+3196,Set the temperature to 80 degrees
+3197,Turn on the camera
+3198,What's on Baby camera?
+3199,Show garage camera
+3200,Turn off the camera
+3201,Is the Babycam On?
+3202,Show the Front Door Camera on Living Room TV
+3203,Turn On Hallway Camera
+3204,Turn on TV
+3205,Turn off speakers
+3206,Is the kettle on?
+3207,Set the temperature to 70 degrees
+3208,Is my water heater on?
+3209,Turn off the water heater
+3210,Turn up the temperature on water heater
+3211,Is the front door closed?
+3212,Open the side door
+3213,Send the vacuum home
+3214,Pause the vacuum
+3215,Is the vacuum running?
+3216,Start vacuuming
+3217,Start the vacuum
+3218,Charge the vacuum
+3219,Stop the vacuum
+3220,Is the vacuum charging?
+3221,Stop vacuuming
+3222,Dock the vacuum
+3223,Turn on the humidifier
+3224,Set the humidifier to 8
+3225,Deactivate auto for the humidifier
+3226,Start the humidifier
+3227,Set the humidifier to 35% humidity
+3228,Change the airflow to front on the humidifier
+3229,Set the humidifier to auto
+3230,Dim the master bed room lamps
+3231,Is the light on in Tyler's room?
+3232,Turn off the lights in the kitchen
+3233,Turn on my lights
+3234,Dim the lights
+3235,Are the lights on in the bathroom?
+3236,Turn on the air purifier
+3237,Start the air purifier
+3238,Is the air purifier on?
+3239,Turn on the fan
+3240,Raise the fan speed
+3241,Set fan to 5
+3242,Make the fan speed higher
+3243,What is the fan speed?
+3244,Turn off the fan
+3245,Lower the fan speed
+3246,Make the fan speed lower
+3247,Are blinds open?
+3248,Close blinds 10%
+3249,Open the blinds halfway
+3250,Open blinds
+3251,Rotate blinds to 20%
+3252,Close blinds down
+3253,Close blinds to 50%
+3254,Close blinds down to 20%
+3255,Open blinds to 20%
+3256,Open blinds up to 50%
+3257,Set the temperature on coffee maker to 80 degrees
+3258,Is the coffee maker on?
+3259,Turn off the coffee maker
+3260,Activate Good Morning
+3261,Turn on Movie Mode
+3262,What's the temperature inside?
+3263,Turn up the thermostat
+3264,Set the thermostat to 70 degrees
+3265,Set the temperature to 65 degrees
+3266,Volume up on TV
+3267,Turn on the TV
+3268,Skip ahead on speaker
+3269,Pause the TV
+3270,Stop the TV
+3271,Mute the TV
+3272,Resume the TV
+3273,Make it louder on the TV
+3274,Set security to arm
+3275,Arm security
+3276,Lock the front door
+3277,Is the front door locked?
+3278,Make sure the front door is unlocked
+3279,Make the front door lock
+3280,Unlock the front door
+3281,Is the front door unlocked?
+3282,Make sure the front door is locked
+3283,Make the front door unlock
+3284,Show the Front Door Camera on Living Room TV
+3285,Turn off the camera
+3286,Show garage camera
+3287,What's on Baby camera?
+3288,Is the Babycam On?
+3289,Turn On Hallway Camera
+3290,Turn on the camera
+3291,Close blinds down to 20%
+3292,Close blinds to 50%
+3293,Open blinds
+3294,Open blinds to 20%
+3295,Close blinds
+3296,Open blinds 50%
+3297,Open the blinds halfway
+3298,Rotate blinds to 20%
+3299,Close blinds down
+3300,Open blinds up to 50%
+3301,Is the air purifier on?
+3302,Stop the air purifier
+3303,Turn on the air purifier
+3304,Turn off speakers
+3305,Turn on lights
+3306,Open the bedroom curtains
+3307,Close the curtains half way
+3308,Is the kettle on?
+3309,Set the temperature to 70 degrees
+3310,Turn off the lights
+3311,Are the lights on in the master bed room?
+3312,Is the light on in Adam's bathroom?
+3313,Turn on my lights
+3314,Dim the lights in the dining room
+3315,Turn on the master bed room lamps
+3316,Open the side door
+3317,Is the front door closed?
+3318,Is my water heater on?
+3319,Turn off the water heater
+3320,Turn up the temperature on water heater
+3321,What is the temperature set to?
+3322,Set the temperature to 75 degrees
+3323,Skip ahead on speaker
+3324,Resume the speaker
+3325,Volume up on speaker
+3326,Stop the speaker
+3327,Make it louder on the speaker
+3328,Pause the speaker
+3329,Mute the speaker
+3330,Switch off the lights
+3331,Pause the vacuum
+3332,Dock the vacuum
+3333,Is the vacuum charging?
+3334,Send the vacuum home
+3335,Stop the vacuum
+3336,Stop vacuuming
+3337,Is the vacuum running?
+3338,Start vacuuming
+3339,Start the vacuum
+3340,Charge the vacuum
+3341,Set fanspeed to high on dehumidifier
+3342,Start the dehumidifier
+3343,Set mode on dehumidifier to auto dry
+3344,Turn on the dehumidifier
+3345,Make the AC speed lower
+3346,What is the AC doing?
+3347,Set AC to high
+3348,Stop the AC
+3349,Set mode on AC to cool
+3350,What is the AC speed?
+3351,Did I set AC to cool?
+3352,Lower the AC speed
+3353,Start the AC
+3354,Raise the AC speed
+3355,Activate Good Morning
+3356,Turn on Movie Mode
+3357,What's the temperature inside?
+3358,Turn up the thermostat
+3359,Set the thermostat to 68 degrees
+3360,Set the temperature to 65 degrees
+3361,Pause the TV
+3362,Resume the TV
+3363,Stop the TV
+3364,Make it louder on the TV
+3365,Mute the TV
+3366,Turn on the TV
+3367,Volume up on TV
+3368,Set security to arm
+3369,Arm security
+3370,Pause the vacuum
+3371,Stop vacuuming
+3372,Dock the vacuum
+3373,Charge the vacuum
+3374,Is the vacuum running?
+3375,Send the vacuum home
+3376,Stop the vacuum
+3377,Start vacuuming
+3378,Start the vacuum
+3379,Is the vacuum charging?
+3380,Switch off the lights
+3381,What's the temperature inside?
+3382,Turn down the thermostat
+3383,Set the temperature to 65 degrees
+3384,Set the thermostat to 68 degrees
+3385,Turn up the thermostat
+3386,Turn on the camera
+3387,Is the Babycam On?
+3388,Turn off the camera
+3389,What's on Baby camera?
+3390,Show the Front Door Camera on Living Room TV
+3391,Show garage camera
+3392,Turn On Hallway Camera
+3393,Activate Good Morning
+3394,Turn on Movie Mode
+3395,Turn on the lights
+3396,Is the light on in Adam's bathroom?
+3397,Turn on my lights
+3398,Turn on the bathroom lamps
+3399,Are the lights on in the living room?
+3400,Turn off the lights in the living room
+3401,Turn on TV
+3402,Turn off lights
+3403,Lower the AC speed
+3404,Turn on the AC
+3405,Make the AC speed lower
+3406,Stop the AC
+3407,Raise the AC speed
+3408,What is the AC doing?
+3409,Set AC to high
+3410,Turn off the AC
+3411,What is the AC speed?
+3412,Did I set AC to cool?
+3413,Is the garage door open?
+3414,Close the garage door
+3415,Open the garage door
+3416,Make sure the front door is locked
+3417,Make sure the front door is unlocked
+3418,Is the front door unlocked?
+3419,Lock the front door
+3420,Make the front door lock
+3421,Make the front door unlock
+3422,Unlock the front door
+3423,Is the front door locked?
+3424,Show garage camera
+3425,Turn on the camera
+3426,Show the Front Door Camera on Living Room TV
+3427,Turn off the camera
+3428,What's on Baby camera?
+3429,Turn On Hallway Camera
+3430,Is the Babycam On?
+3431,Open the side door
+3432,Is the front door closed?
+3433,Turn down the thermostat
+3434,Set the thermostat to 72 degrees
+3435,What's the temperature inside?
+3436,Set the temperature to 65 degrees
+3437,Set security to arm
+3438,Arm security
+3439,Turn on the camera
+3440,Turn off the camera
+3441,Show the Front Door Camera on Living Room TV
+3442,What's on Baby camera?
+3443,Turn On Hallway Camera
+3444,Is the Babycam On?
+3445,Show garage camera
+3446,Are the lights on in the master bed room?
+3447,Turn on my lights
+3448,Is the light on in John's office?
+3449,Turn off the dining room lamps
+3450,Turn off the lights
+3451,Turn on the lights in the kitchen
+3452,Open the window
+3453,Close the window
+3454,Close the garage door
+3455,Is the garage door closed?
+3456,Open the garage door
+3457,Lock the front door
+3458,Make the front door lock
+3459,Is the front door locked?
+3460,Make the front door unlock
+3461,Unlock the front door
+3462,Make sure the front door is locked
+3463,Make sure the front door is unlocked
+3464,Is the front door unlocked?
+3465,Turn on the camera
+3466,Turn On Hallway Camera
+3467,Show the Front Door Camera on Living Room TV
+3468,What's on Baby camera?
+3469,Turn off the camera
+3470,Show garage camera
+3471,Is the Babycam On?
+3472,Turn on my lights
+3473,Dim the lights in the living room
+3474,Turn off the lights
+3475,Is the light on in Adam's bathroom?
+3476,Turn off the dining room lamps
+3477,Are the lights on in the kids bedroom?
+3478,Switch off the lights
+3479,Close the garage door
+3480,Is the garage door open?
+3481,Open the garage door
+3482,Open blinds 50%
+3483,Close blinds to 50%
+3484,Close blinds down
+3485,Open blinds up to 50%
+3486,Close blinds
+3487,Rotate blinds to 20%
+3488,Open blinds
+3489,Open the blinds halfway
+3490,Are blinds open?
+3491,Close blinds 10%
+3492,Open the front gate
+3493,Close the gate 50%
+3494,Turn on the fan
+3495,Turn off the fan
+3496,Set fan to 5
+3497,Make the fan speed lower
+3498,Raise the fan speed
+3499,What is the fan speed?
+3500,Lower the fan speed
+3501,Make the fan speed higher
+3502,Open blinds up to 50%
+3503,Open the blinds halfway
+3504,Rotate blinds to 20%
+3505,Close blinds down
+3506,Close blinds 10%
+3507,Close blinds down to 20%
+3508,Close blinds
+3509,Are blinds open?
+3510,Open blinds
+3511,Open blinds 50%
+3512,Did I set AC to cool?
+3513,What is the AC doing?
+3514,Set mode on AC to cool
+3515,What cycle is the AC in?
+3516,What is the AC speed?
+3517,Set AC to high
+3518,Lower the AC speed
+3519,Stop the AC
+3520,What's AC mode set to?
+3521,Turn off the AC
+3522,Switch off the lights
+3523,Stop the air purifier
+3524,Turn off the air purifier
+3525,Is the air purifier on?
+3526,Turn off the lights in the kitchen
+3527,Are the lights on in the bathroom?
+3528,Turn on the lights
+3529,Turn off the bathroom lamps
+3530,Is the light on in Mary's playroom?
+3531,Turn on my lights
+3532,Turn on Movie Mode
+3533,Activate Good Morning
+3534,Turn on lights
+3535,Turn off TV
+3536,Turn on the TV
+3537,Make it louder on the TV
+3538,Skip ahead on speaker
+3539,Stop the TV
+3540,Resume the TV
+3541,Volume down on TV
+3542,Pause the TV
+3543,Mute the TV
+3544,Close the curtains half way
+3545,Open the bedroom curtains
+3546,Dock the vacuum
+3547,Send the vacuum home
+3548,Stop the vacuum
+3549,Is the vacuum running?
+3550,Stop vacuuming
+3551,Pause the vacuum
+3552,Start the vacuum
+3553,Start vacuuming
+3554,Is the vacuum charging?
+3555,Charge the vacuum
+3556,What's the temperature inside?
+3557,Turn down the thermostat
+3558,Set the thermostat to 75 degrees
+3559,Set the temperature to 65 degrees
+3560,Turn off the camera
+3561,Turn on the camera
+3562,Show the Front Door Camera on Living Room TV
+3563,Turn On Hallway Camera
+3564,Show garage camera
+3565,Is the Babycam On?
+3566,What's on Baby camera?
+3567,Lock the front door
+3568,Is the front door unlocked?
+3569,Make sure the front door is unlocked
+3570,Make sure the front door is locked
+3571,Make the front door unlock
+3572,Make the front door lock
+3573,Unlock the front door
+3574,Is the front door locked?
+3575,Turn off the camera
+3576,Turn on the camera
+3577,What's on Baby camera?
+3578,Show the Front Door Camera on Living Room TV
+3579,Is the Babycam On?
+3580,Turn On Hallway Camera
+3581,Show garage camera
+3582,Switch off the lights
+3583,Set security to arm
+3584,Arm security
+3585,Stop the vacuum
+3586,Charge the vacuum
+3587,Start vacuuming
+3588,Send the vacuum home
+3589,Is the vacuum charging?
+3590,Pause the vacuum
+3591,Start the vacuum
+3592,Stop vacuuming
+3593,Is the vacuum running?
+3594,Dock the vacuum
+3595,Turn on the camera
+3596,Show the Front Door Camera on Living Room TV
+3597,Is the Babycam On?
+3598,What's on Baby camera?
+3599,Show garage camera
+3600,Turn On Hallway Camera
+3601,Turn off the camera
+3602,Arm security
+3603,Set security to arm
+3604,Activate Good Morning
+3605,Turn on Movie Mode
+3606,Talk to NightOwl Connect.
+3607,Ask NightOwl Connect about my devices.
+3608,Talk to NightOwl Connect about Actions.
+3609,Ask NightOwl Connect to start recording.
+3610,Talk to NightOwl Connect about Commands.
+3611,Talk to Alder Home
+3612,Ask Alder Home to get alarm status
+3613,Ask Alder Home to get history for this week
+3614,Ask Alder Home to get history for today
+3615,Talk to Smart Rabbit
+3616,Talk to Alcidae Garager
+3617,Talk to Immax Neo Security
+3618,Talk to arnoo eu security
+3619,Talk to arnoo eu security to set away mode
+3620,Talk to arnoo eu security to set stay mode
+3621,Ask location sensor
+3622,Talk to Prodigy Home
+3623,Ask Prodigy Home to arm away
+3624,Ask Prodigy Home about alarm status
+3625,Ask Prodigy Home to get history for yesterday
+3626,Ask Prodigy Home to get history for last week
+3627,Talk to alarm oh
+3628,Ask alarm oh to arm away
+3629,Ask alarm oh to get alarm status
+3630,Ask alarm oh to get history for this week
+3631,Ask alarm oh to get history for today
+3632,Talk to myVita plus
+3633,Open myVita plus to check zone one status
+3634,Ask myVita plus that I want to sleep
+3635,Ask SmartCam by Ooma
+3636,Talk to SmartCam by Ooma
+3637,Talk to Altec Smart Cameras
+3638,Ask Altec Smart Cameras to enable camera detection
+3639,Ask Altec Smart Cameras to disable camera motion detection
+3640,Talk to HUB SIX
+3641,Talk to Angee security
+3642,Ask Angee security about her state
+3643,Ask Angee security to arm my home
+3644,Ask Angee security to start a new recording
+3645,Ask Angee security about who is present
+3646,Talk to project nursery
+3647,Tell Virtual Keypad to arm my system
+3648,Ask Virtual Keypad to arm away
+3649,Arm my system with Virtual Keypad
+3650,Ask LifeShield to arm instant.
+3651,Ask LifeShield to arm stay.
+3652,Ask LifeShield to arm away.
+3653,Ask Control Hub to disarm system
+3654,Ask Control Hub to arm system
+3655,Ask Control Hub to panic system
+3656,Ask Control Hub to start group one
+3657,Ask Control Hub to start recording
+3658,Talk to iSmart Plus.
+3659,Ask iSmart Plus to turn on the auto-rotate.
+3660,Ask iSmart Plus to show me a picture.
+3661,Ask iSmart Plus to turn on the color night vision.
+3662,Ask iSmart Plus to make an emergency call.
+3663,Talk to Trend Micro
+3664,Ask Trend Micro to scan my network
+3665,Ask Trend Micro if my network is OK
+3666,Ask Trend Micro to pause the Internet for Tom
+3667,Ask Hubble Home to check temperature
+3668,Speak to Hubble Home to disable motion detection
+3669,Talk to Hubble Home to stop lullaby
+3670,Ask Hubble Home to enable motion recording
+3671,Ask Hubble Home to play lullaby
+3672,Talk to Point Home
+3673,Ask Point Home to turn on the alarm
+3674,Ask Point Home what's the temperature
+3675,Talk to [Retired] Sesame Lock
+3676,Talk to [Retired] Sesame Lock to get lock status
+3677,Ask [Retired] Sesame Lock to check lock status
+3678,Talk to [Retired] Sesame Lock to close the door
+3679,Ask [Retired] Sesame Lock to lock the door
+3680,Ask My Blaupunkt Alarm
+3681,Talk to Cocoon
+3682,Ask Cocoon to arm my household
+3683,Tell Cocoon to sound the siren
+3684,Tell Cocoon to stop the siren
+3685,Ask Cocoon about subsound
+3686,Talk to OHD Anywhere
+3687,Ask OHD Anywhere to open my door
+3688,Ask OHD Anywhere to close all of my doors
+3689,Talk to Protect Alarm
+3690,Talk to Protect Alarm and Arm the hub
+3691,Talk to Protect Alarm and Disarm the hub
+3692,Talk to Protect Alarm and Set my pin
+3693,Talk to Protect Alarm and Turn off the cameras
+3694,Ask Cove Home to arm stay
+3695,Talk to Cove Home
+3696,Ask Cove Home to arm away
+3697,Ask Cove Home to get alarm status
+3698,Ask Cove Home to get history for this week
+3699,Ask Cove Home to get history for today
+3700,Turn off the camera
+3701,Turn on the camera
+3702,Show garage camera
+3703,Turn On Hallway Camera
+3704,Show the Front Door Camera on Living Room TV
+3705,Is the Babycam On?
+3706,What's on Baby camera?
+3707,Lock the front door
+3708,Is the front door locked?
+3709,Make sure the front door is unlocked
+3710,Make sure the front door is locked
+3711,Make the front door lock
+3712,Unlock the front door
+3713,Make the front door unlock
+3714,Is the front door unlocked?
+3715,Arm security
+3716,Set security to arm
+3717,Show me who's at the front door
+3718,What's on front door
+3719,Show the front door on Living Room TV
+3720,Turn down the thermostat
+3721,What's the temperature inside?
+3722,Turn up the thermostat
+3723,Set the temperature to 65 degrees
+3724,Set the thermostat to 70 degrees
+3725,Are the lights on in the bathroom?
+3726,Turn off the lights in the dining room
+3727,Dim the living room lamps
+3728,Is the light on in Tyler's room?
+3729,Turn on the lights
+3730,Turn on my lights
+3731,Talk to Jotto Smart
+3732,Ask Jotto Smart set ten point five of kitchen
+3733,Ask Jotto Smart get temperature
+3734,Ask pb tv to watch channel 3
+3735,Ask pb tv to search for Big Bang Theory
+3736,Ask pb tv to tune to the Weather Channel
+3737,Ask Clium Cleaner to clean
+3738,Ask Clium Cleaner to stop
+3739,Ask Clium Cleaner Record
+3740,Talk to BG Vacuum
+3741,Ask BG Vacuum to start cleaning.
+3742,Ask BG Vacuum to stop cleaning.
+3743,Ask BG Vacuum to start charging.
+3744,Talk to SL60 Cleaner
+3745,Ask SL60 Cleaner to start cleaning.
+3746,Ask SL60 Cleaner to stop cleaning.
+3747,Ask SL60 Cleaner to start charging.
+3748,Talk to Salty Home
+3749,Ask Salty Home how my water softener is doing
+3750,Talk to Smart Motion
+3751,Ask Smart Motion to move head up
+3752,Ask Smart Motion to move foot down
+3753,Ask Smart Motion to turn the light on
+3754,Ask Smart Motion to move to the Memory Position One
+3755,Talk to Accentronix Notifications
+3756,Ask ematic home to open garage door
+3757,Ask ematic home to close door
+3758,Ask ematic home to check garage door one
+3759,Talk to Dimplex Capa
+3760,Ask Dimplex Capa to set temperature to 20 degrees
+3761,Ask Dimplex Capa to change mode
+3762,Ask Dimplex Capa to change to eco mode
+3763,Ask Dimplex Capa to change to normal mode
+3764,Talk to Smart Robot Mower
+3765,Talk to Smart Q See
+3766,Talk to Pentagon Control
+3767,Ask Pentagon Control to lock front door
+3768,Ask Pentagon Control to check front door
+3769,Talk to fovi heat
+3770,Talk to Buddee Home
+3771,Talk to spd office
+3772,Talk to Clean Robot
+3773,Ask Clean Robot
+3774,Talk to Skydrop
+3775,Ask Skydrop to water all zones
+3776,Ask Skydrop to water Front Yard Flowers
+3777,Ask Skydrop for my watering forecast
+3778,Ask Skydrop to stop watering
+3779,Ask Tigo Smart for a system summary
+3780,Talk to Tigo Smart about my current power production
+3781,Talk to gBox1
+3782,Ask gBox1 to read channel 1
+3783,Talk to Bed Control
+3784,Talk to Hoover Dry
+3785,Talk to Spruce Irrigation
+3786,Ask Spruce Irrigation to turn on all zones for 5 minutes
+3787,Ask Spruce Irrigation to stop watering
+3788,Ask Spruce Irrigation when the last schedule ran
+3789,Ask Picostone Home
+3790,Tell Picostone Home
+3791,Ask SolarGaps to Roll up my blinds
+3792,Ask SolarGaps to Roll up my blinds a half
+3793,Ask SolarGaps to Open my blinds
+3794,Ask SolarGaps to Close my blinds a little
+3795,Ask SolarGaps to Roll down my blinds a little
+3796,Ask Camera View to give me a help
+3797,Talk to Camera View about device list
+3798,Ask bluebot robotic
+3799,Talk to bluebot robotic
+3800,Ask blue robotic
+3801,Talk to blue robotic
+3802,Talk to Candy Dry
+3803,Talk to C8
+3804,Talk to X home
+3805,Talk to smartcam
+3806,Ask smartcam
+3807,Ask smartcam  who visited today
+3808,Ask smartcam today's brief
+3809,Talk to Midea Blink
+3810,Talk to Hoover Dish
+3811,Talk to Tele Star
+3812,Talk to Dr. coabot
+3813,Ask Dr. coabot
+3814,Talk to Innit Chef
+3815,Ask Innit Chef to show the next instruction
+3816,Ask Innit Chef for the previous step
+3817,Ask Innit Chef to toggle video
+3818,Ask Innit Chef for help
+3819,Talk to Robonect lawn mower
+3820,Ask Robonect lawn mower for the status
+3821,Ask Robonect lawn mower to start mowing
+3822,Ask Robonect lawn mower to call it a day
+3823,Ask Robonect lawn mower to set the mode to auto
+3824,Talk to Robot scout
+3825,Talk to Sutro Smart Home
+3826,Talk to Power Base
+3827,Talk to Power Base about raise head
+3828,Talk to Power Base about start massaging
+3829,Talk to StreamLabs Water
+3830,Talk to Candy Bianca
+3831,Ask Candy Bianca on how do i clean sweaters
+3832,Talk to Epson Printer
+3833,Ask Epson Printer to print a help page.
+3834,Ask Epson Printer to print a design paper.
+3835,Ask Epson Printer to print photo props.
+3836,Ask Epson Printer to print a sudoku.
+3837,Talk to Proflame Connect and give me the list of fireplaces
+3838,Talk to Proflame Connect and and turn on the fireplace
+3839,Talk to Proflame Connect and set the thermostat to smart
+3840,Talk to Robot Conga
+3841,Ask Robot Conga
+3842,Talk to Brizo
+3843,Ask Brizo to turn my faucet on
+3844,Ask Brizo to fill coffee pot
+3845,Talk to SmarTap
+3846,Ask SmarTap to start my morning shower
+3847,Ask SmarTap to start my noon shower
+3848,Talk to Automower
+3849,Ask Automower to check status
+3850,Ask Automower to stop
+3851,Ask Automower to park
+3852,Talk to LinkTap
+3853,Talk to LinkTap
+3854,start watering for 10 minutes
+3855,Talk to LinkTap
+3856,stop the water
+3857,Talk to LinkTap
+3858,how much battery left
+3859,Talk to LinkTap
+3860,when it water again
+3861,Talk to Kohler
+3862,Talk to Kohler
+3863,to turn on my faucet
+3864,Talk to Kohler
+3865,to turn on my shower
+3866,Talk to Kohler
+3867,to check my water usage
+3868,Talk to Kohler
+3869,what is my filter life
+3870,Ask Home Feeder sony tv on
+3871,Ask Home Feeder to turn on the kitchen lights
+3872,Ask Home Feeder to watch dota
+3873,Ask Home Feeder to turn off slumber
+3874,Talk to FireBoard
+3875,Talk to FireBoard and tell me how long I've been cooking
+3876,Talk to FireBoard and set my smoker to 225 degrees
+3877,Ask Lay Z Spa to turn on
+3878,Ask Lay Z Spa to turn massage on
+3879,Ask Lay Z Spa to turn heat on
+3880,Ask Sense how much power am i using
+3881,Ask Sense how much solar I am producing?
+3882,Ask Sense did I leave the oven on?
+3883,Ask Sense when did the garage door close?
+3884,Ask Sense if my refrigerator is running?
+3885,Talk to Panasonic Blu-ray.
+3886,Ask Panasonic Blu-ray to play.
+3887,Ask Panasonic Blu-ray to pause.
+3888,Ask Panasonic Blu-ray to launch Netflix.
+3889,Ask Panasonic Blu-ray to turn off.
+3890,Ask My spa pool set the temperature to 38 degrees
+3891,Ask My spa pool turn pump 1 on
+3892,Ask My spa pool turn lights on party mode
+3893,Speak to simple commands
+3894,Can I speak to simple commands
+3895,I want to speak to simple commands
+3896,Talk to simple commands
+3897,Can i talk to simple commands
+3898,Talk to Guardian Technologies
+3899,Talk to Guardian Technologies to turn on Living Room
+3900,Ask Soma Connect to open the shades
+3901,Speak to Soma Connect to close the blinds
+3902,Talk to Soma Connect to set the shades to 50 percent
+3903,Speak to Soma Connect to open the bedroom blinds
+3904,Ask Soma Connect to roll the kitchen shades to halfway
+3905,Ask Moen to dispense one cup of water
+3906,Ask Moen to link my account
+3907,Talk to Moen
+3908,Ask Moen to turn on
+3909,Ask Moen to dispense hot water
+3910,Ask Moen to dispense a cup of water at 100 degrees
+3911,Ask Moen if I have any alerts
+3912,Ask LG
+3913,Ask LG to turn off the tv
+3914,Ask LG to turn off tv
+3915,Talk to LG
+3916,Ask LG to discover my devices
+3917,Ok google ask LG
+3918,Talk to LG to check washer status.
+3919,Speak to LG to turn on robot cleaner.
+3920,Ask LG to change channel to fifteen on TV.
+3921,Let me speak to LG to set air conditioner to 65 degrees.
+3922,Talk to Aladdin Connect
+3923,Ask Aladdin Connect to Open my door
+3924,Ask Aladdin Connect to Close all doors
+3925,Talk to Live Smart
+3926,Ask Live Smart to jump to channel 5
+3927,Ask Live Smart to make it warmer
+3928,Talk to Delta Faucet
+3929,Ask Delta Faucet to turn my faucet on
+3930,Ask Delta Faucet to fill coffee pot
+3931,Talk to Alfred Camera
+3932,Ask Alfred Camera to disarm.
+3933,Ask Alfred Camera to turn on Motion Detection.
+3934,Ask Alfred Camera to enable Motion Detection.
+3935,Ask Master Automation to turn on the light in the kitchen
+3936,Ask RoboVac to start cleaning
+3937,Ask RoboVac to go home
+3938,Talk to RoboVac
+3939,Tell RoboVac to go home
+3940,Tell RoboVac to start cleaning
+3941,Ask RoboVac to start cleaning.
+3942,Ask RoboVac to stop cleaning.
+3943,Ask RoboVac to go home.
+3944,Ask RoboVac to find my robot.
+3945,Ask Harmony to turn off the tv
+3946,Ask Harmony to turn off tv
+3947,Ask Harmony to turn on the tv
+3948,Ask Harmony to turn on tv
+3949,Ask Harmony to watch tv
+3950,Ask Harmony to pause
+3951,Ask Harmony to increase the volume
+3952,Ask Harmony to turn off
+3953,Ask Harmony to play
+3954,Ask Harmony to turn on my TV
+3955,Turn off TV
+3956,Turn on TV
+3957,Activate Good Morning
+3958,Turn on Movie Mode
+3959,Is the light on in Adam's bathroom?
+3960,Are the lights on in the kitchen?
+3961,Turn off the kitchen lamps
+3962,Turn on the lights
+3963,Turn on the lights in the bathroom
+3964,Turn on my lights
+3965,Switch off the lights
+3966,Lower the AC speed
+3967,What is the AC doing?
+3968,What is the AC speed?
+3969,Turn on the AC
+3970,Turn off the AC
+3971,Stop the AC
+3972,Did I set AC to cool?
+3973,Make the AC speed lower
+3974,Set mode on AC to cool
+3975,What cycle is the AC in?
+3976,Pause the vacuum
+3977,Start vacuuming
+3978,Charge the vacuum
+3979,Send the vacuum home
+3980,Stop vacuuming
+3981,Is the vacuum charging?
+3982,Stop the vacuum
+3983,Start the vacuum
+3984,Dock the vacuum
+3985,Is the vacuum running?
+3986,Activate auto for the humidifier
+3987,Set the humidifier to 6
+3988,Set the humidifier to auto
+3989,Set the humidifier to 35% humidity
+3990,Turn off the humidifier
+3991,Stop the humidifier
+3992,Change the airflow to front on the humidifier
+3993,Turn off the camera
+3994,Show the Front Door Camera on Living Room TV
+3995,Is the Babycam On?
+3996,What is on Baby camera?
+3997,Turn On Hallway Camera
+3998,Show garage camera
+3999,Turn on the camera
+4000,Is the air purifier on?
+4001,Turn on the air purifier
+4002,Start the air purifier
+4003,Close blinds 10%
+4004,Open blinds up to 50%
+4005,Close blinds down to 20%
+4006,Open the blinds 50%
+4007,Open blinds
+4008,Close blinds
+4009,Open the blinds halfway
+4010,Rotate blinds to 20%
+4011,Are blinds open?
+4012,Close blinds to 50%
+4013,Switch off the lights
+4014,Turn on Movie Mode
+4015,Activate Good Morning
+4016,Water the lawn in backyard
+4017,Start watering in backyard
+4018,Is sprinkler running?
+4019,Start watering
+4020,Water the lawn
+4021,Turn off TV
+4022,Turn on TV
+4023,Turn down the thermostat
+4024,Set the thermostat to 68 degrees
+4025,Set the temperature to 65 degrees
+4026,What is the temperature inside?
+4027,Are the lights on in the master bed room?
+4028,Dim the lights
+4029,Dim the living room lamps
+4030,Is the light on in John's office?
+4031,Turn on my lights
+4032,Turn on the lights in the master bed room
+4033,Close blinds down to 20%
+4034,Close blinds down
+4035,Open blinds to 20%
+4036,Close blinds 10%
+4037,Open blinds 50%
+4038,Open blinds
+4039,Rotate blinds to 20%
+4040,Are blinds open?
+4041,Open blinds up to 50%
+4042,Open the blinds 10%
+4043,Is the light on in Adam's bathroom?
+4044,Turn off the lights in the kids bedroom
+4045,Turn on my lights
+4046,Turn off the master bed room lamps
+4047,Are the lights on in the master bed room?
+4048,Dim the lights
+4049,Open the bedroom curtains
+4050,Close the curtains half way
+4051,Dim the lights in the bathroom
+4052,Turn off the lights
+4053,Are the lights on in the bathroom?
+4054,Turn on my lights
+4055,Is the light on in Adam's bathroom?
+4056,Turn on the dining room lamps
+4057,Turn on TV
+4058,Set the temperature to 72 degrees
+4059,What is the temperature set to?
+4060,Set security to arm
+4061,Arm security
+4062,Stop the air purifier
+4063,Turn off the air purifier
+4064,Is the air purifier on?
+4065,Turn off speakers
+4066,Volume up on TV
+4067,Turn on the TV
+4068,Resume the TV
+4069,Pause the TV
+4070,Stop the TV
+4071,Mute the TV
+4072,Skip ahead on speaker
+4073,Make it louder on the TV
+4074,Set the temperature on coffee maker to 80 degrees
+4075,Turn off the coffee maker
+4076,Is the coffee maker on?
+4077,Set the humidifier to 35% humidity
+4078,Set the humidifier to 7
+4079,Deactivate diffused for the humidifier
+4080,Turn off the humidifier
+4081,Change the airflow to rear on the humidifier
+4082,Stop the humidifier
+4083,Set the humidifier to manual
+4084,Open the bedroom curtains
+4085,Close the curtains half way
+4086,Open blinds up to 50%
+4087,Close blinds to 50%
+4088,Open the blinds 30%
+4089,Rotate blinds to 20%
+4090,Close blinds down to 20%
+4091,Open the blinds halfway
+4092,Close blinds
+4093,Open blinds 50%
+4094,Close blinds 10%
+4095,Close blinds down
+4096,Open the side door
+4097,Is the front door closed?
+4098,Activate Good Morning
+4099,Turn on Movie Mode
+4100,Mute the speaker
+4101,Stop the speaker
+4102,Pause the speaker
+4103,Make it louder on the speaker
+4104,Volume down on speaker
+4105,Resume the speaker
+4106,Set the temperature to 70 degrees
+4107,Is the kettle on?
+4108,Switch off the lights
+4109,Set the temperature to 65 degrees
+4110,Turn down the thermostat
+4111,Turn up the thermostat
+4112,What's the temperature inside?
+4113,Set the thermostat to 70 degrees
+4114,Is the vacuum charging?
+4115,Start the vacuum
+4116,Start vacuuming
+4117,Is the vacuum running?
+4118,Send the vacuum home
+4119,Pause the vacuum
+4120,Charge the vacuum
+4121,Stop the vacuum
+4122,Stop vacuuming
+4123,Dock the vacuum
+4124,Turn off the water heater
+4125,Turn up the temperature on water heater
+4126,Is my water heater on?
+4127,Show the Front Door Camera on Living Room TV
+4128,Turn On Hallway Camera
+4129,Turn off the camera
+4130,Show garage camera
+4131,Turn on the camera
+4132,Is the Babycam On?
+4133,What's on Baby camera?
+4134,Set fan to 5
+4135,Raise the fan speed
+4136,Turn on the fan
+4137,Lower the fan speed
+4138,Make the fan speed higher
+4139,Turn off the fan
+4140,Make the fan speed lower
+4141,What is the fan speed?
+4142,Dim the kids bedroom lamps
+4143,Turn on my lights
+4144,Dim the lights in the kids bedroom
+4145,Is the light on in Alice's bedroom?
+4146,Are the lights on in the kitchen?
+4147,Dim the lights
+4148,Set AC to high
+4149,Turn on the AC
+4150,Set mode on AC to cool
+4151,Turn off the AC
+4152,Stop the AC
+4153,Raise the AC speed
+4154,What cycle is the AC in?
+4155,Lower the AC speed
+4156,Make the AC speed lower
+4157,What is the AC doing?
+4158,Open upstairs
+4159,Is the upstairs closed?
+4160,Is the main line leaking water?
+4161,Close upstairs
+4162,Is the main line open?
+4163,Switch off the lights
+4164,Start the air purifier
+4165,Turn on the air purifier
+4166,Is the air purifier on?
+4167,Turn on Movie Mode
+4168,Activate Good Morning
+4169,Set mode on AC to cool
+4170,Stop the AC
+4171,Turn off the AC
+4172,What's AC mode set to?
+4173,What is the AC speed?
+4174,Raise the AC speed
+4175,What is the AC doing?
+4176,What cycle is the AC in?
+4177,Set AC to high
+4178,Start the AC
+4179,Set the temperature to 65 degrees
+4180,What is the temperature set to?
+4181,Turn on the lights
+4182,Turn on the lights in the bathroom
+4183,Turn on my lights
+4184,Turn on the master bed room lamps
+4185,Is the light on in Mary's playroom?
+4186,Are the lights on in the kids bedroom?
+4187,Stop the AC
+4188,Did I set AC to cool?
+4189,Turn on the AC
+4190,Set mode on AC to cool
+4191,Raise the AC speed
+4192,What is the AC doing?
+4193,What cycle is the AC in?
+4194,Make the AC speed lower
+4195,What's AC mode set to?
+4196,Set AC to high
+4197,Dim the lights
+4198,Turn on my lights
+4199,Is the light on in Mary's playroom?
+4200,Are the lights on in the kitchen?
+4201,Turn off the lights in the master bed room
+4202,Dim the living room lamps
+4203,Make the fan speed higher
+4204,What is the fan speed?
+4205,Make the fan speed lower
+4206,Turn on the fan
+4207,Set fan to 5
+4208,Turn off the fan
+4209,Raise the fan speed
+4210,Lower the fan speed
+4211,Turn off TV
+4212,Turn on TV
+4213,Mute the TV
+4214,Pause the TV
+4215,Volume up on TV
+4216,Turn on the TV
+4217,Resume the TV
+4218,Skip ahead on TV
+4219,Make it louder on the TV
+4220,Stop the TV
+4221,Activate Good Morning
+4222,Turn on Movie Mode
+4223,Arm security
+4224,Set security to arm
+4225,Turn on the air purifier
+4226,Is the air purifier on?
+4227,Stop the air purifier
+4228,Close blinds down to 20%
+4229,Open blinds up to 50%
+4230,Close blinds down
+4231,Open the blinds halfway
+4232,Are blinds open?
+4233,Rotate blinds to 20%
+4234,Close blinds 10%
+4235,Open blinds
+4236,Close blinds
+4237,Open blinds to 20%
+4238,Turn on TV
+4239,Turn off speakers
+4240,Turn on lights
+4241,Deactivate auto for the humidifier
+4242,Set the humidifier to 35% humidity
+4243,Set the humidifier to 4
+4244,Turn on the humidifier
+4245,Set the humidifier to continuous
+4246,Start the humidifier
+4247,Change the airflow to rear on the humidifier
+4248,Mute the speaker
+4249,Pause the speaker
+4250,Volume down on speaker
+4251,Stop the speaker
+4252,Skip ahead on TV
+4253,Resume the speaker
+4254,Make it louder on the speaker
+4255,Turn off the fan
+4256,Set fan to 5
+4257,Lower the fan speed
+4258,What is the fan speed?
+4259,Turn on the fan
+4260,Make the fan speed higher
+4261,Make the fan speed lower
+4262,Raise the fan speed
+4263,Turn On Hallway Camera
+4264,Turn off the camera
+4265,What's on Baby camera?
+4266,Turn on the camera
+4267,Is the Babycam On?
+4268,Show the Front Door Camera on Living Room TV
+4269,Show garage camera
+4270,Skip ahead on speaker
+4271,Pause the TV
+4272,Stop the TV
+4273,Resume the TV
+4274,Volume up on TV
+4275,Make it louder on the TV
+4276,Mute the TV
+4277,Turn on the TV
+4278,Are the lights on in the master bed room?
+4279,Turn on the lights
+4280,Dim the lights in the kids bedroom
+4281,Dim the kids bedroom lamps
+4282,Turn on my lights
+4283,Is the light on in Adam's bathroom?
+4284,Switch off the lights
+4285,Turn up the temperature on water heater
+4286,Is my water heater on?
+4287,Turn off the water heater
+4288,What cycle is the AC in?
+4289,Lower the AC speed
+4290,Did I set AC to cool?
+4291,Set AC to high
+4292,Make the AC speed lower
+4293,Turn on the AC
+4294,Set mode on AC to cool
+4295,Turn off the AC
+4296,Start the AC
+4297,Raise the AC speed
+4298,Close the curtains half way
+4299,Open the bedroom curtains
+4300,Charge the vacuum
+4301,Send the vacuum home
+4302,Stop the vacuum
+4303,Is the vacuum running?
+4304,Start vacuuming
+4305,Stop vacuuming
+4306,Pause the vacuum
+4307,Start the vacuum
+4308,Is the vacuum charging?
+4309,Dock the vacuum
+4310,Switch off the lights
+4311,Turn off the AC
+4312,Raise the AC speed
+4313,What is the AC speed?
+4314,What cycle is the AC in?
+4315,Did I set AC to cool?
+4316,Turn on the AC
+4317,What is the AC doing?
+4318,Set AC to high
+4319,What is AC mode set to?
+4320,Set mode on AC to cool
+4321,Water the lawn in front yard
+4322,Start watering in front yard
+4323,Is sprinkler running?
+4324,Water the lawn
+4325,Start watering
+4326,Turn on lights
+4327,Turn off lights
+4328,Start the dehumidifier
+4329,Set mode on dehumidifier to auto dry
+4330,Turn on the dehumidifier
+4331,Set fanspeed to high on dehumidifier
+4332,Open the bedroom curtains
+4333,Close the curtains half way
+4334,Set the temperature to 70 degrees
+4335,Is the kettle on?
+4336,What is the temperature inside?
+4337,Set the temperature to 65 degrees
+4338,Turn down the thermostat
+4339,Turn up the thermostat
+4340,Set the thermostat to 68 degrees
+4341,Show garage camera
+4342,Turn On Hallway Camera
+4343,Show the Front Door Camera on Living Room TV
+4344,Turn on the camera
+4345,What's on Baby camera?
+4346,Turn off the camera
+4347,Is the Babycam On?
+4348,Open the side door
+4349,Is the front door closed?
+4350,Turn on the air purifier
+4351,Start the air purifier
+4352,Is the air purifier on?
+4353,Set the temperature to 75 degrees
+4354,What is the temperature set to?
+4355,Activate Good Morning
+4356,Turn on Movie Mode
+4357,Close blinds 10%
+4358,Close blinds down to 20%
+4359,Open blinds 50%
+4360,Close blinds to 50%
+4361,Close blinds
+4362,Open the blinds 20%
+4363,Open blinds to 20%
+4364,Open blinds
+4365,Open the blinds halfway
+4366,Open blinds up to 50%
+4367,Turn on the TV
+4368,Skip ahead on TV
+4369,Pause the TV
+4370,Stop the TV
+4371,Volume down on TV
+4372,Mute the TV
+4373,Make it louder on the TV
+4374,Resume the TV
+4375,Make the fan speed higher
+4376,Lower the fan speed
+4377,Make the fan speed lower
+4378,Turn off the fan
+4379,What is the fan speed?
+4380,Raise the fan speed
+4381,Set fan to 5
+4382,Turn on the fan
+4383,Start the humidifier
+4384,Change the airflow to rear on the humidifier
+4385,Turn on the humidifier
+4386,Set the humidifier to 8
+4387,Set the humidifier to continuous
+4388,Set the humidifier to 35% humidity
+4389,Activate osciliation for the humidifier
+4390,Turn off the lights
+4391,Is the light on in Tyler's room?
+4392,Turn on the lights in the master bed room
+4393,Turn on my lights
+4394,Are the lights on in the dining room?
+4395,Dim the kids bedroom lamps
+4396,Close blinds down to 20%
+4397,Are blinds open?
+4398,Open blinds to 20%
+4399,Close blinds
+4400,Close blinds down
+4401,Open blinds
+4402,Close blinds to 50%
+4403,Close blinds 10%
+4404,Rotate blinds to 20%
+4405,Open the blinds halfway
+4406,Set security to arm
+4407,Arm security
+4408,Turn on lights
+4409,Turn off speakers
+4410,Show garage camera
+4411,What's on Baby camera?
+4412,Is the Babycam On?
+4413,Turn on the camera
+4414,Turn On Hallway Camera
+4415,Turn off the camera
+4416,Show the Front Door Camera on Living Room TV
+4417,Is the front door closed?
+4418,Open the side door
+4419,Resume the TV
+4420,Pause the TV
+4421,Mute the TV
+4422,Volume up on TV
+4423,Make it louder on the TV
+4424,Stop the TV
+4425,Skip ahead on TV
+4426,Turn on the TV
+4427,Switch off the lights
+4428,Set the temperature to 65 degrees
+4429,Turn up the thermostat
+4430,What's the temperature inside?
+4431,Turn down the thermostat
+4432,Set the thermostat to 68 degrees
+4433,Send the vacuum home
+4434,Is the vacuum running?
+4435,Stop the vacuum
+4436,Start vacuuming
+4437,Dock the vacuum
+4438,Charge the vacuum
+4439,Pause the vacuum
+4440,Is the vacuum charging?
+4441,Start the vacuum
+4442,Stop vacuuming
+4443,Activate Good Morning
+4444,Turn on Movie Mode
+4445,Turn on the fan
+4446,Make the fan speed lower
+4447,Raise the fan speed
+4448,Turn off the fan
+4449,Set fan to 5
+4450,What is the fan speed?
+4451,Make the fan speed higher
+4452,Lower the fan speed
+4453,Turn on the lights
+4454,Turn off the lights in the dining room
+4455,Turn on my lights
+4456,Is the light on in Tyler's room?
+4457,Turn off the bathroom lamps
+4458,Are the lights on in the living room?
+4459,Is the light on in John's office?
+4460,Turn on the lights in the dining room
+4461,Dim the lights
+4462,Turn on my lights
+4463,Turn off the kitchen lamps
+4464,Are the lights on in the kids bedroom?
+4465,Switch off the lights
+4466,Turn on Movie Mode
+4467,Activate Good Morning
+4468,Lower the fan speed
+4469,Raise the fan speed
+4470,Set fan to 5
+4471,Turn on the fan
+4472,What is the fan speed?
+4473,Turn off the fan
+4474,Make the fan speed higher
+4475,Make the fan speed lower
+4476,Is the light on in Tyler's room?
+4477,Turn on my lights
+4478,Turn on the living room lamps
+4479,Turn off the lights
+4480,Are the lights on in the living room?
+4481,Turn off the lights in the bathroom
+4482,Turn off lights
+4483,Turn on speakers
+4484,Switch off the lights
+4485,Start the AC
+4486,Stop the AC
+4487,Did I set AC to cool?
+4488,Turn off the AC
+4489,What's AC mode set to?
+4490,What is the AC speed?
+4491,Raise the AC speed
+4492,What is the AC doing?
+4493,Turn on the AC
+4494,What cycle is the AC in?
+4495,Turn on speakers
+4496,Turn off TV
+4497,Set fan to 5
+4498,Turn off the fan
+4499,Turn on the fan
+4500,Raise the fan speed
+4501,What is the fan speed?
+4502,Make the fan speed higher
+4503,Make the fan speed lower
+4504,Lower the fan speed
+4505,Switch off the lights
+4506,Is the light on in Tyler's room?
+4507,Dim the kids bedroom lamps
+4508,Turn off the lights in the bathroom
+4509,Turn on my lights
+4510,Turn on the lights
+4511,Are the lights on in the dining room?
+4512,Turn on the lights in the master bed room
+4513,Turn on my lights
+4514,Is the light on in Alice's bedroom?
+4515,Turn on the lights
+4516,Are the lights on in the kitchen?
+4517,Turn off the dining room lamps
+4518,Show garage camera
+4519,Show the Front Door Camera on Living Room TV
+4520,What's on Baby camera?
+4521,Is the Babycam On?
+4522,Turn on the camera
+4523,Turn On Hallway Camera
+4524,Turn off the camera
+4525,Turn on lights
+4526,Turn off lights
+4527,Turn on the living room lamps
+4528,Are the lights on in the dining room?
+4529,Turn on my lights
+4530,Is the light on in Mary's playroom?
+4531,Turn on the lights in the bathroom
+4532,Turn on the lights
+4533,Turn off TV
+4534,Turn on speakers
+4535,Turn on Movie Mode
+4536,Activate Good Morning
+4537,Switch off the lights
+4538,Turn up the thermostat
+4539,Set the thermostat to 70 degrees
+4540,Set the temperature to 65 degrees
+4541,What's the temperature inside?
+4542,Turn down the thermostat
+4543,Make the AC speed lower
+4544,Lower the AC speed
+4545,Raise the AC speed
+4546,Stop the AC
+4547,What's AC mode set to?
+4548,Did I set AC to cool?
+4549,Start the AC
+4550,What is the AC speed?
+4551,Set mode on AC to cool
+4552,Turn on the AC
+4553,Is the light on in Tyler's room?
+4554,Turn on my lights
+4555,Are the lights on in the living room?
+4556,Turn on the dining room lamps
+4557,Dim the lights in the master bed room
+4558,Turn off the lights
+4559,Are the lights on in the master bed room?
+4560,Dim the kids bedroom lamps
+4561,Turn on my lights
+4562,Turn off the lights in the master bed room
+4563,Turn off the lights
+4564,Is the light on in John's office?
+4565,Turn on Movie Mode
+4566,Activate Good Morning
+4567,Turn on lights
+4568,Turn off TV
+4569,Activate Good Morning
+4570,Turn on Movie Mode
+4571,Turn on the kids bedroom lamps
+4572,Turn on my lights
+4573,Is the light on in Alice's bedroom?
+4574,Turn off the lights in the master bed room
+4575,Turn off the lights
+4576,Are the lights on in the kids bedroom?
+4577,Turn on my lights
+4578,Dim the lights in the kids bedroom
+4579,Dim the lights
+4580,Is the light on in Mary's playroom?
+4581,Are the lights on in the kids bedroom?
+4582,Turn on the kids bedroom lamps
+4583,Switch off the lights
+4584,Start the AC
+4585,What's AC mode set to?
+4586,Stop the AC
+4587,Raise the AC speed
+4588,Turn on the AC
+4589,Set mode on AC to cool
+4590,Lower the AC speed
+4591,Make the AC speed lower
+4592,Set AC to high
+4593,What is the AC speed?
+4594,Turn on speakers
+4595,Turn off TV
+4596,Are the lights on in the living room?
+4597,Turn on my lights
+4598,Turn on the master bed room lamps
+4599,Dim the lights
+4600,Is the light on in Adam's bathroom?
+4601,Turn on the lights in the master bed room
+4602,Switch off the lights
+4603,Turn on the lights
+4604,Is the light on in Adam's bathroom?
+4605,Dim the kitchen lamps
+4606,Turn on my lights
+4607,Are the lights on in the dining room?
+4608,Turn off the lights in the kids bedroom
+4609,Make the refridgerator cooler
+4610,Did I set the refrigerator to super cool?
+4611,Turn on super cool
+4612,Turn on speakers
+4613,Turn off TV
+4614,Make it louder on the TV
+4615,Turn on the TV
+4616,Mute the TV
+4617,Volume down on TV
+4618,Resume the TV
+4619,Pause the TV
+4620,Skip ahead on TV
+4621,Stop the TV
+4622,What is the washing machine doing?
+4623,What's washing machine temperature set to?
+4624,What cycle is the washing machine in?
+4625,Set Temperature on washing machine to hot
+4626,Is washing machine extra rinse turned on?
+4627,Turn off extra rinse on the wachine machine
+4628,How much time is left on the washing machine?
+4629,Turn on extra rinse on the washing machine
+4630,How much time is left on the washing machine cycle?
+4631,Pause the washing machine
+4632,Turn off the fan
+4633,Set fan to 5
+4634,Make the fan speed lower
+4635,Lower the fan speed
+4636,Turn on the fan
+4637,Raise the fan speed
+4638,Make the fan speed higher
+4639,What is the fan speed?
+4640,Is the light on in Alice's bedroom?
+4641,Turn on the dining room lamps
+4642,Are the lights on in the bathroom?
+4643,Turn on my lights
+4644,Dim the lights in the dining room
+4645,Turn on the lights
+4646,Lower the AC speed
+4647,Set AC to high
+4648,What cycle is the AC in?
+4649,What is the AC speed?
+4650,What is the AC doing?
+4651,Did I set AC to cool?
+4652,Make the AC speed lower
+4653,Stop the AC
+4654,Turn on the AC
+4655,Raise the AC speed
+4656,What is the AC speed?
+4657,Turn off the AC
+4658,Did I set AC to cool?
+4659,Set AC to high
+4660,Set mode on AC to cool
+4661,What's AC mode set to?
+4662,Lower the AC speed
+4663,What cycle is the AC in?
+4664,Turn on the AC
+4665,Raise the AC speed
+4666,Close the curtains half way
+4667,Open the bedroom curtains
+4668,Turn off speakers
+4669,Turn on TV
+4670,Turn on the camera
+4671,Is the Babycam On?
+4672,Show the Front Door Camera on Living Room TV
+4673,Show garage camera
+4674,Turn off the camera
+4675,Turn On Hallway Camera
+4676,What's on Baby camera?
+4677,Turn on Movie Mode
+4678,Activate Good Morning
+4679,Open blinds 50%
+4680,Close blinds to 50%
+4681,Rotate blinds to 20%
+4682,Open blinds up to 50%
+4683,Close blinds
+4684,Open the blinds 80%
+4685,Close blinds down
+4686,Close blinds 10%
+4687,Open blinds to 20%
+4688,Close blinds down to 20%
+4689,Turn on the air purifier
+4690,Stop the air purifier
+4691,Is the air purifier on?
+4692,Is the light on in Mary's playroom?
+4693,Turn on the lights
+4694,Turn on my lights
+4695,Dim the lights in the bathroom
+4696,Turn off the dining room lamps
+4697,Are the lights on in the kids bedroom?
+4698,Switch off the lights
+4699,Talk to Vistapool europe
+4700,Talk to OVAL Smart Home
+4701,Talk to NexAutomates Services
+4702,Talk to Color Blast Tree
+4703,Talk to DARWIN Wellness
+4704,Talk to Vesta Security
+4705,Talk to ZIN TU
+4706,Talk to sense fox
+4707,Talk to butler hub
+4708,Ask butler hub to turn on kitchen
+4709,Ask butler hub to turn off kitchen
+4710,Talk to Vestahome
+4711,Talk to Smart Relay
+4712,Ask Smart Relay to turn my outside lights on
+4713,Ask Smart Relay to turn off my sprinklers
+4714,Ask Smart Relay to turn my front light on
+4715,Talk to Smart Elfin
+4716,Talk to climaxhome
+4717,Talk to Control Free
+4718,Talk to Sumit's Smart Home App
+4719,Talk to Control My Spa
+4720,Ask Control My Spa to turn on light
+4721,Ask Control My Spa to turn off light
+4722,Ask Control My Spa to what is the light status
+4723,Ask Control My Spa to set temperature to 25 degree celsius
+4724,Talk to xenon voice command
+4725,Talk to Convergint tech
+4726,Talk to Locus-Home
+4727,Let me speak to Locus-Home
+4728,Ask Locus-Home
+4729,Speak to Locus-Home
+4730,Can I talk to Locus-Home
+4731,Talk to clever bonny for turn on the lamp
+4732,Talk to clever bonny for turn on the bedroom
+4733,Talk to clever bonny for change the lamp to sleep
+4734,Talk to Foobot Device
+4735,Ask Firefly Home to turn off kitchen lights
+4736,Ask Firefly Home to turn on lights in the bedroom
+4737,Talk to Home Butler
+4738,Ask Home Butler what is on in the living room
+4739,Ask Home Butler to turn on apple tv in the bedroom
+4740,Ask Home Butler for House Report
+4741,Speak to Home Butler to say Goodbye
+4742,Talk to Ergomotion Bed
+4743,Talk to Ergomotion Bed about raise head
+4744,Talk to Ergomotion Bed about start massaging
+4745,Talk to Smart Tub
+4746,Talk to Smart Cat
+4747,Talk to Smart Cat to turn on lamp
+4748,Talk to Smart Cat to check heater voltage
+4749,Talk to Smart Cat to check heater current
+4750,Talk to Smart Cat to set brightness 5
+4751,Talk to carbonTRACK
+4752,Ask to carbonTRACK to check my energy
+4753,Ask carbonTRACK to check the battery
+4754,Talk to S board
+4755,Ask S board
+4756,Tell S board
+4757,Talk to Cute Droid what the temperature is now?
+4758,Talk to Cute Droid what the humidity is now?
+4759,Talk to Cute Droid how bright it is now?
+4760,Talk to Cute Droid what the air pressure is now?
+4761,Talk to Cute Droid what is the status of my security system
+4762,Talk to SEQUEmatic
+4763,Ask SEQUEmatic to run my garden lights sequence
+4764,Talk to Top Link
+4765,Talk to imonitor smarthome
+4766,Ask Lexi Life to turn on all lights
+4767,Ask Lexi Life to turn off all lights
+4768,Ask Lexi Life to turn all lights blue
+4769,Ask Lexi Life to turn bedroom lights red
+4770,Ask Lexi Life to set all lights to 50% brightness
+4771,Talk to Xoro receiver
+4772,Talk to major domo
+4773,Ask major domo to turn off the lights
+4774,Talk to gokit
+4775,Talk to Fairy Light
+4776,Ask Fairy Light to run the rainbow effect
+4777,Ask Fairy Light to run the fire effect
+4778,Ask Fairy Light to speed up/down
+4779,Ask Fairy Light to run faster/slower
+4780,Talk to Secure Connect
+4781,Talk to Secure Connect to set full set
+4782,Talk to Secure Connect to get panel status
+4783,Ask Eldroid to show me light status
+4784,Ask Eldroid to Turn On Light
+4785,Ask Eldroid to Turn Off Light
+4786,Talk to Eldroid
+4787,Ask Eldroid to contact info
+4788,Ask Oblo Living to turn on Light in Living Room.
+4789,Ask Oblo Living to run Morning scene.
+4790,Ask Oblo Living to set the Kitchen light to 25 percent.
+4791,Ask Oblo Living to check the temperature in the living room
+4792,Talk to Smart Holiday Lights
+4793,Talk to Jeedom
+4794,Talk to My Spa Control to turn on the lights
+4795,Talk to My Spa Control to start my spa
+4796,Ask My Spa Control what is the water temperature
+4797,Talk to Smart Tree
+4798,Talk to Ubiant
+4799,Ask alarm.com to arm stay
+4800,Talk to alarm.com
+4801,Tell alarm.com to flip on the living room light
+4802,Ask alarm.com the upstairs temperature
+4803,Tell alarm.com to set the thermostat to 76 degrees
+4804,Tell alarm.com to lock the front door
+4805,Tell alarm.com arm system stay
+4806,Talk to Night Light
+4807,Is the light on in Tyler's room?
+4808,Dim the kids bedroom lamps
+4809,Dim the lights
+4810,Turn on my lights
+4811,Turn on the lights in the dining room

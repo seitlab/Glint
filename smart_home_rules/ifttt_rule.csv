@@ -1,0 +1,1647 @@
+﻿id,content
+0,tap an app icon
+1,light turned on
+2,light turned off
+3,coffee machine turned on
+4,tweet is posted
+5,any new public photo tagged
+6,heater turned on
+7,lock locked
+8,secure barrier closed
+9,power switch turned on
+10,lock unlocked
+11,secure barrier opened
+12,monitor your motion sensor data
+13,new water history
+14,new record in a table
+15,air conditioning fan speed change
+16,air conditioning mode change
+17,air conditioning power off
+18,air conditioning power on
+19,security system alarmed
+20,bluetooth disconnected
+21,bluetooth connected
+22,disconnect from any wifi network
+23,connect to any wifi network
+24,sent a message to phone number
+25,data synchronization is on
+26,new project created
+27,new task in project
+28,location updated
+29,data point written
+30,call state changed
+31,device state changed
+32,tv channel changed
+33,wifi state changed
+34,thermostat turned on
+35,set temperature change
+36,data point added
+37,new public short url
+38,any new post blogger
+39,new status item buffer
+40,new photo item buffer
+41,blockchain global mode change
+42,sms received
+43,concierge activation
+44,concierge desactivation
+45,shutter turned on
+46,camera turned on
+47,camera turned off
+48,door locked
+49,new favorite album
+50,new favorite artist
+51,new favorite radio
+52,new favorite track
+53,new playlist track
+54,new bookmark
+55,bookmark deleted
+56,new file in folder
+57,text file deleted
+58,plug turned on
+59,plugs turned off
+60,plugs open
+61,plugs close
+62,switch turned on 
+63,switches turned off
+64,switches open
+65,switches close
+66,new link from you
+67,new photo from you
+68,new status message by you
+69,new link from page
+70,new photo from page
+71,new hashtag message by page
+72,new entry in  article
+73,new subscription
+74,new entry marked save
+75,new entry with tag
+76,new weight logged
+77,any new public photo
+78,new reminder
+79,shortcut run
+80,fan speed switched
+81,door closes
+82,door opens
+83,exhaust fan off
+84,water heater user mode hybrid
+85,water heater user mode vacation
+86,air conditioner mode selected cool
+87,zone heated
+88,smart home app scenario launched
+89,any new issue in github
+90,new sent email
+91,new email with attachment
+92,new event google calendar
+93,new document
+94,new row in spreadsheet
+95,cell updated in spreadsheet
+96,lighting off
+97,lighting on
+98,device installed
+99,device toggled
+100,smart control activated
+101,volume below
+102,cleaning robot started
+103,coffee maker power off
+104,coffee maker power on
+105,dishwasher power off
+106,dishwasher power on
+107,hood power off
+108,hood power on
+109,oven started
+110,oven off
+111,oven on
+112,arm the garage door control system
+113,arm stay the garage door control system
+114,disarm the garage door control system
+115,garage opened
+116,armed indoor outdoor security system
+117,disarmed indoor outdoor security system
+118,flow action is triggered
+119,trigger closed
+120,trigger mode
+121,trigger off
+122,trigger on
+123,trigger open
+124,light changed accelation
+125,light changed brightness
+126,light changed colour
+127,light changed effect
+128,air conditioning mode
+129,air conditioning fan speed
+130,air conditioning zone climate
+131,air conditioning save off
+132,air conditioning save on
+133,air conditioning is turned off
+134,air conditioning is turned on
+135,water controller schedule activated
+136,water controller run time adjusted
+137,water controller schedule deactivated
+138,water controller station manual run
+139,water controller program running
+140,water controller system test
+141,water controller is turned off
+142,water controller is turned on
+143,new saved web page
+144,new subscription
+145,new link saved
+146,received message
+147,light on
+148,lock key
+149,mode change
+150,unlock key
+151,new calendar event
+152,new photo in album
+153,new reminder added
+154,Sensor Trigger  Smart Switch Turned On
+155,System Mode Is Changed
+156,camera alert
+157,log new meal
+158,log new mood
+159,shopping list changed
+160,photo uploaded
+161,timer start
+162,connected specific bluetooth
+163,arm state change
+164,garage door closed
+165,give lock command
+166,Diffuser Power Switch
+167,Light Light Switch
+168,Outlet Power Switch
+169,smart lock locked
+170,smart lock unlocked
+171,device armed
+172,device disarmed
+173,residence state
+174,new subscriber
+175,image triggers private
+176,image triggers flower
+177,image triggers human action
+178,image triggers indoor environment
+179,image triggers jewelry
+180,image triggers kitchen utensil
+181,image triggers sunglasses
+182,text triggers private
+183,app event
+184,scene triggered
+185,task created in project
+186,new memo message
+187,incoming chat message
+188,incoming sms message
+189,switch status
+190,Push button pushed
+191,Push button released
+192,Push button push released
+193,get system mode winter
+194,area state
+195,lock state
+196,program state
+197,variable current value
+198,box started
+199,box stopped
+200,favorite
+201,activity executed
+202,scene executed
+203,room off
+204,room on
+205,security disabled
+206,security partial
+207,security total
+208,on home mode changed
+209,get set point manual
+210,new saved story
+211,new shared story
+212,nexia automation
+213,door opened
+214,door close
+215,front door open
+216,scene changed
+217,someone locks the door
+218,new contact
+219,new email
+220,listen for hotwords
+221,leave ifttt a voicemail
+222,new bookmark
+223,a new pin on your board
+224,new item added pocket
+225,storyline executed
+226,new note
+227,new numerical
+228,transfer finished
+229,save toward goal
+230,new file in your folder
+231,watering time starts
+232,program has started
+233,zone has started
+234,program has stopped
+235,series created
+236,focus time end
+237,focus time start
+238,alert triggered
+239,air conditioner power off
+240,air conditioner power on
+241,air purifier power off
+242,air purifier power on
+243,robot cleaner cleaning
+244,robot cleaner homing
+245,room air conditioner power off
+246,room air conditioner power on
+247,washer pause
+248,washer finish
+249,washer run
+250,mode armed
+251,cloud driver new file
+252,get message
+253,smart lock closed
+254,smart lock opened
+255,any new file
+256,user weibos
+257,watering stopped
+258,two way switch off
+259,two way garage door open
+260,smanos arm away
+261,smanos arm stay
+262,smanos disarm
+263,appliance turns off
+264,appliance turns on
+265,kettle boiled
+266,coffee brewed
+267,scene activated
+268,locked smartthings
+269,switched off smart things  
+270,switched on smart things
+271,unlocked smart things
+272,send sms a text
+273,send sms a picture
+274,heating mode
+275,any new public track
+276,changed home away
+277,new track added to playlist
+278,new saved track
+279,turn on an alarm
+280,on photo upload
+281,flow ran
+282,open garage door trigger
+283,new photo by you
+284,a device switched off
+285,a device switched on
+286,start a new timer
+287,start new timer for a specific customer
+288,stop timer without a customer
+289,stop timer with specific customer
+290,new task created
+291,task added
+292,card added to board
+293,new audio post
+294,new any post
+295,new photo post
+296,new quote post
+297,new text post
+298,new video post
+299,voice operated computer
+300,thermostat get exit system mode winter
+301,new photo in folder
+302,device State
+303,dimmer off
+304,dimmer on
+305,humidifier off
+306,switch on
+1000,turn off light
+1001,turn on coffee machine
+1002,post a Tweet
+1003,upload public photo from url
+1004,change dimmer level
+1005,turn on heater
+1006,lock the door
+1007,lock secure barrier
+1008,quick action
+1009,toggle switch
+1010,turn off switch
+1011,turn on switch
+1012,unlock the door
+1013,unlock secure barrier
+1014,send motion sensor data
+1015,activate scene
+1016,change color
+1017,dim device
+1018,identify device
+1019,toggle device
+1020,turn off color loop
+1021,turn off device
+1022,turn on color loop
+1023,turn on device
+1024,start zone
+1025,run remote
+1026,run scene
+1027,run scene by name
+1028,pump off heat
+1029,pump on heat
+1030,create record
+1031,air conditioning fan speed
+1032,air conditioning mode
+1033,air conditioning power
+1034,air conditioning set point
+1035,air conditioning setpoint delta
+1036,group control
+1037,group control all
+1038,group fullyopen all
+1039,group percentage
+1040,group percentage delta
+1041,group power
+1042,group power all
+1043,group setpoint
+1044,group setpoint delta
+1045,list add product
+1046,list add products
+1047,list add searchterm
+1048,activate a scene
+1049,set almond mode
+1050,door close
+1051,door open
+1052,door status
+1053,light off
+1054,light on
+1055,upload file
+1056,device mode away
+1057,device mode comfort
+1058,device mode temperature new
+1059,device power off
+1060,give feedback
+1061,set arm mode
+1062,set thermostat mode
+1063,switch dimmer
+1064,switch plug
+1065,switch scenario
+1066,switch thermostat
+1067,bluetooth off
+1068,bluetooth on
+1069,mute device
+1070,play best song
+1071,play song
+1072,set device volume
+1073,set wallpaper
+1074,start navigation
+1075,wifi off
+1076,wifi on
+1077,send a message
+1078,send notification to android wear
+1079,add event to the timeline of camera
+1080,start broadcasting
+1081,start recording
+1082,stop broadcasting
+1083,stop recording
+1084,send command
+1085,set light
+1086,set light adaptor
+1087,stop intrusion alert
+1088,turn on appkettle
+1089,turn on appkettle fav
+1090,arm camera
+1091,disarm camera
+1092,record with camera
+1093,air conditioning turns off
+1094,air conditioning turns on
+1095,turn on the light
+1096,setTemperatureUnit
+1097,send action
+1098,create project
+1099,create task
+1100,game boost off
+1101,game boost on
+1102,guest network off
+1103,guest network on
+1104,media first off
+1105,media first on
+1106,turn wifi off
+1107,turn wifi on
+1108,change view
+1109,hide calendar
+1110,hide clock
+1111,hide weather
+1112,search view
+1113,show calendar
+1114,show clock
+1115,show today event
+1116,show weather
+1117,sleep to turn off window
+1118,turn off gas valve
+1119,turn on gas valve
+1120,wake to turn on window
+1121,update location
+1122,write datapoint
+1123,arm hub
+1124,disarm hub
+1125,add photo
+1126,show add
+1127,show temp
+1128,activate room
+1129,move tilt shade
+1130,glow display
+1131,glow switch
+1132,activate scene
+1133,save money
+1134,transfer money
+1135,dial a phone number
+1136,display current program
+1137,led state
+1138,mac address filter
+1139,reboot the Internet
+1140,send toast
+1141,set volume
+1142,start application by list
+1143,stop app
+1144,watch channel
+1145,wifi state
+1146,mode action
+1147,set temperature action
+1148,close garage door
+1149,open garage door
+1150,partially open garage door
+1151,add data
+1152,charge credit card
+1153,set cam status off
+1154,set cam status on
+1155,change piper mode
+1156,dim lights
+1157,smart arm
+1158,switch off
+1159,switch on
+1160,add public bitmark bitly
+1161,bitmark file
+1162,network arm
+1163,network disarm
+1164,send blink command
+1165,create photo post blogger
+1166,create post blogger
+1167,fan speed
+1168,fan speed increase
+1169,auto mode
+1170,send my car a notification
+1171,turn on ceiling fan
+1172,simple percentage
+1173,append to text file box
+1174,create text file box
+1175,upload file from url box
+1176,send image
+1177,send notification
+1178,add to buffer
+1179,add to buffer with photo
+1180,set lightlevel
+1181,set new mode
+1182,set temperature
+1183,start notifications
+1184,stop notifications
+1185,print document
+1186,print number place
+1187,print photo
+1188,print text
+1189,post messages
+1190,disable offtime
+1191,extend time limit
+1192,late bedtime
+1193,pause profile
+1194,pause the internet
+1195,unpause profile
+1196,unpause the internet
+1197,add someone to a room
+1198,archive a room
+1199,create a room
+1200,post a file
+1201,post a message
+1202,update a room title
+1203,send sms
+1204,push device
+1205,tell an event
+1206,active concierge
+1207,color notification
+1208,desactive concierge
+1209,ring notification
+1210,create post
+1211,simple rule action
+1212,set econo mode
+1213,set holiday mode
+1214,turn air conditioner unit on
+1215,turn unit off
+1216,lock door
+1217,unlock door
+1218,create a signals
+1219,append a new record
+1220,sync data
+1221,create journal entry
+1222,add album to favorite
+1223,add artist to favorite
+1224,add playlist to favorite
+1225,add radio to favorite
+1226,add track to favorite
+1227,add track to playlist
+1228,add new bookmark
+1229,add private bookmark
+1230,execute wish
+1231,add new bookmark diigo
+1232,add private bookmark diigo
+1233,record video
+1234,take snapshots
+1235,play sound
+1236,toggle onoff 30 sec
+1237,send im ok message to entire family
+1238,close blinds
+1239,open blinds
+1240,open the blinds to xx percents
+1241,add file from url
+1242,append to text file
+1243,create text file
+1244,arm camera
+1245,arm cameras
+1246,disarm camera
+1247,disarm cameras
+1248,action alarm notice
+1249,climate hours
+1250,climate next transition
+1251,create vacation
+1252,hold holdhours
+1253,hold indefinite
+1254,hold next transition
+1255,resume program
+1256,watering at date X for Ymin
+1257,watering at Xam for Ymin
+1258,watering in 30min
+1259,turn off heating
+1260,turn on heating
+1261,command to reboot
+1262,send email
+1263,send daily email
+1264,send weekly email
+1265,dim group of lights
+1266,toggle group of lights
+1267,toggle lights
+1268,turn off group of lights
+1269,turn off lights
+1270,turn on group of lights
+1271,turn on lights
+1272,power off device
+1273,power off by label
+1274,power off group
+1275,power on home device
+1276,power on by label
+1277,power on group
+1278,set target temperature
+1279,display message on dashboard
+1280,append checklist item
+1281,append to note
+1282,create note
+1283,create note with audio
+1284,create note with image
+1285,create note with link
+1286,send message
+1287,plug first channel on
+1288,plugs second channel on
+1289,plugs third channel on
+1290,plugs forth channel on
+1291,switch first channel on
+1292,switches second channel on
+1293,switches third channel on
+1294,switches forth channel on
+1295,turn on alarm notification
+1296,privacy mode on
+1297,turn sleep mode on
+1298,create link
+1299,create photo
+1300,create status message
+1301,send audio
+1302,send file
+1303,send photo
+1304,send video
+1305,create link page
+1306,create photo page
+1307,create status message page
+1308,add entry team kb feedly
+1309,add subscription feedly
+1310,create new entry feedly
+1311,tag new entry feedly
+1312,start a scene
+1313,log weight
+1314,change device mode
+1315,turn water off
+1316,turn water on
+1317,post to group
+1318,post to self
+1319,Blink Lights
+1320,Change Brightness
+1321,Change Color
+1322,Change functions
+1323,power off
+1324,power on
+1325,Togglelight
+1326,reminders
+1327,call forwarding
+1328,do not disturb
+1329,make call
+1330,quick mode
+1331,fullarm run scene
+1332,dim light
+1333,lock device
+1334,run shortcut
+1335,set mode
+1336,unlock device
+1337,close door
+1338,open door
+1339,range off
+1340,sabbath mode
+1341,dryer extend tumble
+1342,set temp
+1343,set vacation
+1344,refrigerator setpoints
+1345,air conditioner off
+1346,air conditioner on
+1347,set fan
+1348,set heat mode
+1349,set target temp
+1350,follow song
+1351,follow web page
+1352,zone override on off
+1353,zone override sp
+1354,arm Day
+1355,arm Full
+1356,arm Night
+1357,openLedBulb
+1358,startAllSirens
+1359,launch scenario
+1360,create new issue for repository
+1361,turn on app
+1362,show a notice
+1363,show a segments
+1364,stop Alarm
+1365,create a draft
+1366,send an email
+1367,send yourself an email
+1368,decrease volume async
+1369,increase volume async
+1370,play text to speech async
+1371,set program async
+1372,quick add event
+1373,create new contact
+1374,append to google document
+1375,create google document
+1376,append to google spreadsheet
+1377,upload file from url google drive
+1378,send notification to google glass
+1379,upload photo to album
+1380,update cell in spreadsheet
+1381,prioritize device
+1382,generate buzzer
+1383,capture a photo
+1384,digital output
+1385,display two colors
+1386,led color
+1387,led text
+1388,run a project
+1389,control speed
+1390,make a board speak
+1391,all off
+1392,all on
+1393,lighting off
+1394,lighting on
+1395,start irrigation
+1396,stop irrigation
+1397,make light blink
+1398,change schedule
+1399,switch device on
+1400,device toggle
+1401,dim the light bulb
+1402,override schedule
+1403,smart control
+1404,post message
+1405,arm device
+1406,disarm device
+1407,change the color of light
+1408,run a scene
+1409,set level on lighting device
+1410,player control
+1411,play favorite
+1412,play playlist
+1413,change shutter position
+1414,change thermostat setpoint
+1415,switch off
+1416,switch on
+1417,volume on your media player
+1418,change brightness
+1419,self test
+1420,turn off accent light
+1421,turn on accent light
+1422,turn on party mode
+1423,turn on rainbow mode
+1424,end activity
+1425,start activity
+1426,cleaning robot change cleaning mode
+1427,cleaning robot pause program
+1428,cleaning robot resume program
+1429,cleaning robot stop program
+1430,coffee maker start milk mix program
+1431,coffee maker start program
+1432,coffee maker start world program
+1433,coffee maker stop program
+1434,coffee maker turn off
+1435,coffee maker turn on
+1436,dishwasher start program
+1437,dishwasher start selected program
+1438,dishwasher stop program
+1439,dishwasher turn off
+1440,dishwasher turn on
+1441,dryer pause program
+1442,dryer resume program
+1443,dryer start program
+1444,dryer start selected program
+1445,dryer stop program
+1446,dryer turn off
+1447,freezer activate super cooling
+1448,freezer set temperature
+1449,refrigerator activate super cooling
+1450,refrigerator set temperature
+1451,hood start program
+1452,hood turn off
+1453,hood turn off ambient light
+1454,hood turn off functional light
+1455,hood turn on
+1456,hood turn on ambient light
+1457,hood turn on functional light
+1458,oven preheat
+1459,oven start program
+1460,oven stop program
+1461,oven turn off
+1462,oven turn on
+1463,washer pause program
+1464,washer resume program
+1465,washer start program
+1466,washer start selected program
+1467,washer stop program
+1468,washer turn off
+1469,boost timer
+1470,cancel standby
+1471,thermostat set away
+1472,thermostat set home
+1473,thermostat set standby
+1474,thermostat set temperature hold
+1475,turn the plug off
+1476,turn the plug on
+1477,change heating mode to manual
+1478,change heating mode to off
+1479,change heating mode to schedule
+1480,set heating boost to 22c for 1 hour
+1481,set hot water boost for 1 hour
+1482,set light off
+1483,set light on
+1484,set plug off
+1485,set plug on
+1486,toggle plug
+1487,change cooling to hold na
+1488,change heating mode to manual na
+1489,change mode to off na
+1490,change mode to schedule na
+1491,set cooling boost for 1 hour na
+1492,set heating boost for 1 hour na
+1493,camera monitoring off
+1494,camera monitoring on
+1495,arm stay
+1496,create event
+1497,garage open
+1498,turn off camera
+1499,turn on camera
+1500,arm location
+1501,record a video
+1502,disarm location
+1503,cool setpoint
+1504,device dim
+1505,device lock
+1506,device off
+1507,device on
+1508,device unlock
+1509,run system event
+1510,heat setpoint
+1511,text to parse
+1512,thermostat mode auto
+1513,thermostat mode cool
+1514,thermostat mode heat
+1515,thermostat mode off
+1516,let homey speak
+1517,trigger a flow
+1518,disable quick action
+1519,enable quick action
+1520,set zone temperature
+1521,turn hot water off
+1522,turn hot water on
+1523,set fan
+1524,set system temperature to permanent hold
+1525,set system temperature
+1526,set to schedule
+1527,printe mail
+1528,print list
+1529,print pdf
+1530,print web article
+1531,action close
+1532,action lock
+1533,action mode
+1534,action off
+1535,action on
+1536,action open
+1537,action set level
+1538,action unlock
+1539,blink all smart light
+1540,change random all smart light
+1541,colorloop all smart light
+1542,set brightness all smart light
+1543,set color all smart light
+1544,set color from image all smart light
+1545,set scene
+1546,toggle all smart light
+1547,turn off all smart light
+1548,turn on all smart light
+1549,acitvate all schedules
+1550,activate light favourite
+1551,activate light schedule
+1552,change light acceleration
+1553,change light brightness
+1554,change light colour
+1555,change light effect
+1556,deacitvate all schedules
+1557,deactivate light schedule
+1558,turn all lights off
+1559,turn all lights on
+1560,turn light off
+1561,turn light on
+1562,activate favourite
+1563,change air conditioner mode
+1564,change air conditioner setpoint
+1565,change all zone airflows
+1566,change zone airflow
+1567,change zone setpoint
+1568,climate control all zones
+1569,close all zones
+1570,close zone
+1571,decrease air conditioner setpoint
+1572,decrease zone airflow
+1573,decrease zone setpoint
+1574,disable all schedules
+1575,disable schedule
+1576,enable all schedules
+1577,enable schedule
+1578,increase air conditioner setpoint
+1579,increase zone airflow
+1580,increase zone setpoint
+1581,open all zones
+1582,open zone
+1583,set air conditioner fan speed
+1584,set air conditioner sleep timer
+1585,set sleep off
+1586,set zone climate control
+1587,turn device off
+1588,turn device on
+1589,turn off air conditioner
+1590,turn on air conditioner
+1591,turn off the light
+1592,turn on the light
+1593,chat send
+1594,activate memo schedule
+1595,change station runtime
+1596,deactivate memo schedule
+1597,manual mode on
+1598,pause station
+1599,rain delay
+1600,run program
+1601,test mode on
+1602,weather fine
+1603,target power state
+1604,blink lights
+1605,adjust brightness
+1606,select light effects
+1607,activate selected favorite
+1608,lights off
+1609,lights on
+1610,select a preset
+1611,set color
+1612,internal transfer
+1613,device variable actuator action false
+1614,device variable actuator action true
+1615,mark all articles as read
+1616,mark folder as read
+1617,mark subscription as read
+1618,save web page
+1619,subscribe
+1620,save item
+1621,send a notification
+1622,ask question
+1623,glamo command
+1624,light toggle
+1625,lock key
+1626,mode change
+1627,unlock key
+1628,disable timer
+1629,enable timer
+1630,execute scene
+1631,sendMessage
+1632,card deck
+1633,play media preset on specified triby
+1634,play media url on specified triby
+1635,send a message to every triby
+1636,send a message to specified triby
+1637,send a silent message to every triby
+1638,send a silent message to specified triby
+1639,send an image to every triby
+1640,send an image to specified triby
+1641,start a call from specified triby
+1642,start a timer on specified triby
+1643,start an intercom call from specified triby
+1644,stop media playing on specified triby
+1645,light color
+1646,set brightness
+1647,create calendar event
+1648,log body mass
+1649,log calories consumed
+1650,log sleep
+1651,log workout
+1652,create photo ios photos
+1653,create reading list item
+1654,create reminder ios reminders
+1655,post a note
+1656,clean by room
+1657,dock robot
+1658,pause robot
+1659,start robot
+1660,stop robot
+1661,disable motion detection
+1662,enable motion detection
+1663,controal where the camera pointing
+1664,turn on alarm
+1665,SensorAction SmartSwitchToggle
+1666,SensorAction SmartSwitchTurnOff
+1667,SensorAction SmartSwitchTurnOn
+1668,SetSystemToAMode
+1669,give an alert
+1670,disable the device
+1671,enable the device
+1672,take photo
+1673,turn notifications off
+1674,turn notifications on
+1675,up new generic event
+1676,up new meal
+1677,up new mood
+1678,up new weight
+1679,change color temp
+1680,toggle a device
+1681,add products to shopping list
+1682,upload a device
+1683,lower temp
+1684,raise temp
+1685,animation
+1686,put to charger
+1687,move the device
+1688,create reminder
+1689,create todo
+1690,activate app
+1691,display time
+1692,send notification
+1693,notification sticky
+1694,pause stopwatch
+1695,pause timer
+1696,reset stopwatch
+1697,reset timer
+1698,set clockface
+1699,start radio
+1700,start stopwatch
+1701,start timer
+1702,stop radio
+1703,set light color
+1704,toggle light onoff
+1705,add photo to album
+1706,add video to album
+1707,turn bluebooth on
+1708,create memo
+1709,turn nfc on
+1710,turn wifi on
+1711,send a new message
+1712,arm system
+1713,execute rule
+1714,set auto thermostat setpoint
+1715,set dimmer
+1716,set thermostat setpoint
+1717,take snapshot
+1718,take video
+1719,turn off light
+1720,turn on light
+1721,make the slight breathe the color
+1722,start event
+1723,set radiator valve position middle
+1724,set radiator valve position left
+1725,set radiator valve position right
+1726,set radiator valve position up
+1727,set radiator valve position down
+1728,set radiator valve position front
+1729,set radiator valve position back
+1730,switch off electric
+1731,switch on electric
+1732,dim a light
+1733,fullylock light
+1734,lock light
+1735,switch off light
+1736,switch on light
+1737,unlock light
+1738,close relay
+1739,fullylock device
+1740,open relay
+1741,stop relay
+1742,switch off socket
+1743,switch on socket
+1744,AromaDiffuser PowerSwitch
+1745,Light Brightness
+1746,Light ColorTemperature
+1747,Light LightSwitch
+1748,Outlet PowerSwitch
+1749,create status update
+1750,share link linkedin
+1751,close shade
+1752,open shade
+1753,set percent
+1754,invoke pin
+1755,play playlist
+1756,play single media
+1757,turn off all devices
+1758,unmute device
+1759,deactivate output
+1760,show the output
+1761,set output
+1762,execute rule
+1763,add a photo to the poster
+1764,control device
+1765,blink Lights
+1766,brightness Control
+1767,change Color
+1768,change Color By Random
+1769,color Temperature Control
+1770,control Scene
+1771,turn Off Lights
+1772,turn On Color Loop
+1773,turn On Lights
+1774,set light level
+1775,set shade position
+1776,light blink using predefined pattern
+1777,solid color
+1778,play slideshow
+1779,send picture
+1780,stop playback
+1781,store file
+1782,arming an alarm system
+1783,disarming an alarm system
+1784,modify setpoint
+1785,run activity
+1786,set residence state
+1787,set setpoint at
+1788,Blink Lights
+1789,Change Brightness
+1790,Change Color
+1791,Change functions
+1792,Toggle light
+1793,add new subscriber
+1794,unsubscribe email address
+1795,make web request
+1796,disable motion emails
+1797,disable motion notif
+1798,enable motion emails
+1799,enable motion notif
+1800,set flashlight off
+1801,set flashlight on
+1802,set front camera
+1803,set image interval
+1804,set motion sensitivity
+1805,set multiple camera settings
+1806,set mute audio
+1807,set rear camera
+1808,set stills mode
+1809,set unmute audio
+1810,set video mode
+1811,image action private
+1812,predict flower
+1813,predict human action
+1814,predict indoor environment
+1815,predict jewelry
+1816,predict kitchen utensil
+1817,predict sunglasses
+1818,text action private
+1819,send app event
+1820,trigger scene
+1821,create a task
+1822,start cooling
+1823,start fanning
+1824,start heating
+1825,turn air conditioning off
+1826,print memo message
+1827,change color temperature
+1828,send events to specified app
+1829,send a voice message
+1830,send chat message
+1831,send sms message
+1832,scenario run
+1833,scenario status
+1834,scenario value
+1835,turn off switch
+1836,flash led and play sound
+1837,press button
+1838,push button
+1839,pull button
+1840,toggle button
+1841,push press button
+1842,push push button
+1843,push release button
+1844,push toggle button
+1845,thermostat set minor mode away
+1846,thermostat set minor mode away until
+1847,thermostat set minor mode hwb
+1848,thermostat set minor mode manual off
+1849,thermostat set minor mode manual on
+1850,thermostat set system mode fg
+1851,thermostat set system mode summer
+1852,thermostat set system mode winter
+1853,thermostat switch schedule
+1854,update weight
+1855,upload meal photos
+1856,irrigation allow
+1857,irrigation forbid
+1858,irrigation start
+1859,irrigation stop
+1860,mower active
+1861,notify whether rain
+1862,update cube
+1863,arm disarm security area
+1864,lock unlock
+1865,open close garage door
+1866,set thermostat
+1867,set variable
+1868,turn light on off dim
+1869,turn scene on off
+1870,turn switch on off
+1871,pot deposit
+1872,pot withdraw
+1873,box kick start
+1874,box start
+1875,box stop
+1876,go to volume
+1877,mute the player
+1878,play audio from url
+1879,play radio preset
+1880,recall home control scene
+1881,sound an alarm
+1882,speak notification
+1883,unmute the palyer
+1884,search for a track
+1885,brighten switch
+1886,dim switch
+1887,toggle room off
+1888,toggle room on
+1889,save to mycloud
+1890,plug Turn Off
+1891,plug Turn On
+1892,play scenario
+1893,security disabled
+1894,security partial
+1895,security total
+1896,change setpoint
+1897,sonos off
+1898,sonos on
+1899,execute predefined scene
+1900,activate antitheft
+1901,activate geofence
+1902,deactivate antitheft
+1903,deactivate geofence
+1904,radar update
+1905,report actions
+1906,report alarms
+1907,report charts
+1908,report communications
+1909,report consumers
+1910,report devices
+1911,report geofences
+1912,create file report
+1913,send file via email
+1914,report pauses
+1915,report point of interests
+1916,report tracks
+1917,upload track image by consumer
+1918,set home mode
+1919,change color request
+1920,color notification request
+1921,decrement percentage request
+1922,increment percentage request
+1923,set percentage request
+1924,turn off request
+1925,turn on request
+1926,turn on scene
+1927,submit an article
+1928,submit plain text
+1929,send infrared signal
+1930,turn on air conditioner
+1931,pause cleaning
+1932,resume cleaning
+1933,start cleaning
+1934,stop cleaning
+1935,activate overwork timer
+1936,set room temperature
+1937,set fan mode on
+1938,set temperature range
+1939,set home away
+1940,set person away
+1941,set point mode away
+1942,set point mode away until
+1943,set point mode hg
+1944,set point mode hg until
+1945,set point mode manual
+1946,set point mode off
+1947,set point mode program
+1948,switch schedule
+1949,add site
+1950,save story
+1951,share story
+1952,play a customizable light pattern
+1953,run automation system
+1954,turn dimmer off
+1955,turn dimmer on
+1956,turn switch off
+1957,turn switch on
+1958,boost hot water
+1959,boost ventilation
+1960,smart home mode away
+1961,smart home mode home
+1962,smart home mode vacation
+1963,select the night light color
+1964,set dial label
+1965,add note
+1966,run script
+1967,change scene
+1968,scene off
+1969,scene on
+1970,unlock the door and lock again after 20 seconds
+1971,create new calendar item
+1972,new contact
+1973,send email
+1974,device status change
+1975,add file from url onedrive
+1976,create page
+1977,create page with image
+1978,create page with url
+1979,send voice message
+1980,call a function on a device
+1981,publish an event to a device
+1982,generate beep sound
+1983,turn on led
+1984,vibrate the device
+1985,give a zap
+1986,control air conditioning
+1987,control TV
+1988,dim light
+1989,turn Off curtain 
+1990,turn On curtain
+1991,change tv channel
+1992,call my phone
+1993,add new bookmark
+1994,add private bookmark
+1995,add read later
+1996,add a pin
+1997,outlet off
+1998,outlet on
+1999,outlet toggle
+2000,set arm
+2001,set smart socket
+2002,start arm
+2003,stop arm
+2004,blink light
+2005,set config
+2006,set glow
+2007,read it later
+2008,push image
+2009,execute scene collection
+2010,turn off schedules
+2011,turn on schedules
+2012,add Image To Order
+2013,execute storyline
+2014,create new file
+2015,create new note
+2016,create new numerical basic
+2017,generate new photo
+2018,send message
+2019,send address
+2020,send link
+2021,send note
+2022,update device data
+2023,generate notification data
+2024,new transfer
+2025,save toward goal
+2026,perform app action
+2027,connect to the Internet address
+2028,append text to file
+2029,control camera recording
+2030,control device power
+2031,control music on device
+2032,download file from url
+2033,play music on device
+2034,change the usesr profile picture
+2035,add to list
+2036,add to spreadsheet
+2037,send channel message
+2038,seasonal adjustment
+2039,skip watering time
+2040,start watering time
+2041,stop watering
+2042,start program
+2043,stop all watering
+2044,send url to blogging
+2045,send url to bookmarking
+2046,send url to social
+2047,submit link reddit
+2048,submit text post reddit
+2049,add tasks
+2050,end focus time
+2051,highlights post
+2052,offline time post
+2053,start focus time
+2054,turn on an alarm
+2055,set up an alarm
+2056,close alarm
+2057,alert address
+2058,insert a record
+2059,post chatter file
+2060,post chatter link
+2061,post on chatter
+2062,adjust air conditioning mode
+2063,air conditioning power off
+2064,air conditioning power on
+2065,air purifier mode
+2066,air purifier power off
+2067,air purifier power on
+2068,robot cleaner cleaning
+2069,robot cleaner homing
+2070,room air conditioning mode
+2071,room air conditioning power off
+2072,room air conditioning power on
+2073,washer pause
+2074,washer ready
+2075,washer run
+2076,make the hub chirp
+2077,disable rfid
+2078,disarm all modes
+2079,disarm mode
+2080,enable rfid
+2081,start arming mode
+2082,turn off siren
+2083,turn on siren
+2084,save to computer
+2085,turn monitoring of entrance sensors on
+2086,drive device 
+2087,turn on the electroluminescent
+2088,turn on the magnetic switch
+2089,turn on a relay
+2090,light up led strip
+2091,light up led strip rainbow
+2092,toggle grove
+2093,change light color temperature
+2094,plug off
+2095,plug on
+2096,plug toggle
+2097,turn off lights
+2098,turn on lights
+2099,play a sound on the hub
+2100,turn air conditioner on
+2101,close smart lock
+2102,open smart lock
+2103,add file
+2104,create post from file
+2105,create post from url
+2106,create post with text
+2107,Add To Catalog
+2108,Add To Feed
+2109,alarm off
+2110,alarm on
+2111,set up mirror`s color temperature
+2112,timer off
+2113,timer on
+2114,post weibo with image
+2115,load layout
+2116,open web window
+2117,change led color
+2118,record 60s of video
+2119,turn indoor chime off
+2120,turn indoor chime on
+2121,water all zones
+2122,water specific zone
+2123,device off
+2124,device on
+2125,device toggle
+2126,garage door close
+2127,garage door open
+2128,garage door toggle
+2129,post a message
+2130,post to channel
+2131,arm away when no one in house
+2132,turn off plug
+2133,turn on plug
+2134,start shower
+2135,boil kettle
+2136,brew coffee
+2137,toggle light
+2138,activate alarm smartthings
+2139,deactivate alarm smartthings
+2140,lock smartthings
+2141,turn off smartthings
+2142,turn on smartthings
+2143,unlock smartthings
+2144,send me text
+2145,launch action group
+2146,control camera shutter
+2147,set security
+2148,sound siren
+2149,set heating mode
+2150,decrease volume
+2151,increase volume
+2152,next track
+2153,pause the playback
+2154,play favorite
+2155,play stream
+2156,previous track
+2157,resume the playback
+2158,unmute the player
+2159,upload track private
+2160,upload track public
+2161,move to preset point
+2162,take a snapshot and email
+2163,turn off alert
+2164,turn off night vision
+2165,turn off spotcam
+2166,turn on alert
+2167,turn on night vision
+2168,turn on spotcam
+2169,block all shared users
+2170,generate the sound
+2171,unblock all shared users
+2172,add a track to a playlist
+2173,save a track
+2174,send predefined signal
+2175,send set number signal
+2176,send trigger number signal
+2177,act alarm
+2178,act lights
+2179,act power
+2180,act scene
+2181,set mood
+2182,upload a photo
+2183,create an activity
+2184,run flow
+2185,add new contact
+2186,press bot
+2187,turn off bot
+2188,turn off remote
+2189,turn on bot
+2190,turn on remote
+2191,return to tado control
+2192,start auto mode
+2193,start drying
+2194,turn heating off
+2195,prepare hotwater
+2196,stop preparing hotwater
+2197,close all garage door
+2198,post locker room chat
+2199,upload team photo
+2200,play music
+2201,dim a device
+2202,send bell to a device
+2203,send down to a device
+2204,send up to a device
+2205,turn off a device
+2206,turn on a device
+2207,add product to basket
+2208,search and add
+2209,unpause thermostate
+2210,route request to switch
+2211,route request to raspberry pi
+2212,start new timer
+2213,start new timer for specific customer
+2214,stop all timers
+2215,stop timers for specific customer
+2216,intrusive message
+2217,key send
+2218,tune to channel
+2219,add task
+2220,activate shortcut
+2221,prioritize online activity
+2222,create card
+2223,create audio post from url
+2224,create link post
+2225,create photo post
+2226,create quote post
+2227,create text post
+2228,create video post
+2229,direct message yourself
+2230,post new tweet
+2231,post new tweet with image
+2232,update biography twitter
+2233,upload profile image twitter
+2234,push a voice announcement
+2235,upload data
+2236,switch schedule upload file
+2237,device action
+2238,turn device off
+2239,turn device on
+2240,call my device
+2241,switch all security off
+2242,switch all security on
+2243,switch security off
+2244,switch security on
+2245,publish blog post
+2246,air Purifer Mode Change
+2247,coffee Maker Brew Mode
+2248,dimmer Brightness Change Discrete
+2249,dimmer Off Discrete
+2250,dimmer On Discrete
+2251,dimmer Toggle Discrete
+2252,humidifier Humidity Change
+2253,humidifier Mode Change
+2254,INSIGHT OFF
+2255,insight Off On Discrete
+2256,insight On Discrete
+2257,insight Off Discrete
+2258,insight Toggle Discrete
+2259,turn Off Discrete
+2260,turn On off Discrete
+2261,turn On Discrete
+2262,turn On Off Discrete
+2263,turn Toggle Discrete
+2264,group led brightness change
+2265,group led sleep fader
+2266,group led turn Off
+2267,group led turn On
+2268,led brightness change
+2269,led sleep fader
+2270,led turn Off
+2271,led turn On
+2272,momentary multiple
+2273,switch momentary on
+2274,switch off on multiple
+2275,switch off on once
+2276,switch on off multiple
+2277,switch on off once
+2278,switch turn off
+2279,switch turn on
+2280,slow cooker Mode Change Discrete
+2281,slow cooker Set Mode Change Discrete
+2282,socket Off Discrete
+2283,socket Off On Discrete
+2284,socket On Discrete
+2285,socket On Off Discrete
+2286,socket Toggle Discrete
+2287,write in sphere
+2288,dryer last scheduled command
+2289,refrigerator set vacationmode
+2290,washer last scheduled command
+2291,post note
+2292,post photo
+2293,arm light
+2294,enable humidity monitoring on a tag
+2295,arm temperature monitoring
+2296,disarm light
+2297,disarm humidity monitoring
+2298,disarm temperature monitoring
+2299,light Off
+2300,light On
+2301,run app
+2302,stop Beep
+2303,set thermostats system mode
+2304,set thermostats temperature
+2305,smart plug
+2306,change mode
+2307,select light pulse
+2308,add an entry 
+2309,call your phone number to play mp3 audio file
+2310,call any phone number to play mp3 audio file
+2311,call your phone number to play text
+2312,call any phone number to play text
+2313,create photo post
+2314,create post
+2315,post to space
+2316,close push notice
+2317,open push notice
+2318,restart device
+2319,turn off alarm
+2320,turn on alarm
+2321,upload alarm video
+2322,beep beacon
+2323,transcribe song
+2324,change bright
+2325,toggle the light
+2326,set bright
+2327,set color temperature
+2328,send random thought of day
+2329,send nightly sleep report
+2330,wave switch off
+2331,wave switch on
+2332,lock close
+2333,lock open
+2334,set a dimmer level
+2335,thermostat mode auto
+2336,thermostat mode cool
+2337,thermostat mode heat
+2338,thermostat mode off

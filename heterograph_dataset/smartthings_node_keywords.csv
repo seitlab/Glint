@@ -1,0 +1,88 @@
+id,content
+0,switch on
+1,turn on light
+2,restore
+3,color Control
+4,fan on
+5,water Wet Handler
+6,lock
+7,Switch off
+8,lock lock
+9,heater
+10,switch On Handler
+11,motion active
+12,water Sensor
+13,pump on
+14,switch Level
+15,music Player
+16,the Switch off
+17,presence Sensor
+18,illuminance Measurement
+19,outlet on
+20,button
+21,motion Inactive Handler
+22,illuminance
+23,valve close
+24,camera on
+25,alarm off
+26,outlets on
+27,presence Handler
+28,bedroom Active
+29,presence
+30,lock on
+31,contact open
+32,mobile Presence
+33,coffeeMaker
+34,image Capture
+35,contact Open Handler
+36,Location Mode
+37,smoke Sensor
+38,outlet off
+39,acceleration Active Handler
+40,leakage
+41,outlets off
+42,light on
+43,motion Sensor
+44,send Sms
+45,location mode
+46,contact OpenHandler
+47,heat on
+48,window open
+49,temperature Measurement
+50,bathroom Active
+51,humindity
+52,humidity on
+53,relativeHumidity Measurement
+54,switch off
+55,handle Things
+56,send sms
+57,temperature
+58,thermostat
+59,humidity
+60,vent
+61,app touch
+62,light off
+63,motion
+64,humidity Handler
+65,touch Sensor
+66,humidit Handler
+67,relative Humidity Measurement
+68,window on
+69,water Handler
+70,alarm
+71,switch on
+72,smoke
+73,turn Off Switch
+74,coffee on
+75,acceleration Sensor
+76,air conditioner cold
+77,location Mode
+78,water wet
+79,lock unlock
+80,window off
+81,carbon Monoxide
+82,temperature Handler
+83,coffee Maker
+84,relative Humindity Measurement
+85,humidity off
+86,three Axis
