@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # input arguments
-DATA="${1-SMT}"
-device=${2-1}
+DATA="${1-Hetero}"
+device=${1-1}
 num_trials=${1-1}
 print_every=${1-1}
 
@@ -18,24 +18,26 @@ case ${DATA} in
 IFTTT)
   hidden_gxn=196
   graph_type="homogeneous"
-  num_epochs=1
+  num_epochs=100 # 1000 or larger for contrastive learning 
   learning_rate=0.0001
   sortpooling_k=31
   batch_size=64
   k1=0.8
   k2=0.5
   split_ratio=0.8
+  mode="classification"
   ;;
 SMT)
   hidden_gxn=196
   graph_type="homogeneous"
-  num_epochs=100
-  learning_rate=0.0003
+  num_epochs=500
+  learning_rate=0.0001
   sortpooling_k=31
   batch_size=64
   k1=0.8
   k2=0.5
-  split_ratio=0.9
+  split_ratio=0.8
+  mode="classification"
   ;;
 Hetero)
   hidden_gxn=128
@@ -43,11 +45,11 @@ Hetero)
   num_epochs=30
   learning_rate=0.0001
   sortpooling_k=32
-  batch_size=1
+  batch_size=8
   k1=0.7
   k2=0.5
   split_ratio=0.8
-  device=${2-6}
+  mode="classification"
   ;;
 esac
 
@@ -70,3 +72,4 @@ python main.py \
       --print_every $print_every\
       --graph_type $graph_type\
       --split_ratio $split_ratio\
+      --mode $mode\

@@ -47,9 +47,6 @@ class IFTTTGraphDataset(DGLDataset):
             # Create a graph and add it to the list of graphs and labels.
             g = dgl.graph((src, dst), num_nodes=num_nodes)
 
-            f1 = torch.Tensor([embedding_dict[str(i)] for i in src])
-            # f2 = np.array([embedding_dict[str(i)]] for i in dst)
-
             g.ndata['embedding'] = torch.zeros(g.num_nodes(), embedding_size)
             g.ndata['embedding'][src] = torch.Tensor([embedding_dict[str(i)] for i in src])
             g.ndata['embedding'][dst] = torch.Tensor([embedding_dict[str(i)] for i in dst])
@@ -60,8 +57,6 @@ class IFTTTGraphDataset(DGLDataset):
         # Convert the label list to tensor for saving.
         self.labels = torch.LongTensor(self.labels)
         graph_labels = {"glabel": self.labels}
-        # save_graphs("./ifttt_homo_graph_dataset.bin", self.graphs, graph_labels)
-        # print("save to ifttt_dataset.bin")
 
     def __getitem__(self, i):
         return self.graphs[i], self.labels[i]

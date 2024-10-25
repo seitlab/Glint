@@ -78,7 +78,6 @@ class HeteroGraphDataset(DGLDataset):
             num_nodes = num_nodes_dict[graph_id]
             ift2smt_data[graph_id]={('I', 'U', 'S'): (src, dst)}
 
-
         for graph_id in alx2smt_edge_group.groups:
             # Find the edges as well as the number of nodes and its label.
             edges_of_id = alx2smt_edge_group.get_group(graph_id)

@@ -104,6 +104,8 @@ def parse_args():
                         help="Specify Dataset Type")
     parser.add_argument("--split_ratio", type=str, default="0.8", 
                         help="Specify Dataset Split Ratio")
+    parser.add_argument("--mode", type=str, default="classification", 
+                        help="classification or contrastive representation learning")
     args = parser.parse_args()
 
     # default value for list hyper-parameters

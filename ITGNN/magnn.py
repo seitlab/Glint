@@ -1,24 +1,26 @@
-import dgl,torch
+import dgl
 import numpy as np
 import pandas as pd
-from typing import List, Tuple, Union, Optional
-from torch import Tensor
-from dgl import DGLGraph
-from dgl import function as fn
-from dgl.nn.functional import edge_softmax
 import torch as th
 import torch.nn as nn
-from dgl.nn import GraphConv
-from dgl.dataloading import GraphDataLoader
 import torch.nn.functional as F
+
+from torch import Tensor
+from dgl import DGLGraph
+from dgl.nn import GraphConv
+from dgl import function as fn
+from dgl.data.utils import load_graphs
+from dgl.nn.functional import edge_softmax
+from dgl.dataloading import GraphDataLoader
 from dgl.utils import expand_as_pair
+
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import f1_score
 from sklearn.svm import LinearSVC
 from operator import itemgetter
 from torch.utils.data.sampler import SubsetRandomSampler
 from sklearn.metrics import precision_recall_fscore_support
-from dgl.data.utils import load_graphs
+from typing import List, Tuple, Union, Optional
 
 class MAGNN_layer(nn.Module):
     def __init__(self, in_feats, inter_attn_feats, out_feats, num_heads, metapath_list,

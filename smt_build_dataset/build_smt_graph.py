@@ -46,9 +46,6 @@ class SMTGraphDataset(DGLDataset):
             # Create a graph and add it to the list of graphs and labels.
             g = dgl.graph((src, dst), num_nodes=num_nodes)
 
-            f1 = torch.Tensor([embedding_dict[str(i)] for i in src])
-            # f2 = np.array([embedding_dict[str(i)]] for i in dst)
-
             g.ndata['embedding'] = torch.zeros(g.num_nodes(), 300)
             g.ndata['embedding'][src] = torch.Tensor([embedding_dict[str(i)] for i in src])
             g.ndata['embedding'][dst] = torch.Tensor([embedding_dict[str(i)] for i in dst])

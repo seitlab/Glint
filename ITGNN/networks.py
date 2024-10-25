@@ -1,5 +1,4 @@
 import torch
-import numpy as np
 import dgl.function as fn
 import torch.nn.functional as F
 from dgl.nn.pytorch.glob import SortPooling
@@ -184,8 +183,6 @@ class GraphClassifier(torch.nn.Module):
         else:
             embed_feat, logits1, logits2 = self.gxn(graph, node_feat)
             batch_sortpool_feats = self.sortpool(graph, embed_feat)
-        # print(embed_feat.size(), "embed_feat.size()")
-        # print(batch_sortpool_feats.size(), "batch_sortpool_feats.size()")
         logits = self.lin1(batch_sortpool_feats)
-        # print(logits.size(), "logits,size()")
+
         return F.log_softmax(logits, dim=1), batch_sortpool_feats, logits1, logits2
